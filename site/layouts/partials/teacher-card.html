@@ -1,7 +1,7 @@
 {{/* Expects: . = a teacher page */}}
 <div class="bg-white border border-gray-200 rounded-lg overflow-hidden card-hover"
      data-center="{{ with .Params.centers }}{{ delimit . "," }}{{ end }}"
-     data-role="{{ with .Params.roles }}{{ delimit . "," }}{{ end }}">
+     data-role="{{ with .Params.role }}{{ . }}{{ end }}">
   <a href="{{ .Permalink }}" class="block">
     {{ with .Params.photo }}
     <img src="{{ . | absURL }}" alt="{{ $.Title }}" class="w-full h-48 object-cover">

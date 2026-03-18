@@ -43,7 +43,6 @@
       }
 
       if (noResults) {
-        noResults.style.display = visibleCount === 0 ? 'block' : 'none';
         noResults.classList.toggle('hidden', visibleCount > 0);
       }
     }
