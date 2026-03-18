@@ -1,11 +1,13 @@
 ---
 title: "Inquiry Into Spiritual Bypassing"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "11/16/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/inquiry-spiritual-bypassing"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/rPI1p9Rs-cMfXcsXK.html"
+description: "11/16/2014, Eijun Linda Ruth Cutts dharma talk at Tassajara."
 ---
 11/16/2014
 

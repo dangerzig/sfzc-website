@@ -1,11 +1,13 @@
 ---
 title: "The Joy of Meeting Reality Straight On"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "11/13/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/joy-meeting-reality-straight"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/KKA45NP9-cMfXcsXK.html"
+description: "11/13/2019, Kiku Christina Lehnherr, dharma talk at City Center."
 ---
 11/13/2019
 

@@ -2,10 +2,12 @@
 title: "Just Sitting as Radiance"
 speaker: "tenshin-reb-anderson"
 talk_date: "08/13/2023"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/just-sitting-radiance"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/XaUcxWJD-cMfXcsXK.html"
+description: "08/13/2023, Tenshin Reb Anderson, dharma talk at Green Gulch Farm. Senior Dharma Teacher Tenshin Reb Anderson illuminates Zen and why we sit. We are conversation; we are always in conversation."
 ---
 08/13/2023
 

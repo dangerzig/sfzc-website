@@ -1,11 +1,13 @@
 ---
 title: "In It For The Long Haul"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "07/06/2022"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/it-long-haul"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/5Njhrr7z-cMfXcsXK.html"
+description: "07/06/2022, Zenshin Greg Fain, dharma talk at Tassajara."
 ---
 07/06/2022
 

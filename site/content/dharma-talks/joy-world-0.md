@@ -1,11 +1,13 @@
 ---
 title: "Joy to the World"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "12/13/2015"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/joy-world-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/MqTCALGl-cMfXcsXK.html"
+description: "12/13/2015, Furyu Schroeder dharma talk at Green Gulch Farm."
 ---
 12/13/2015
 

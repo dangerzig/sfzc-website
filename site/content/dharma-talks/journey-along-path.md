@@ -1,11 +1,13 @@
 ---
 title: "A Journey Along The Path"
-speaker: ""
+speaker: "gendo-lucy-xiao-xuandao"
 talk_date: "07/03/2024"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/journey-along-path"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/ji8CYNac-cMfXcsXK.html"
+description: "07/03/2024, Gendo Lucy Xiao, dharma talk at Tassajara."
 ---
 07/03/2024
 

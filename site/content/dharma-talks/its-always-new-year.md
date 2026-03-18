@@ -1,11 +1,13 @@
 ---
 title: "It's Always New Year"
-speaker: ""
+speaker: "anshin-rosalie-curtis"
 talk_date: "01/02/2013"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/its-always-new-year"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/46RnWA6a-cMfXcsXK.html"
+description: "1/2/2013, Anshin Rosalie Curtis, dharma talk at City Center."
 ---
 01/02/2013
 

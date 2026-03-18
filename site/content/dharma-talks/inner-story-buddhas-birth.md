@@ -1,11 +1,13 @@
 ---
 title: "The Inner Story of Buddha's Birth"
-speaker: ""
+speaker: "abbot-tenzen-david-zimmerman"
 talk_date: "04/06/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/inner-story-buddhas-birth"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/DDRhXyYg-cMfXcsXK.html"
+description: "04/06/2019, Tenzen David Zimmerman dharma talk at City Center."
 ---
 04/06/2019
 

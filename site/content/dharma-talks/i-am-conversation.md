@@ -1,11 +1,13 @@
 ---
 title: "I Am a Conversation"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "06/11/2017"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/i-am-conversation"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/v107xjSP-cMfXcsXK.html"
+description: "6/11/2017, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 06/11/2017
 

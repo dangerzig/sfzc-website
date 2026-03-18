@@ -1,11 +1,13 @@
 ---
 title: "The Infinite Compassion Enters Reality"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "05/26/2013"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/infinite-compassion-enters-reality"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/G3DOCOj9-cMfXcsXK.html"
+description: "5/26/2013, Linda Cutts dharma talk at Green Gulch Farm."
 ---
 05/26/2013
 

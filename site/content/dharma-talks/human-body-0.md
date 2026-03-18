@@ -1,11 +1,13 @@
 ---
 title: "This Human Body"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "07/12/2025"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/human-body-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/iZbc79Un-cMfXcsXK.html"
+description: "07/12/2025, Kiku Christina Lehnherr, dharma talk at City Center.Kiku Christina Lehnherr explores the dharma of living and practicing in a human body."
 ---
 07/12/2025
 

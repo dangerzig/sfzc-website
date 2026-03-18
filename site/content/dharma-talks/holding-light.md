@@ -1,11 +1,13 @@
 ---
 title: "Holding in the Light"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "06/25/2023"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/holding-light"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/bqfKjTMU-cMfXcsXK.html"
+description: "06/25/2023, Furyu Schroeder, dharma talk at Green Gulch Farm. This talk is about radical kindness and warm hearted candor, freed from malice of any kind. Inspired by the conjoining of Zen and Quaker values."
 ---
 06/25/2023
 

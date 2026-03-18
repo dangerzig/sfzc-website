@@ -1,11 +1,13 @@
 ---
 title: "Journey to a Far-off Land"
-speaker: ""
+speaker: "sessei-meg-mcneil-levie"
 talk_date: "10/03/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/journey-far-land"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/kAMATE4X-cMfXcsXK.html"
+description: "10/3/2010, Meg Levie dharma talk at Green Gulch Farm."
 ---
 10/03/2010
 

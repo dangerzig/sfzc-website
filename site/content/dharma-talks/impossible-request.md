@@ -1,11 +1,13 @@
 ---
 title: "The Impossible Request"
-speaker: ""
+speaker: "marc-lesser"
 talk_date: "08/04/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/impossible-request"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/fRNkeOxc-cMfXcsXK.html"
+description: "8/4/2012, Marc Lesser dharma talk at Tassajara."
 ---
 08/04/2012
 

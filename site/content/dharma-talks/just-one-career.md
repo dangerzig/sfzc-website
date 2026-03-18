@@ -1,11 +1,13 @@
 ---
 title: "Just One Career"
-speaker: ""
+speaker: "marc-lesser"
 talk_date: "04/27/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/just-one-career"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/RAGIRCfY-cMfXcsXK.html"
+description: "4/27/2019, Marc Lesser dharma talk at City Center."
 ---
 04/27/2019
 

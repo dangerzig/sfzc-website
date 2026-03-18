@@ -1,11 +1,13 @@
 ---
 title: "An Inquiry Into Hope"
-speaker: ""
+speaker: "zesho-susan-oconnell"
 talk_date: "07/05/2009"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/inquiry-hope"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/F6HQ6yRn-cMfXcsXK.html"
+description: "7/5/2009, Zesho Susan O'Connell dharma talk at Green Gulch Farm."
 ---
 07/05/2009
 

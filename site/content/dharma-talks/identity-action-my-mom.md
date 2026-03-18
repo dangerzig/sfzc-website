@@ -1,11 +1,13 @@
 ---
 title: "Identity Action with My Mom"
-speaker: ""
+speaker: "shinchi-linda-galijan"
 talk_date: "06/13/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/identity-action-my-mom"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/J2LIwziW-cMfXcsXK.html"
+description: "6/13/2012, Linda Galijan dharma talk at Tassajara."
 ---
 06/13/2012
 

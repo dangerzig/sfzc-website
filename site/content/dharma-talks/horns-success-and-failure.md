@@ -1,11 +1,13 @@
 ---
 title: "Horns of Success and Failure"
-speaker: ""
+speaker: "shinki-mark-lancaster"
 talk_date: "01/05/2008"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/horns-success-and-failure"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/aPPn8fK3-cMfXcsXK.html"
+description: "1/5/2008, Mark Lancaster dharma talk at City Center."
 ---
 01/05/2008
 

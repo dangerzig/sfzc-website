@@ -1,11 +1,13 @@
 ---
 title: "Ignorance and Vow - New Friends"
-speaker: ""
+speaker: "shinchi-linda-galijan"
 talk_date: "03/01/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/ignorance-and-vow-new-friends"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/Fw2bm0dZ-cMfXcsXK.html"
+description: "3/1/2016, Linda Galijan dharma talk at Tassajara."
 ---
 03/01/2016
 

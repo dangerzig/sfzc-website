@@ -1,11 +1,13 @@
 ---
 title: "The Hindrance of Desire"
-speaker: ""
+speaker: "keiryu-lien-shutt"
 talk_date: "06/22/2013"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/hindrance-desire"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/FVPNjlym-cMfXcsXK.html"
+description: "6/22/2013, Keiryu Lien Shutt dharma talk at City Center."
 ---
 06/22/2013
 

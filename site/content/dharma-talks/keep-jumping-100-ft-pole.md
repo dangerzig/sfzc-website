@@ -1,11 +1,13 @@
 ---
 title: "Keep Jumping Off The 100 ft Pole"
-speaker: ""
+speaker: "shinchi-linda-galijan"
 talk_date: "04/22/2022"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/keep-jumping-100-ft-pole"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/sgRtHxm9-cMfXcsXK.html"
+description: "04/22/2022, Shinchi Linda Galijan, dharma talk at Tassajara."
 ---
 04/22/2022
 

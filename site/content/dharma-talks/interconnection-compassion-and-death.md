@@ -1,11 +1,13 @@
 ---
 title: "Interconnection, Compassion, and Death"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "06/27/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/interconnection-compassion-and-death"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/kufLhq96-cMfXcsXK.html"
+description: "6/27/2010, Steve Weintraub dharma talk at Green Gulch Farm."
 ---
 06/27/2010
 

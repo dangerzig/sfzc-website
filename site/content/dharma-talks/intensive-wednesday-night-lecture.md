@@ -1,11 +1,13 @@
 ---
 title: "Intensive, Wednesday Night Lecture"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "07/20/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/intensive-wednesday-night-lecture"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/WfzFNycS-cMfXcsXK.html"
+description: "7/20/2011, Ryushin Paul Haller dharma talk at City Center."
 ---
 07/20/2011
 

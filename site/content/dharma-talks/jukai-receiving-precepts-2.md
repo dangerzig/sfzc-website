@@ -1,11 +1,13 @@
 ---
 title: "Jukai - Receiving the Precepts"
-speaker: ""
+speaker: "jisan-tova-green"
 talk_date: "01/22/2022"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/jukai-receiving-precepts-2"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/UzHi5oqs-cMfXcsXK.html"
+description: "A dharma talk on the day of a jukai ceremony, exploring vow and the 16 Bodhisattva precepts.01/22/2022, Kyoshin Wendy Lewis, Jisan Tova Green, Anshi Zachary Smith, dharma talk at City Center."
 ---
 01/22/2022
 

@@ -1,11 +1,13 @@
 ---
 title: "Jewel Mirror Samadhi"
-speaker: ""
+speaker: "kokyo-henkel"
 talk_date: "03/02/2025"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/jewel-mirror-samadhi-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/cfDaJwDe-cMfXcsXK.html"
+description: "03/02/2025, Kokyo Henkel, dharma talk at Green Gulch Farm.An introduction to this ancient Zen poem that is often recited at SF Zen Center and Soto Zen temples around the world. The metaphor of a mirror and its reflections to clarify buddha-nature and the world of experience is offered by the Buddha "
 ---
 03/02/2025
 
