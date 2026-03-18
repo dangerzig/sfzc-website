@@ -1,5 +1,6 @@
 ---
 title: "Farm & Garden Programs"
+image: "images/pages/tasja-keetman_green-gulch.sam-morning-backlight_CROPPED_webOptimized.jpg"
 
 ---
 Situated on the coast of Marin, on an inholding of the Golden Gate National Recreation Area, Green Gulch Farm includes seven acres of certified organic mixed vegetable fields, fruit trees, and flower gardens, all of which are open to visitors year-round. Tended by Zen students for 40 years, the deep, fertile clay loam soil, combined with mild summers and coastal fog, create the ideal conditions for many cool weather crops and ornamentals.

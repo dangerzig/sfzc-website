@@ -1,5 +1,6 @@
 ---
 title: "Daily Schedule at Green Gulch"
+image: "images/pages/GGF_Zendo_Meditation_and_Practice_toutTile_MargoMoritz.jpg"
 aliases:
   - "/practice-centers/green-gulch-farm/zen-meditation-practice-green-gulch/daily-schedule-green-gulch"
 ---

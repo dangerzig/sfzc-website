@@ -1,5 +1,6 @@
 ---
 title: "Contact City Center"
+image: "images/pages/Contact-toutTile_moritz_0.jpg"
 aliases:
   - "/practice-centers/city-center/contact-city-center"
 ---

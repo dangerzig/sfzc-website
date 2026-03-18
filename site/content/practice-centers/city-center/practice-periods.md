@@ -1,5 +1,6 @@
 ---
 title: "Practice Periods & Intensives at City Center"
+image: "images/pages/AprilJukai-35_optimized.jpg"
 aliases:
   - "/practice-centers/city-center/zen-meditation-practice-city-center/practice-periods-intensives-city"
 ---
