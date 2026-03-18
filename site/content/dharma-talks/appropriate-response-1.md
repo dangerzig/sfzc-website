@@ -1,11 +1,13 @@
 ---
 title: "An Appropriate Response"
-speaker: ""
+speaker: "jisan-tova-green"
 talk_date: "09/16/2020"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/appropriate-response-1"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/0uYASO4B-cMfXcsXK.html"
+description: "Love is all around.09/16/2020, Jisan Tova Green, dharma talk at City Center."
 ---
 09/16/2020
 

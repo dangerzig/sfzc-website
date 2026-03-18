@@ -1,11 +1,13 @@
 ---
 title: "Are You Able To Say Something?"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "12/14/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/are-you-able-say-something"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/jrLIVjKq-cMfXcsXK.html"
+description: "12/14/2016, Eijun Linda Ruth Cutts dharma talk at Tassajara."
 ---
 12/14/2016
 

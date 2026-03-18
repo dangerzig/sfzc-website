@@ -1,11 +1,13 @@
 ---
 title: "Anything Is Possible"
-speaker: ""
+speaker: "do-robert-thomas"
 talk_date: "07/17/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/anything-possible"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/6DYLmGNj-cMfXcsXK.html"
+description: "7/17/2010, Robert Thomas dharma talk at Tassajara."
 ---
 07/17/2010
 

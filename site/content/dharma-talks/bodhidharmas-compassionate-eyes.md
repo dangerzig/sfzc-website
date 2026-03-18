@@ -1,11 +1,13 @@
 ---
 title: "Bodhidharma's Compassionate Eyes"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "03/31/2013"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/bodhidharmas-compassionate-eyes"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/YauaMmZQ-cMfXcsXK.html"
+description: "3/31/2013, Linda Cutts, dharma talk at Green Gulch Farm."
 ---
 03/31/2013
 

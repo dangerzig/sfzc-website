@@ -1,11 +1,13 @@
 ---
 title: "An Antidote for Mistaken Beliefs"
-speaker: ""
+speaker: "marc-lesser"
 talk_date: "03/11/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/antidote-mistaken-beliefs"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/kRsJyzve-cMfXcsXK.html"
+description: "3/11/2017, Marc Lesser dharma talk at City Center."
 ---
 03/11/2017
 

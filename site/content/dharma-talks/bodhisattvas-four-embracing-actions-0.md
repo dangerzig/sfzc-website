@@ -1,11 +1,13 @@
 ---
 title: "The Bodhisattva’s Four Embracing Actions"
-speaker: ""
+speaker: "abbot-tenzen-david-zimmerman"
 talk_date: "07/20/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/bodhisattvas-four-embracing-actions-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/oHbv24Gp-cMfXcsXK.html"
+description: "07/20/2024, Tenzen David Zimmerman, dharma talk at City Center.This talk was given at one of Beginner's Mind Temple’s pop-up events at Unity Church, by Central Abbot Tenzen David Zimmerman. Dogen Zenji’s beautiful and inspiring essay “Bodaisatta Shishobo” addresses four central practices of a bodhis"
 ---
 07/20/2024
 

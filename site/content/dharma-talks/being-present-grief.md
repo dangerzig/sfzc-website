@@ -1,11 +1,13 @@
 ---
 title: "Being Present with Grief"
-speaker: ""
+speaker: "jisan-tova-green"
 talk_date: "04/08/2020"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/being-present-grief"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/F63t020g-cMfXcsXK.html"
+description: "04/08/2020, Jisan Tova Green, dharma talk at City Center."
 ---
 04/08/2020
 

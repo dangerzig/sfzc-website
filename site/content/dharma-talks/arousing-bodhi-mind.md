@@ -1,11 +1,13 @@
 ---
 title: "Arousing The Bodhi-Mind"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "01/19/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/arousing-bodhi-mind"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/T0k1nplT-cMfXcsXK.html"
+description: "1/19/2018, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 01/19/2018
 

@@ -1,11 +1,13 @@
 ---
 title: "Air, Earth, Fire, Water"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "07/23/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/air-earth-fire-water"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/KIlnEbwl-cMfXcsXK.html"
+description: "7/23/2011, Sojun Mel Weitsman dharma talk at Tassajara."
 ---
 07/23/2011
 

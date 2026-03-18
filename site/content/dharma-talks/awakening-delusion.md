@@ -1,11 +1,13 @@
 ---
 title: "Awakening to Delusion"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "12/01/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/awakening-delusion"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/wWOH8qic-cMfXcsXK.html"
+description: "12/1/2010, Shosan Victoria Austin dharma talk at City Center."
 ---
 12/01/2010
 

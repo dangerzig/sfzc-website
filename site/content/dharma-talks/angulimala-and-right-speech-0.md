@@ -1,11 +1,13 @@
 ---
 title: "Angulimala and Right Speech"
-speaker: ""
+speaker: "tenku-ruff"
 talk_date: "07/31/2021"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/angulimala-and-right-speech-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/b5KEEWl4-cMfXcsXK.html"
+description: "In this dharma talk Tenku Ruff explores the precept of right speech particularly what it means to practice in community/Sangha and the habit of assigning permanent status to our faults and those of others. How do we work with what each of us have on our plates with love and compassion?07/31/2021, Te"
 ---
 07/31/2021
 

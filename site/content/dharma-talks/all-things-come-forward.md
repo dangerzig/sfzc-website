@@ -1,11 +1,13 @@
 ---
 title: "All Things Come Forward"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "08/05/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/all-things-come-forward"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/q5JJl1WY-cMfXcsXK.html"
+description: "8/5/2015, Leslie James dharma talk at Tassajara."
 ---
 08/05/2015
 

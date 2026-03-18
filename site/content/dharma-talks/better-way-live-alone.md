@@ -1,11 +1,13 @@
 ---
 title: "The Better Way to Live Alone"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "03/22/2020"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/better-way-live-alone"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/u9jt2lP5-cMfXcsXK.html"
+description: "03/22/2020, Fu Schroeder, dharma talk at Green Gulch Farm."
 ---
 03/22/2020
 

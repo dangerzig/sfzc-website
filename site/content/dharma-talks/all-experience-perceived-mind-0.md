@@ -1,11 +1,13 @@
 ---
 title: "All Experience Is Perceived By Mind"
-speaker: ""
+speaker: "zenju-earthlyn-manuel-osho"
 talk_date: "09/18/2022"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/all-experience-perceived-mind-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/tvDclRF4-cMfXcsXK.html"
+description: "09/18/2022, Zenju Earthlyn Manuel, dharma talk at Green Gulch Farm.Zazen can be a portal to opening the mind that perceives all things, even the trouble we are experiencing in the world today. The poet Rumi wrote, \"I have lived on the lip of insanity, wanting to know reasons, knocking on a door. It"
 ---
 09/18/2022
 

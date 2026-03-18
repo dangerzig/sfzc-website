@@ -1,11 +1,13 @@
 ---
 title: "Breaking the Staff"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "08/19/2015"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/breaking-staff"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/uOteFfah-cMfXcsXK.html"
+description: "8/19/2015, Rinso Ed Sattizahn dharma talk at City Center."
 ---
 08/19/2015
 

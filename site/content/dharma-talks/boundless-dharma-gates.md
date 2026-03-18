@@ -1,11 +1,13 @@
 ---
 title: "Boundless Dharma Gates"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "06/09/2019"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/boundless-dharma-gates"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/HhCaa8UM-cMfXcsXK.html"
+description: "06/09/2019, Steve Weintraub, dharma talk at Green Gulch Farm."
 ---
 06/09/2019
 

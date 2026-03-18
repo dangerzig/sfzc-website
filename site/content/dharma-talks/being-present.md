@@ -1,11 +1,13 @@
 ---
 title: "Being Present"
-speaker: ""
+speaker: "ingen-breen"
 talk_date: "06/13/2009"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/being-present"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/Z0wDTG1c-cMfXcsXK.html"
+description: "6/13/2009, Ingen Breen dharma talk at Tassajara."
 ---
 06/13/2009
 

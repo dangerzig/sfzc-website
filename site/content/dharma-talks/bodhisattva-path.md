@@ -1,11 +1,13 @@
 ---
 title: "The Bodhisattva Path"
-speaker: ""
+speaker: "do-robert-thomas"
 talk_date: "05/15/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/bodhisattva-path"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/UK1oOsNO-cMfXcsXK.html"
+description: "5/15/2013, Do-on Robert Thomas dharma talk at Tassajara."
 ---
 05/15/2013
 

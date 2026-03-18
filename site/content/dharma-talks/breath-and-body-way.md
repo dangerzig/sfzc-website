@@ -1,11 +1,13 @@
 ---
 title: "Breath and Body of The Way"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "01/22/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/breath-and-body-way"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/hHVZEypj-cMfXcsXK.html"
+description: "1/22/2013, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 01/22/2013
 

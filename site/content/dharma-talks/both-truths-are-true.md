@@ -1,11 +1,13 @@
 ---
 title: "Both Truths Are True"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "09/19/2021"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/both-truths-are-true"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/kOvdxsqm-cMfXcsXK.html"
+description: "A talk about our Zen’s Chinese ancestors based in Suzuki Roshi’s teaching on Sekito Kisen’s Harmony of Difference and Equality. 09/19/2021, Furyu Schroeder, dharma talk at Green Gulch Farm."
 ---
 09/19/2021
 

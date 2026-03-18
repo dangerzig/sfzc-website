@@ -1,11 +1,13 @@
 ---
 title: "Arbor Day"
-speaker: ""
+speaker: "wendy-johnson"
 talk_date: "02/26/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/arbor-day-1"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/d1mcBphO-cMfXcsXK.html"
+description: "2/26/2012, Wendy Johnson dharma talk at Green Gulch Farm."
 ---
 02/26/2012
 

@@ -1,11 +1,13 @@
 ---
 title: "The Ancestors' Teaching of No Gaining Idea"
-speaker: "eijun-cutts"
+speaker: "eijun-linda-cutts"
 talk_date: "03/20/2022"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/ancestors-teaching-no-gaining-idea"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/Lbbo8gBU-cMfXcsXK.html"
+description: "Senior Dharma Teacher Eijun Cutts shares and reflects on teachings from Shakyamuni Buddha, Bodhidharma, Dōgen Zenji, and Suzuki Roshi that the key to practice is \"no gaining idea.\" 03/20/2022, Eijun Linda Cutts, dharma talk at Green Gulch Farm."
 ---
 03/20/2022
 

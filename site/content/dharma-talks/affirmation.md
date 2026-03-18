@@ -1,11 +1,13 @@
 ---
 title: "Affirmation"
-speaker: ""
+speaker: "rev-dr-daijaku-judith-kinst"
 talk_date: "07/30/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/affirmation"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/2P8clBnG-cMfXcsXK.html"
+description: "7/30/2011, Daijaku Kinst dharma talk at Tassajara."
 ---
 07/30/2011
 

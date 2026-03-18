@@ -1,11 +1,13 @@
 ---
 title: "Being Beloved Community in a Time of Polarization"
-speaker: ""
+speaker: "rhonda-v-magee"
 talk_date: "01/14/2023"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/being-beloved-community-time-polarization"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/VZQs7zTX-cMfXcsXK.html"
+description: "01/14/2023, Rhonda Magee, dharma talk at City Center. In this talk, Hoshi Rhonda Myozen Magee reflects on the concept of Beloved Community through the lens of those who have breathed life and meaning into the concept over the past century. In the spirit of contemplative reflection and deep listening"
 ---
 01/14/2023
 

@@ -1,11 +1,13 @@
 ---
 title: "The Alchemy of Bliss-Bestowing Hands"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "03/29/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/alchemy-bliss-bestowing-hands"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/xsF54xzo-cMfXcsXK.html"
+description: "3/29/2011, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 03/29/2011
 

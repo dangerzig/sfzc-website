@@ -1,11 +1,13 @@
 ---
 title: "Autumn, Impermanence and Issas Haiku"
-speaker: ""
+speaker: "daigan-lueck"
 talk_date: "09/21/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/autumn-impermanence-and-issas-haiku"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/eKfJ2Zfb-cMfXcsXK.html"
+description: "9/21/2008, Daigan Lueck dharma talk at Green Gulch Farm."
 ---
 09/21/2008
 

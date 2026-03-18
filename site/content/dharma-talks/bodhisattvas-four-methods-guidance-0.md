@@ -1,11 +1,13 @@
 ---
 title: "The Bodhisattva's Four Methods Of Guidance"
-speaker: ""
+speaker: "wendy-johnson"
 talk_date: "02/12/2017"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/bodhisattvas-four-methods-guidance-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/5Y2WHxpd-cMfXcsXK.html"
+description: "02/12/2017, Wendy Johnson, dharma talk at Green Gulch Farm."
 ---
 02/12/2017
 

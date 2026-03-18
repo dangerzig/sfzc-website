@@ -1,11 +1,13 @@
 ---
 title: "Because of the Singing Birds"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "06/24/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/because-singing-birds"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/4Ir2AxyF-cMfXcsXK.html"
+description: "6/24/2012, Steve Weintraub dharma talk at Green Gulch Farm."
 ---
 06/24/2012
 

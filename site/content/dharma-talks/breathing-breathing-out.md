@@ -1,11 +1,13 @@
 ---
 title: "Breathing In, Breathing Out"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "10/23/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/breathing-breathing-out"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/9d7nHmeN-cMfXcsXK.html"
+description: "10/23/2010, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 10/23/2010
 

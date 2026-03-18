@@ -1,11 +1,13 @@
 ---
 title: "Absolute Refuge"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "02/24/2013"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/absolute-refuge"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/w6wklBho-cMfXcsXK.html"
+description: "2/24/2013, Jiryu Mark Rutschman Byler dharma talk at Green Gulch Farm."
 ---
 02/24/2013
 

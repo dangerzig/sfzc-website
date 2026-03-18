@@ -1,11 +1,13 @@
 ---
 title: "Approaching Difficult Situations"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "06/20/2007"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/approaching-difficult-situations"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/l8JFxSRJ-cMfXcsXK.html"
+description: "6/20/2007, Christina Lehnherr dharma talk at City Center."
 ---
 06/20/2007
 

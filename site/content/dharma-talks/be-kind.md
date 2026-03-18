@@ -1,11 +1,13 @@
 ---
 title: "Be Kind"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "12/13/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/be-kind"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/wlJU1MjP-cMfXcsXK.html"
+description: "12/13/2013, Kiku Christina Lehnherr dharma talk at Tassajara."
 ---
 12/13/2013
 

@@ -1,11 +1,13 @@
 ---
 title: "Alone Together"
-speaker: ""
+speaker: "ango-sara-tashker"
 talk_date: "12/02/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/alone-together"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/ZA8rYydu-cMfXcsXK.html"
+description: "12/02/2018, Sara Tashker, dharma talk at Green Gulch Farm."
 ---
 12/02/2018
 

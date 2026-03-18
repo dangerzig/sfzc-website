@@ -1,11 +1,13 @@
 ---
 title: "Awareness Found Me"
-speaker: ""
+speaker: "keido-keith-baker"
 talk_date: "11/13/2013"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/awareness-found-me"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/wi85tKGn-cMfXcsXK.html"
+description: "11/13/2013, Keido Keith Baker dharma talk at City Center."
 ---
 11/13/2013
 

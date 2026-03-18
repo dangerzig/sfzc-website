@@ -1,11 +1,13 @@
 ---
 title: "An Appropriate Response"
-speaker: ""
+speaker: "lee-klinger-lesser"
 talk_date: "07/20/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/appropriate-response"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/rSzgjO8X-cMfXcsXK.html"
+description: "7/20/2011, Lee Lesser dharma talk at Tassajara."
 ---
 07/20/2011
 

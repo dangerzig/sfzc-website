@@ -1,11 +1,13 @@
 ---
 title: "An Appropriate Response"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "03/12/2017"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/appropriate-response-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/2F5iuBBd-cMfXcsXK.html"
+description: "03/12/2017, Furyu Schroeder, dharma talk at Green Gulch Farm."
 ---
 03/12/2017
 

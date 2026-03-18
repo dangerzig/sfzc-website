@@ -1,11 +1,13 @@
 ---
 title: "Bodhisattva Practice and the Delegation to Colombia"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "06/17/2007"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/bodhisattva-practice-and-delegation-colombia"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/O7JDuZhJ-cMfXcsXK.html"
+description: "6/17/2007, Jiko Linda Cutts dharma talk at Green Gulch Farm."
 ---
 06/17/2007
 

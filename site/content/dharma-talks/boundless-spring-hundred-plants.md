@@ -1,11 +1,13 @@
 ---
 title: "The Boundless Spring on the Hundred Plants"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "03/04/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/boundless-spring-hundred-plants"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/XGwCs8pN-cMfXcsXK.html"
+description: "3/4/2017, Eijun Linda Ruth Cutts dharma talk at City Center."
 ---
 03/04/2017
 

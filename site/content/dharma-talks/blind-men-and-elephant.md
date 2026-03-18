@@ -1,11 +1,13 @@
 ---
 title: "The Blind Men and the Elephant"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "03/24/2013"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/blind-men-and-elephant"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/KOLXTttP-cMfXcsXK.html"
+description: "3/24/2013, Furyu Schroeder dharma talk at Green Gulch Farm."
 ---
 03/24/2013
 

@@ -1,11 +1,13 @@
 ---
 title: "Breakthroughs"
-speaker: ""
+speaker: "marc-lesser"
 talk_date: "04/12/2015"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/breakthroughs-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/kny21t5m-cMfXcsXK.html"
+description: "4/12/2015, Marc Lesser dharma talk at Green Gulch Farm."
 ---
 04/12/2015
 
