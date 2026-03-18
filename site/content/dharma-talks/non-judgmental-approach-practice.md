@@ -1,11 +1,13 @@
 ---
 title: "Non-Judgmental Approach to Practice"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "10/21/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/non-judgmental-approach-practice"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/06kASi7o-cMfXcsXK.html"
+description: "10/21/2015, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 10/21/2015
 

@@ -1,11 +1,13 @@
 ---
 title: "Meeting Our Lives with Composure"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "02/14/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/meeting-our-lives-composure"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/xbKZ7Kmy-cMfXcsXK.html"
+description: "2/14/2010, Steve Weintraub dharma talk at Green Gulch Farm."
 ---
 02/14/2010
 

@@ -1,11 +1,13 @@
 ---
 title: "This Is Not a Doomsday Talk"
-speaker: ""
+speaker: "wendy-johnson"
 talk_date: "06/24/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/not-doomsday-talk"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/MFzzUXow-cMfXcsXK.html"
+description: "6/24/2012, Wendy Johnson and Annie Somerville, dharma talk at Tassajara."
 ---
 06/24/2012
 

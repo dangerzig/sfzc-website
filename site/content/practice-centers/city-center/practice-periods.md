@@ -16,6 +16,6 @@ A Practice Period is a traditional training period common in the schools of Budd
 
 Monday, Apr 27, 2026
 
-| [Start Time](?order=field_dates_1&sort=asc "sort by Start Time") | [Location](?order=field_practice_center&sort=asc "sort by Location") | [Event](?order=title&sort=asc "sort by Event") |
+| Start Time | Location | Event |
 | --- | --- | --- |
 | 07:15 PM | City Center | [City Center Spring 2026 Practice Period: Nothing Lacking, Continuous Practice, Residential 4/27–5/30](https://www.sfzc.org/calendar/events/city-center/city-center-spring-2026-practice-period-nothing-lacking-continuous) |

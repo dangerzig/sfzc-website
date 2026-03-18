@@ -1,11 +1,13 @@
 ---
 title: "The Nature of Mind"
-speaker: ""
+speaker: "ven-robina-courtin"
 talk_date: "11/12/2015"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/nature-mind"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/Hbu6qPXr-cMfXcsXK.html"
+description: "11/12/2015, Ven. Robina Courtin dharma talk at City Center."
 ---
 11/12/2015
 

@@ -1,11 +1,13 @@
 ---
 title: "A New Path into Ancient Land"
-speaker: ""
+speaker: "wendy-johnson"
 talk_date: "02/13/2011"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/new-path-ancient-land"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/N9WQTg11-cMfXcsXK.html"
+description: "2/13/2011, Wendy Johnson dharma talk at Green Gulch Farm."
 ---
 02/13/2011
 

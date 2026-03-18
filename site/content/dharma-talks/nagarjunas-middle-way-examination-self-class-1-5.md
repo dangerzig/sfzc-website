@@ -1,11 +1,13 @@
 ---
 title: "Nagarjuna's Middle Way: Examination of the Self - Class 1 of 5"
-speaker: ""
+speaker: "kokyo-henkel"
 talk_date: "07/09/2007"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/nagarjunas-middle-way-examination-self-class-1-5"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/eDLPV8tN-cMfXcsXK.html"
+description: "07/09/2007, Kokyo Henkel, class at Green Gulch Farm.The Santa Cruz Zen Center teacher gives a 5-week class in the teachings of this ancient and seminal Buddhist teaching."
 ---
 07/09/2007
 

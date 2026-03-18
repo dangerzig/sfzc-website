@@ -1,11 +1,13 @@
 ---
 title: "Mindfulness of Feelings through the Body"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "03/31/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/mindfulness-feelings-through-body"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/PmradEkC-cMfXcsXK.html"
+description: "3/31/2012, Shosan Victoria Austin dharma talk at City Center."
 ---
 03/31/2012
 

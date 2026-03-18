@@ -1,11 +1,13 @@
 ---
 title: "Murakami's Dharma"
-speaker: ""
+speaker: "zoketsu-norman-fischer"
 talk_date: "05/23/2020"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/murakamis-dharma"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/fLYZ6Ewp-cMfXcsXK.html"
+description: "05/23/2020, Zoketsu Norman Fischer, Dharma Talk at City Center."
 ---
 05/23/2020
 

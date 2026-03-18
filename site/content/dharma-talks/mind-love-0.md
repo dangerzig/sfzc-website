@@ -1,11 +1,13 @@
 ---
 title: "The Mind Of Love"
-speaker: ""
+speaker: "peggy-rowe-ward"
 talk_date: "03/12/2022"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/mind-love-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/cVvTM5vG-cMfXcsXK.html"
+description: "On the 49th day of Thich Nhat Hanh's passing, Peggy Ward, senior Dharma teacher in his Buddhist Plum Village tradition, reflects on vow and the refuges.03/12/2022, Peggy Rowe Ward, dharma talk at City Center."
 ---
 03/12/2022
 

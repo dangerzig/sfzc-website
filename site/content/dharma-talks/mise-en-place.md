@@ -1,11 +1,13 @@
 ---
 title: "Mise En Place"
-speaker: ""
+speaker: "sozan-michael-mccord"
 talk_date: "01/13/2021"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/mise-en-place"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/e6qf1ByG-cMfXcsXK.html"
+description: "An encouragement to support ourselves through tumultuous times.01/13/2021, Sozan Michael McCord, dharma talk at City Center."
 ---
 01/13/2021
 

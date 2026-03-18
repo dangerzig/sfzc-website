@@ -1,11 +1,13 @@
 ---
 title: "No Hindrance, No Fear"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "02/16/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/no-hindrance-no-fear-1"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/CX6IuCj3-cMfXcsXK.html"
+description: "2/16/2015, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 02/16/2015
 

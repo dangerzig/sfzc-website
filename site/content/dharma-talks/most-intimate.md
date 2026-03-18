@@ -1,11 +1,13 @@
 ---
 title: "Most Intimate"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "06/18/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/most-intimate"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/oG9PcvDi-cMfXcsXK.html"
+description: "6/18/2014, Rinso Ed Sattizahn dharma talk at Tassajara."
 ---
 06/18/2014
 

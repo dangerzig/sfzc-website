@@ -1,11 +1,13 @@
 ---
 title: "New Years retreat 2014-15: The Four Noble Truths"
-speaker: ""
+speaker: "yo-jeremy-levie"
 talk_date: "12/28/2014"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/new-years-retreat-2014-15-four-noble-truths"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/rBTNBIjJ-cMfXcsXK.html"
+description: "12/28/2014, Yo on Jeremy Levie dharma talk at Green Gulch Farm."
 ---
 12/28/2014
 

@@ -1,11 +1,13 @@
 ---
 title: "Memorial Day"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "05/24/2015"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/memorial-day"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/xBwTbIPZ-cMfXcsXK.html"
+description: "05/24/2015, Furyu Schroeder, dharma talk at Green Gulch Farm."
 ---
 05/24/2015
 

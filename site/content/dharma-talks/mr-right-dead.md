@@ -1,11 +1,13 @@
 ---
 title: "Mr. Right is Dead"
-speaker: ""
+speaker: "heather-shoren-iarusso"
 talk_date: "11/12/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/mr-right-dead"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/WM744Jfu-cMfXcsXK.html"
+description: "11/12/2018, Heather Iarusso dharma talk at Tassajara."
 ---
 11/12/2018
 

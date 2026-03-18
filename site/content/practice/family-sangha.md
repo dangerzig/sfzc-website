@@ -25,49 +25,49 @@ The SFZC Family Sangha welcomes multi-generational families, parents, caregivers
 
 Sunday, Apr 19, 2026
 
-| [Start Time](?order=field_dates_1&sort=asc "sort by Start Time") | [Location](?order=field_practice_center&sort=asc "sort by Location") | [Event](?order=title&sort=asc "sort by Event") |
+| Start Time | Location | Event |
 | --- | --- | --- |
 | 09:45 AM | Green Gulch Farm | [A Special Morning with the SFZC Family Sangha, GGF 4/19](https://www.sfzc.org/calendar/events/green-gulch-farm/special-morning-sfzc-family-sangha-ggf-419) |
 
 Sunday, May 24, 2026
 
-| [Start Time](?order=field_dates_1&sort=asc "sort by Start Time") | [Location](?order=field_practice_center&sort=asc "sort by Location") | [Event](?order=title&sort=asc "sort by Event") |
+| Start Time | Location | Event |
 | --- | --- | --- |
 | 10:00 AM | Green Gulch Farm | [Family Sangha Daylong Retreat at Green Gulch Farm, GGF 5/24](https://www.sfzc.org/calendar/events/green-gulch-farm/family-sangha-daylong-retreat-green-gulch-farm-ggf-524) |
 
 Wednesday, Jul 1, 2026
 
-| [Start Time](?order=field_dates_1&sort=asc "sort by Start Time") | [Location](?order=field_practice_center&sort=asc "sort by Location") | [Event](?order=title&sort=asc "sort by Event") |
+| Start Time | Location | Event |
 | --- | --- | --- |
 | 04:00 PM | Green Gulch Farm | [SFZC Family Sangha Totoro Sleepover Retreat at Green Gulch Farm Zen Center, GGF 7/1–7/3](https://www.sfzc.org/calendar/events/green-gulch-farm/sfzc-family-sangha-totoro-sleepover-retreat-green-gulch-farm-zen) |
 
 Sunday, Sep 20, 2026
 
-| [Start Time](?order=field_dates_1&sort=asc "sort by Start Time") | [Location](?order=field_practice_center&sort=asc "sort by Location") | [Event](?order=title&sort=asc "sort by Event") |
+| Start Time | Location | Event |
 | --- | --- | --- |
 | 10:00 AM | Green Gulch Farm | [Family Sangha Daylong Retreat at Green Gulch Farm, GGF 9/20](https://www.sfzc.org/calendar/events/green-gulch-farm/family-sangha-daylong-retreat-green-gulch-farm-ggf-920) |
 
 Sunday, Oct 4, 2026
 
-| [Start Time](?order=field_dates_1&sort=asc "sort by Start Time") | [Location](?order=field_practice_center&sort=asc "sort by Location") | [Event](?order=title&sort=asc "sort by Event") |
+| Start Time | Location | Event |
 | --- | --- | --- |
 | 10:30 AM | Green Gulch Farm | [Family Program Offering: Ancestors’ Ritual, GGF 10/4](https://www.sfzc.org/calendar/events/green-gulch-farm/family-program-offering-ancestors-ritual-ggf-104) |
 
 Sunday, Nov 1, 2026
 
-| [Start Time](?order=field_dates_1&sort=asc "sort by Start Time") | [Location](?order=field_practice_center&sort=asc "sort by Location") | [Event](?order=title&sort=asc "sort by Event") |
+| Start Time | Location | Event |
 | --- | --- | --- |
 | 02:00 PM | Green Gulch Farm | [A Ceremony for Those Who Have Died, GGF 11/1](https://www.sfzc.org/calendar/events/green-gulch-farm/ceremony-those-who-have-died-ggf-111) |
 
 Sunday, Nov 22, 2026
 
-| [Start Time](?order=field_dates_1&sort=asc "sort by Start Time") | [Location](?order=field_practice_center&sort=asc "sort by Location") | [Event](?order=title&sort=asc "sort by Event") |
+| Start Time | Location | Event |
 | --- | --- | --- |
 | 09:45 AM | Green Gulch Farm | [A Special Morning with the SFZC Family Sangha, GGF 11/22](https://www.sfzc.org/calendar/events/green-gulch-farm/special-morning-sfzc-family-sangha-ggf-1122) |
 
 Tuesday, Jul 28, 2026
 
-| [Start Time](?order=field_dates_1&sort=asc "sort by Start Time") | [Location](?order=field_practice_center&sort=asc "sort by Location") | [Event](?order=title&sort=asc "sort by Event") |
+| Start Time | Location | Event |
 | --- | --- | --- |
 | 04:00 PM | Tassajara | [SFZC Family Sangha Retreat at Tassajara, ZMC 7/28–8/2 – Waitlist Only](https://www.sfzc.org/calendar/events/tassajara/sfzc-family-sangha-retreat-tassajara-zmc-728-82-waitlist-only) |
 
@@ -75,7 +75,7 @@ Tuesday, Jul 28, 2026
 
 Monday, Apr 6, 2026
 
-| [Start Time](?order=field_dates_1&sort=asc "sort by Start Time") | [Location](?order=field_practice_center&sort=asc "sort by Location") | [Event](?order=title&sort=asc "sort by Event") |
+| Start Time | Location | Event |
 | --- | --- | --- |
 | 04:00 PM | Online | [SFZC Family Sangha Online: Spring Cohort (Apr–May), Online 4/6–5/25](https://www.sfzc.org/calendar/events/online/sfzc-family-sangha-online-spring-cohort-apr-may-online-46-525) |
 
