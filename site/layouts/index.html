@@ -1,7 +1,8 @@
 {{ define "main" }}
 <!-- Hero -->
-<section class="bg-sfzc-green text-white py-16 md:py-24">
-  <div class="max-w-7xl mx-auto px-4 text-center">
+<section class="relative bg-sfzc-green text-white py-16 md:py-24">
+  <div class="absolute inset-0 bg-cover bg-center opacity-30" style="background-image: url('{{ "images/site/Main-Web-Banner-Hero-Image_1400x490_png.png" | absURL }}')"></div>
+  <div class="relative max-w-7xl mx-auto px-4 text-center">
     <h1 class="text-4xl md:text-5xl font-bold mb-4">San Francisco Zen Center</h1>
     <p class="text-xl text-green-200 mb-8 max-w-2xl mx-auto">
       Founded in 1962, SFZC is one of the largest and most influential Zen communities in the West,
@@ -19,6 +20,7 @@
 </section>
 
 <!-- Practice Centers -->
+
 <section class="max-w-7xl mx-auto px-4 py-12">
   <h2 class="text-2xl font-bold text-sfzc-green mb-6">Practice Centers</h2>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
