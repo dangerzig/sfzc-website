@@ -1,5 +1,6 @@
 ---
 title: "Summer 2026 at Tassajara Zen Mountain Center"
+image: "images/pages/ZMC_Summer_Practice_Margo_Moritz_354_x_243_px_png.png"
 aliases:
   - "/tassajara-summer-practice"
 ---
