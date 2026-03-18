@@ -19,5 +19,5 @@ scripts/.*_state.json
 Thumbs.db
 
 # Large binary files from architecture docs
-*.png
-*.pdf
+/*.png
+/*.pdf
