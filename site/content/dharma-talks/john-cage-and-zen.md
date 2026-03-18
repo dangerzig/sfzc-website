@@ -1,11 +1,13 @@
 ---
 title: "John Cage and Zen"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "03/16/2014"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/john-cage-and-zen"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/br7szOjF-cMfXcsXK.html"
+description: "3/16/2014, Furyu Schroeder dharma talk at Green Gulch Farm."
 ---
 03/16/2014
 

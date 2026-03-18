@@ -1,11 +1,13 @@
 ---
 title: "How Am I Now? I Don't Know"
-speaker: ""
+speaker: "zesho-susan-oconnell"
 talk_date: "07/05/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/how-am-i-now-i-dont-know"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/m6RUpMWv-cMfXcsXK.html"
+description: "2017-07-05, Zesho Susan O'Connell, dharma talk at City Center"
 ---
 07/05/2017
 

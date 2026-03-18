@@ -2,10 +2,12 @@
 title: "From The Inside Out"
 speaker: "sokaku-kathie-fischer"
 talk_date: "03/19/2021"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/inside-out-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/mwY0l4hm-cMfXcsXK.html"
+description: "In this sesshin talk by Sokaku Kathie Fischer, she continues a three-week exploration of Dogen's Shobogenzo Ziomonki highlighting the themes of practicing in Sangha and learning to trust ourselves in the work. She also encourages us with this observation that this is work that has never been done be"
 ---
 03/19/2021
 

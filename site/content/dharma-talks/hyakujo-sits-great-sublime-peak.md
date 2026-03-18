@@ -1,11 +1,13 @@
 ---
 title: "Hyakujo Sits on the Great Sublime Peak"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "03/31/2019"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/hyakujo-sits-great-sublime-peak"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/QSz9KUSy-cMfXcsXK.html"
+description: "03/31/2019, Sojun Mel Weitsman, dharma talk at Green Gulch Farm."
 ---
 03/31/2019
 

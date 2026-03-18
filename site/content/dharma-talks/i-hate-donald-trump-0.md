@@ -1,11 +1,13 @@
 ---
 title: "I Hate Donald Trump"
-speaker: ""
+speaker: "zenki-mary-mocine"
 talk_date: "08/06/2023"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/i-hate-donald-trump-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/ZnZkUlqm-cMfXcsXK.html"
+description: "08/06/2023, Zenki Mary Mocine, dharma talk at Green Gulch Farm.I confess my hatred and ask about the fears underlying it. How do I work with this fear so as to respond from a generous place?"
 ---
 08/06/2023
 

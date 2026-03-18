@@ -1,11 +1,13 @@
 ---
 title: "Home Leaving, Home Coming"
-speaker: ""
+speaker: "sessei-meg-mcneil-levie"
 talk_date: "06/01/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/home-leaving-home-coming"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/21l757S6-cMfXcsXK.html"
+description: "6/1/2013, Meg Levie dharma talk at Tassajara."
 ---
 06/01/2013
 

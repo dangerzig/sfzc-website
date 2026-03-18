@@ -1,11 +1,13 @@
 ---
 title: "Investigation and Continuity"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/17/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/investigation-and-continuity"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/YyR1JQ5W-cMfXcsXK.html"
+description: "2/17/2013, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 02/17/2013
 

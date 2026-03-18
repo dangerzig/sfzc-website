@@ -1,11 +1,13 @@
 ---
 title: "Just This"
-speaker: ""
+speaker: "zoketsu-norman-fischer"
 talk_date: "10/12/2014"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/just-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/kQphsc8U-cMfXcsXK.html"
+description: "2014-10-12, Norman Fischer, dharma talk at Green Gulch Farm."
 ---
 10/12/2014
 

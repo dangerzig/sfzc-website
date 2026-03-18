@@ -1,11 +1,13 @@
 ---
 title: "Joyful Effort"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "07/15/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/joyful-effort"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/bDBoXrCf-cMfXcsXK.html"
+description: "7/15/2010, Eijun Linda Cutts dharma talk at Tassajara."
 ---
 07/15/2010
 

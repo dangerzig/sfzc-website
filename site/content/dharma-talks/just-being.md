@@ -1,11 +1,13 @@
 ---
 title: "Just Being"
-speaker: ""
+speaker: "horin-nancy-petrin"
 talk_date: "10/19/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/just-being"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/4wZGGPrr-cMfXcsXK.html"
+description: "10/19/2019, Nancy Petrin, dharma talk at City Center."
 ---
 10/19/2019
 

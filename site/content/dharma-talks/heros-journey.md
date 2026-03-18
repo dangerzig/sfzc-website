@@ -1,11 +1,13 @@
 ---
 title: "The Heros Journey"
-speaker: ""
+speaker: "marc-lesser"
 talk_date: "08/06/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/heros-journey"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/g7vrN2Y2-cMfXcsXK.html"
+description: "8/6/2011, Marc Lesser dharma talk at Tassajara."
 ---
 08/06/2011
 

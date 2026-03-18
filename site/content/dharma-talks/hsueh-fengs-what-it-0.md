@@ -1,11 +1,13 @@
 ---
 title: "Hsueh Feng’s What Is It"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "02/19/2023"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/hsueh-fengs-what-it-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/0MH00xrq-cMfXcsXK.html"
+description: "02/19/2023, Rinso Ed Sattizahn, dharma talk at Green Gulch Farm.Dogen Zenji said, “Breathing in or breathing out, after all, what is it?” No one can tell what it is."
 ---
 02/19/2023
 

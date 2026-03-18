@@ -1,11 +1,13 @@
 ---
 title: "Inconceivable Liberation"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "07/11/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/inconceivable-liberation"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/XJSHjxKJ-cMfXcsXK.html"
+description: "7/11/2015, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 07/11/2015
 

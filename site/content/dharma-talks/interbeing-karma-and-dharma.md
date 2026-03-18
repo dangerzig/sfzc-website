@@ -1,11 +1,13 @@
 ---
 title: "Interbeing of Karma and Dharma"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/27/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/interbeing-karma-and-dharma"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/JNl57iWb-cMfXcsXK.html"
+description: "2/27/2018, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 02/27/2018
 

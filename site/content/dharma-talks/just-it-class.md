@@ -1,11 +1,13 @@
 ---
 title: "Just This Is It - Class"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "12/04/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/just-it-class"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/4Rliow8x-cMfXcsXK.html"
+description: "12/04/2018, Furyu Schroeder, practice period class at Tassajara."
 ---
 12/04/2018
 

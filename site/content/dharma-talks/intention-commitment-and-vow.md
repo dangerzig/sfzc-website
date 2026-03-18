@@ -1,11 +1,13 @@
 ---
 title: "Intention, Commitment and Vow"
-speaker: ""
+speaker: "dainin-marsha-angus"
 talk_date: "03/25/2009"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/intention-commitment-and-vow"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/uTSxTOfN-cMfXcsXK.html"
+description: "3/25/2009, Marsha Angus dharma talk at City Center."
 ---
 03/25/2009
 

@@ -1,11 +1,13 @@
 ---
 title: "It's All Poetry"
-speaker: ""
+speaker: "zenju-earthlyn-manuel-osho"
 talk_date: "08/29/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/its-all-poetry"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/5p6AcoYZ-cMfXcsXK.html"
+description: "8/29/2012, Zenju Earthlyn Manuel, dharma talk at Green Gulch Farm."
 ---
 08/29/2012
 

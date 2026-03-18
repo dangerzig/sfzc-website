@@ -1,11 +1,13 @@
 ---
 title: "Intimacy and the Shape of our Practice"
-speaker: ""
+speaker: "kodo-conlin"
 talk_date: "04/24/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/intimacy-and-shape-our-practice"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/cPwozXkA-cMfXcsXK.html"
+description: "04/24/2024, Kodo Conlin, dharma talk at City Center.In this talk, given at Beginner's Mind Temple, Kodo Conlin discusses this rich topic. Here, we resolve the distance between speaker and listener to turn the questions, \"What is the shape of our practice?\" and \"How do we stay intimate with Dharma"
 ---
 04/24/2024
 

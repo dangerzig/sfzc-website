@@ -1,11 +1,13 @@
 ---
 title: "Intensive, Class 7"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "07/29/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/intensive-class-7"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/Y8fQeNU6-cMfXcsXK.html"
+description: "7/29/2011, Ryushin Paul Haller dharma talk at City Center."
 ---
 07/29/2011
 

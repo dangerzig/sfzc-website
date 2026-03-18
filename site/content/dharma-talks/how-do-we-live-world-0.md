@@ -2,10 +2,12 @@
 title: "How Do We Live In This World?"
 speaker: "ryushin-paul-haller"
 talk_date: "08/05/2023"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/how-do-we-live-world-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/DJTKCc4K-cMfXcsXK.html"
+description: "08/05/2023, Ryushin Paul Haller, dharma talk at City Center. In this talk from Beginner's Mind Temple, Senior Dharma Teacher Ryushin Paul Haller explores how we can live and continue to be upright, while being fully involved in the messy business of being a part of our world, nation, governments and"
 ---
 08/05/2023
 

@@ -1,11 +1,13 @@
 ---
 title: "Inviting Radical Transformation"
-speaker: ""
+speaker: "hakusho-johan-ostlund"
 talk_date: "09/04/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/inviting-radical-transformation"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/d5xdAGol-cMfXcsXK.html"
+description: "09/04/2019, Hakusho Ostlund, dharma talk at Tassajara."
 ---
 09/04/2019
 

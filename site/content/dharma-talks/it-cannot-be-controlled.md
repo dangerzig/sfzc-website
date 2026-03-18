@@ -1,11 +1,13 @@
 ---
 title: "It Cannot Be Controlled"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "06/29/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/it-cannot-be-controlled"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/IxU2r01V-cMfXcsXK.html"
+description: "6/29/2016, Leslie James dharma talk at Tassajara."
 ---
 06/29/2016
 

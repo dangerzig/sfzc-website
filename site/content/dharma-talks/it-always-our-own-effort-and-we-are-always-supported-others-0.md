@@ -1,11 +1,13 @@
 ---
 title: "It Is Always Our Own Effort, And We Are Always Supported By Others"
-speaker: ""
+speaker: "shundo-david-haye"
 talk_date: "08/28/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/it-always-our-own-effort-and-we-are-always-supported-others-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/G1oXSBts-cMfXcsXK.html"
+description: "08/28/2024, Shundo David Haye, dharma talk at City Center.In this talk, given at Beginner's Mind Temple, Shundo reflects on a recent visit to Tassajara, which included the monthly Full Moon Ceremony and the Obon Ceremony. He encourages us to remember our place in the ongoing lineage of Buddhas and A"
 ---
 08/28/2024
 

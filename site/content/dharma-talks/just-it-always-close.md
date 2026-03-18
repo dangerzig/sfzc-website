@@ -1,11 +1,13 @@
 ---
 title: "Just This Is It, Always Close"
-speaker: ""
+speaker: "taigen-dan-leighton"
 talk_date: "03/22/2015"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/just-it-always-close"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/SgPZeBMU-cMfXcsXK.html"
+description: "3/22/2015, Taigen Dan Leighton dharma talk at Green Gulch Farm."
 ---
 03/22/2015
 

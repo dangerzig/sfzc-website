@@ -1,11 +1,13 @@
 ---
 title: "Inner and Outer Shingi"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "10/04/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/inner-and-outer-shingi"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/xroj0rNK-cMfXcsXK.html"
+description: "10/4/2015, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 10/04/2015
 

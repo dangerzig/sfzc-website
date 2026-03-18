@@ -1,11 +1,13 @@
 ---
 title: "The Hidden Lamp"
-speaker: ""
+speaker: "susan-moon"
 talk_date: "01/11/2014"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/hidden-lamp"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/q2OjGshn-cMfXcsXK.html"
+description: "1/11/2014, Susan Moon, Florence Caplow dharma talk at City Center."
 ---
 01/11/2014
 

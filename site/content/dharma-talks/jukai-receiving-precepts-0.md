@@ -1,11 +1,13 @@
 ---
 title: "Jukai - Receiving the Precepts"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "03/06/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/jukai-receiving-precepts-0"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/wMtyOwfR-cMfXcsXK.html"
+description: "3/6/2016, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 03/06/2016
 

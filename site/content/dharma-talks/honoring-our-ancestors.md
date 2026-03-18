@@ -1,11 +1,13 @@
 ---
 title: "Honoring our Ancestors"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "12/04/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/honoring-our-ancestors"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/iZQAH471-cMfXcsXK.html"
+description: "12/04/2018, Rinso Ed Sattizahn, dharma talk at City Center."
 ---
 12/04/2018
 

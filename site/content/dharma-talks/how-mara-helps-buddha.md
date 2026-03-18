@@ -1,11 +1,13 @@
 ---
 title: "How Mara Helps the Buddha"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "12/10/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/how-mara-helps-buddha"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/lX7dJHKb-cMfXcsXK.html"
+description: "12/10/2016, Eijun Linda Cutts, dharma talk at Tassajara."
 ---
 12/10/2016
 

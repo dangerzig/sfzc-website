@@ -1,11 +1,13 @@
 ---
 title: "Jukai - Receiving the Bodhisattva Precepts"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "01/04/2020"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/jukai-receiving-bodhisattva-precepts"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/rnyuoMSX-cMfXcsXK.html"
+description: "01/04/2020, Rinso Ed Sattizahn, dharma talk at City Center."
 ---
 01/04/2020
 
