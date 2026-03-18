@@ -1,11 +1,13 @@
 ---
 title: "What Is Buddhist Enlightenment?"
-speaker: ""
+speaker: "zoketsu-norman-fischer"
 talk_date: "09/30/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/what-buddhist-enlightenment"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/adSgFdHM-cMfXcsXK.html"
+description: "9/30/2018, Zoketsu Norman Fischer dharma talk at Green Gulch Farm."
 ---
 09/30/2018
 

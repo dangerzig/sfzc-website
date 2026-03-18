@@ -1,11 +1,13 @@
 ---
 title: "Wholeheartedness and the Zen of Baseball"
-speaker: ""
+speaker: "yo-jeremy-levie"
 talk_date: "10/14/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/wholeheartedness-and-zen-baseball"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/Lhx9mgPV-cMfXcsXK.html"
+description: "10/14/2012, Yo on Jeremy Levie dharma talk at Green Gulch Farm."
 ---
 10/14/2012
 

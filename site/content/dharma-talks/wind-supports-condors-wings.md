@@ -1,11 +1,13 @@
 ---
 title: "The Wind Supports the Condors Wings"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "09/03/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/wind-supports-condors-wings"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/RlEHNnk8-cMfXcsXK.html"
+description: "9/3/2010, Leslie James dharma talk at Tassajara."
 ---
 09/03/2010
 

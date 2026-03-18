@@ -1,11 +1,13 @@
 ---
 title: "What is My Intention?"
-speaker: ""
+speaker: "gyo-ji-arlene-lueck"
 talk_date: "06/29/2016"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/what-my-intention"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/JhkVw038-cMfXcsXK.html"
+description: "6/29/2016, Arlene Lueck dharma talk at City Center."
 ---
 06/29/2016
 

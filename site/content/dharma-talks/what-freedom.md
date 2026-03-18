@@ -1,11 +1,13 @@
 ---
 title: "What Is Freedom?"
-speaker: ""
+speaker: "zenju-earthlyn-manuel-osho"
 talk_date: "08/15/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/what-freedom"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/BMqlH8U5-cMfXcsXK.html"
+description: "8/15/2018, Zenju Earthlyn Manuel dharma talk at Tassajara."
 ---
 08/15/2018
 

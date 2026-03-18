@@ -1,11 +1,13 @@
 ---
 title: "Wind In The Pines"
-speaker: ""
+speaker: "marcia-lieberman"
 talk_date: "04/17/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/wind-pines"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/LayWWuEX-cMfXcsXK.html"
+description: "04/17/2019, Marcia Lieberman dharma talk at City Center."
 ---
 04/17/2019
 

@@ -1,11 +1,13 @@
 ---
 title: "What Do You Call the World?"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "01/19/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/what-do-you-call-world"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/C8tu6312-cMfXcsXK.html"
+description: "01/19/2019, Furyu Schroeder, dharma talk at City Center."
 ---
 01/19/2019
 

@@ -1,11 +1,13 @@
 ---
 title: "Why Do I Feel Stuck? Class 1"
-speaker: ""
+speaker: "zenju-earthlyn-manuel-osho"
 talk_date: "02/18/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/why-do-i-feel-stuck-class-1"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/yVhOIH4J-cMfXcsXK.html"
+description: "2/18/2018, Zenju Earthlyn Manuel dharma talk at Green Gulch Farm."
 ---
 02/18/2018
 

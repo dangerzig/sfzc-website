@@ -1,11 +1,13 @@
 ---
 title: "The World-Honored One Ascends the Seat"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "07/09/2017"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/world-honored-one-ascends-seat"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/TdBl46bQ-cMfXcsXK.html"
+description: "7/9/2017, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 07/09/2017
 

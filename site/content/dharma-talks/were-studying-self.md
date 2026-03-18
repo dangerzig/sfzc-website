@@ -1,11 +1,13 @@
 ---
 title: "Were Studying the Self!"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "07/30/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/were-studying-self"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/uimmBLJz-cMfXcsXK.html"
+description: "7/30/2014, Leslie James dharma talk at Tassajara."
 ---
 07/30/2014
 

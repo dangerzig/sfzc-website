@@ -1,11 +1,13 @@
 ---
 title: "Wholehearted Living"
-speaker: ""
+speaker: "ryotan-cynthia-kear"
 talk_date: "11/23/2013"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/wholehearted-living"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/PFHvhQ2r-cMfXcsXK.html"
+description: "11/23/2013, Ryotan Cynthia Kear dharma talk at City Center."
 ---
 11/23/2013
 

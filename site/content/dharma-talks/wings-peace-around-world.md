@@ -1,11 +1,13 @@
 ---
 title: "Wings of Peace, Around the World"
-speaker: ""
+speaker: "wendy-johnson"
 talk_date: "08/05/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/wings-peace-around-world"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/9aVXqesK-cMfXcsXK.html"
+description: "8/5/2018, Wendy Johnson dharma talk at Green Gulch Farm."
 ---
 08/05/2018
 

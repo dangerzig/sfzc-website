@@ -1,11 +1,13 @@
 ---
 title: "What Do You Call The World?"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "10/26/2014"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/what-do-you-call-world-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/CVTyDwNE-cMfXcsXK.html"
+description: "2014-10-26, Furyu Schroeder, dharma talk at Green Gulch Farm."
 ---
 10/26/2014
 

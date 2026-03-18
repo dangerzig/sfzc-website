@@ -1,11 +1,13 @@
 ---
 title: "We Are Not Stuck"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "08/28/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/we-are-not-stuck"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/NvxPGgEt-cMfXcsXK.html"
+description: "08/28/2019, Leslie James, dharma talk at Tassajara."
 ---
 08/28/2019
 

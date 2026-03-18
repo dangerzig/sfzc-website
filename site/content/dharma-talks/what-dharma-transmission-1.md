@@ -1,11 +1,13 @@
 ---
 title: "What Is Dharma Transmission?"
-speaker: ""
+speaker: "keiryu-lien-shutt"
 talk_date: "08/24/2013"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/what-dharma-transmission-1"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/tiWLTr6N-cMfXcsXK.html"
+description: "8/24/2013, Keiryu Lien Shutt dharma talk at City Center."
 ---
 08/24/2013
 

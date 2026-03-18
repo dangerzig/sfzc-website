@@ -1,11 +1,13 @@
 ---
 title: "Work Practice Part 1"
-speaker: ""
+speaker: "marc-lesser"
 talk_date: "08/07/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/work-practice-part-1"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/bNSesAys-cMfXcsXK.html"
+description: "8/7/2015, Marc Lesser dharma talk at Tassajara."
 ---
 08/07/2015
 

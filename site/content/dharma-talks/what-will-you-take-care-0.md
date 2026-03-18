@@ -1,11 +1,13 @@
 ---
 title: "What Will You Take Care Of?"
-speaker: ""
+speaker: "hondo-dave-rutschman"
 talk_date: "09/25/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/what-will-you-take-care-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/GQs108sN-cMfXcsXK.html"
+description: "This dharma talk was given at Beginner’s Mind Temple by Hondo Dave Rutschman. One of the most important questions each of us has to work out in our life is deciding what it is we will take care of. In this talk, Dave considers what it might mean to take care of our practice through time—to appreciat"
 ---
 09/25/2024
 

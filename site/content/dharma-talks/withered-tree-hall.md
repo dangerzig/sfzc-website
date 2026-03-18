@@ -1,11 +1,13 @@
 ---
 title: "The Withered Tree Hall"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "11/25/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/withered-tree-hall"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/jl0xOFHl-cMfXcsXK.html"
+description: "11/25/2012, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 11/25/2012
 

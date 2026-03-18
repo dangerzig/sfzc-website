@@ -1,11 +1,13 @@
 ---
 title: "When You Greet Me, I Bow"
-speaker: ""
+speaker: "zoketsu-norman-fischer"
 talk_date: "03/13/2011"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/when-you-greet-me-i-bow"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/jwvQ0jfI-cMfXcsXK.html"
+description: "3/13/2011, Zoketsu Norman Fischer dharma talk at Green Gulch Farm."
 ---
 03/13/2011
 

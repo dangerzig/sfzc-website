@@ -1,11 +1,13 @@
 ---
 title: "Where Are all the Buddhas Born?"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "12/07/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/where-are-all-buddhas-born"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/hO2kHnlw-cMfXcsXK.html"
+description: "12/7/2010, Tenshin Reb Anderson dharma talk at Tassajara."
 ---
 12/07/2010
 

@@ -1,11 +1,13 @@
 ---
 title: "Who Am I On Shortcuts?"
-speaker: ""
+speaker: "rev-angel-kyodo-williams"
 talk_date: "08/19/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/who-am-i-shortcuts"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/1DayeJSA-cMfXcsXK.html"
+description: "08/19/2018, angel Kyodo williams, dharma talk at Green Gulch Farm."
 ---
 08/19/2018
 

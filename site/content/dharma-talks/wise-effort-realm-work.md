@@ -1,11 +1,13 @@
 ---
 title: "Wise Effort In The Realm Of Work"
-speaker: ""
+speaker: "abbot-tenzen-david-zimmerman"
 talk_date: "05/23/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/wise-effort-realm-work"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/AAqAqe3Y-cMfXcsXK.html"
+description: "5/23/2018, Tenzen David Zimmerman dharma talk at City Center."
 ---
 05/23/2018
 

@@ -1,11 +1,13 @@
 ---
 title: "The Wild Ones"
-speaker: ""
+speaker: "sokaku-kathie-fischer"
 talk_date: "01/18/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/wild-ones"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/PHtNAigW-cMfXcsXK.html"
+description: "01/18/2019, Kathie Fischer, dharma talk at Tassajara."
 ---
 01/18/2019
 

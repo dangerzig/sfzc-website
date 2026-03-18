@@ -1,11 +1,13 @@
 ---
 title: "What You Think Is Not a Help for Realization"
-speaker: ""
+speaker: "edward-espe-brown"
 talk_date: "05/11/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/what-you-think-not-help-realization"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/VOwecEbi-cMfXcsXK.html"
+description: "5/11/2010, Ed Brown dharma talk at Tassajara."
 ---
 05/11/2010
 

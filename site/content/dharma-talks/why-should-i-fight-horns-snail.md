@@ -1,11 +1,13 @@
 ---
 title: "Why Should I Fight with the Horns of a Snail?"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "07/16/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/why-should-i-fight-horns-snail"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/uCEvJNkl-cMfXcsXK.html"
+description: "7/16/2011, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 07/16/2011
 

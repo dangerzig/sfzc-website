@@ -1,11 +1,13 @@
 ---
 title: "Wisdom: Seeing Clearly"
-speaker: ""
+speaker: "dana-takagi"
 talk_date: "10/17/2020"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/wisdom-seeing-clearly"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/PfN3Bvlz-cMfXcsXK.html"
+description: "The practice of developing prajna/wisdom.10/17/2020, Dana Takagi, dharma talk at City Center."
 ---
 10/17/2020
 

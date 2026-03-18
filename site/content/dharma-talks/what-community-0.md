@@ -1,11 +1,13 @@
 ---
 title: "What Is Community?"
-speaker: ""
+speaker: "kyoshin-wendy-lewis"
 talk_date: "01/20/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/what-community-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/bOohvCBB-cMfXcsXK.html"
+description: "01/20/2024, Kyoshin Wendy Lewis, dharma talk at City Center.Now our community is meeting only in the single room of the Zendo. What are some teachings on Sangha transformation in a Zendo? How can we see forms of the infinite, miraculous Dharma embedded through tradition and visualization in this sha"
 ---
 01/20/2024
 

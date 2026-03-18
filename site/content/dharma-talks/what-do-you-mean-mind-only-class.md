@@ -1,11 +1,13 @@
 ---
 title: "What Do You Mean Mind Only? - Class"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "12/03/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/what-do-you-mean-mind-only-class"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/lbuNQVpK-cMfXcsXK.html"
+description: "12/03/2018, Furyu Schroeder, dharma talk at Tassajara."
 ---
 12/03/2018
 

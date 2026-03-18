@@ -1,11 +1,13 @@
 ---
 title: "Which Moon Is This?"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "06/28/2009"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/which-moon"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/JEHLf3Ei-cMfXcsXK.html"
+description: "6/28/2009, Furyu Schroeder dharma talk at Green Gulch Farm."
 ---
 06/28/2009
 

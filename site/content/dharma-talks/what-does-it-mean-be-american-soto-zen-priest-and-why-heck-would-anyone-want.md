@@ -1,11 +1,13 @@
 ---
 title: "What Does It Mean to Be an American Soto Zen Priest and Why the Heck Would Anyone Want to Do That?"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "07/24/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/what-does-it-mean-be-american-soto-zen-priest-and-why-heck-would-anyone-want"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/PDj0p9SF-cMfXcsXK.html"
+description: "07/24/2013, Zenshin Greg Fain, dharma talk at Tassajara."
 ---
 07/24/2013
 

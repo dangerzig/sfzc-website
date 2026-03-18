@@ -1,11 +1,13 @@
 ---
 title: "Welcoming All"
-speaker: ""
+speaker: "so-eli-brown-stevenson"
 talk_date: "10/23/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/welcoming-all"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/2srYSiqn-cMfXcsXK.html"
+description: "This dharma talk was given at Beginner’s Mind Temple by Fall 2024 Practice Period co-leader So-on Eli Brown-Stevenson. This talk centers on the Zen practice of welcoming, rooted in Suzuki Roshi's teachings. We explore how welcoming everything—joy, discomfort, and impermanence—brings us into deeper a"
 ---
 10/23/2024
 
