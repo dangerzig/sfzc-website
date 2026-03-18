@@ -1,11 +1,13 @@
 ---
 title: "Being Unstained"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "05/24/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/being-unstained-0"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/ktwYGnG5-cMfXcsXK.html"
+description: "5/24/2016, Leslie James, dharma talk at Tassajara."
 ---
 05/24/2016
 

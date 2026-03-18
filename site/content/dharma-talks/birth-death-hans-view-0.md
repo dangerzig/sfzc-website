@@ -2,10 +2,12 @@
 title: "Birth & Death from the Han's View"
 speaker: "keido-keith-baker"
 talk_date: "06/12/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/birth-death-hans-view-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/VT0ZtPuV-cMfXcsXK.html"
+description: "06/12/2024, Keido Keith Baker, dharma talk at City Center.This talk was given by Keido Keith Baker at Beginner’s Mind Temple, San Francisco. The Han's wooden knock calls countless practitioners to come to the Zendo for meditation. Indoors or outside, it's hard to miss its distinctive urgent rolldown"
 ---
 06/12/2024
 

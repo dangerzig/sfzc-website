@@ -1,11 +1,13 @@
 ---
 title: "Assumptions Bear Viewing"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "04/18/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/assumptions-bear-viewing"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/2pNnrX0Y-cMfXcsXK.html"
+description: "4/18/2013, Leslie James dharma talk at Tassajara."
 ---
 04/18/2013
 

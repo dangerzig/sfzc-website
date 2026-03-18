@@ -1,11 +1,13 @@
 ---
 title: "Appreciating Our Life"
-speaker: ""
+speaker: "marc-lesser"
 talk_date: "08/07/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/appreciating-our-life"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/hzEzg4tl-cMfXcsXK.html"
+description: "8/7/2010, Marc Lesser dharma talk at Tassajara."
 ---
 08/07/2010
 

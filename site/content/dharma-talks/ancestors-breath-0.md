@@ -1,11 +1,13 @@
 ---
 title: "The Ancestors' Breath"
-speaker: ""
+speaker: "myogan-djinn-gallagher"
 talk_date: "09/18/2021"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/ancestors-breath-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/khXD3n5b-cMfXcsXK.html"
+description: "The ancient foundation of the breath, creating an environment for a skillful response.09/18/2021, Myogan Djinn Gallagher, dharma talk at City Center."
 ---
 09/18/2021
 

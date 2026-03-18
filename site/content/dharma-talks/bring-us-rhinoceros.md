@@ -1,11 +1,13 @@
 ---
 title: "Bring Us The Rhinoceros"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "06/15/2014"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/bring-us-rhinoceros"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/14u5atEm-cMfXcsXK.html"
+description: "6/15/2014, Furyu Schroeder dharma talk at Green Gulch Farm."
 ---
 06/15/2014
 

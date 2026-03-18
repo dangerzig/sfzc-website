@@ -1,11 +1,13 @@
 ---
 title: "Ascending the Path on the Goat's Back"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "06/29/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/ascending-path-goats-back"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/AfYjLUdq-cMfXcsXK.html"
+description: "06/29/2019, Jiryu Rutschman-Byler, dharma talk at Tassajara."
 ---
 06/29/2019
 

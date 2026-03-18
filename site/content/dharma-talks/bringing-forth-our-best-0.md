@@ -1,11 +1,13 @@
 ---
 title: "Bringing Forth Our Best"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "03/27/2021"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/bringing-forth-our-best-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/v9NZeXGe-cMfXcsXK.html"
+description: "Ryushin Paul Haller invites us into deep inquiry of the the Bodhisattva vows. What is it to attend to and be of service to these vows in one's life? What is it to cross over to \"only us,\" innumerably diverse? When us becomes more relevent than me. Being of service to Interbeing. How is this the fu"
 ---
 03/27/2021
 

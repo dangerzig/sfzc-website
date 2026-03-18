@@ -1,11 +1,13 @@
 ---
 title: "Avowing Karma, Admitting My Faults"
-speaker: ""
+speaker: "doshin-dan-gudgel"
 talk_date: "08/21/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/avowing-karma-admitting-my-faults-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/68zzeq6A-cMfXcsXK.html"
+description: "08/21/2024, Dan Gudgel, dharma talk at City Center.In this dharma talk, given at Beginner’s Mind Temple, Dan uses the Soto Zen standard “Confession” verse to explore the connections between personal and collective karma. The verse is: “All my ancient twisted karma, from beginningless greed, hate and"
 ---
 08/21/2024
 

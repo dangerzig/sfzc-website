@@ -1,11 +1,13 @@
 ---
 title: "Abundant in Each Person"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "01/27/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/abundant-each-person"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/12LIHDEb-cMfXcsXK.html"
+description: "1/27/2015, Leslie James dharma talk at Tassajara."
 ---
 01/27/2015
 

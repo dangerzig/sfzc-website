@@ -1,11 +1,13 @@
 ---
 title: "Alive Dewdrops"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "01/25/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/alive-dewdrops"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/HcoKr5x8-cMfXcsXK.html"
+description: "1/25/2012, Leslie James dharma talk at Tassajara."
 ---
 01/25/2012
 

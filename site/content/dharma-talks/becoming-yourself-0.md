@@ -1,11 +1,13 @@
 ---
 title: "Becoming Yourself"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "02/11/2024"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/becoming-yourself-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/Ig30GH2q-cMfXcsXK.html"
+description: "02/11/2024, Jiryu Rutschman-Byler, dharma talk at Green Gulch Farm.In this talk, Abbot Jiryu reflects on Suzuki Roshi's core teaching that Zen practice is fundamentally about \"becoming yourself,\" and explores the strong resonance there with the Silent Illumination teaching that awakening is right "
 ---
 02/11/2024
 

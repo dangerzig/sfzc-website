@@ -1,11 +1,13 @@
 ---
 title: "The 100-foot Pole"
-speaker: ""
+speaker: "zesho-susan-oconnell"
 talk_date: "05/14/2008"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/100-foot-pole"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/tGICQjh6-cMfXcsXK.html"
+description: "5/14/2008, Susan O'Connell dharma talk at City Center."
 ---
 05/14/2008
 

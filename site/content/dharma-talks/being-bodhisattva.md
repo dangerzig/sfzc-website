@@ -1,11 +1,13 @@
 ---
 title: "Being a Bodhisattva"
-speaker: ""
+speaker: "do-robert-thomas"
 talk_date: "06/28/2009"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/being-bodhisattva"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/tmVA3Hmz-cMfXcsXK.html"
+description: "6/28/2009, Robert Thomas dharma talk at Tassajara."
 ---
 06/28/2009
 

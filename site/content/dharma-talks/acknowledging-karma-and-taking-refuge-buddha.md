@@ -1,11 +1,13 @@
 ---
 title: "Acknowledging Karma and Taking Refuge in Buddha"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "10/02/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/acknowledging-karma-and-taking-refuge-buddha"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/uMIFqyrV-cMfXcsXK.html"
+description: "10/02/2024, Ryushin Paul Haller, dharma talk at City Center. Our narratives and our histories shape our conditioned being. Acknowledging this conditioning, we take Refuge in Buddha, the innate capacity to awaken. In this talk, given at Beginner's Mind Temple, Ryushin investigates how our stories and"
 ---
 10/02/2024
 

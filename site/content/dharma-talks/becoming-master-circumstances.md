@@ -1,11 +1,13 @@
 ---
 title: "Becoming the Master of Circumstances"
-speaker: ""
+speaker: "myoan-grace-schireson"
 talk_date: "04/30/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/becoming-master-circumstances"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/JWLWgfCP-cMfXcsXK.html"
+description: "4/30/2011, Grace Schireson dharma talk at City Center."
 ---
 04/30/2011
 

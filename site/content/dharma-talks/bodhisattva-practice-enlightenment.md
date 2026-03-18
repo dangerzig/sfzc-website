@@ -1,11 +1,13 @@
 ---
 title: "Bodhisattva Practice of Enlightenment"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "01/12/2014"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/bodhisattva-practice-enlightenment"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/im6LPoaF-cMfXcsXK.html"
+description: "1/12/2014, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 01/12/2014
 

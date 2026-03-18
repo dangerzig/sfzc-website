@@ -1,11 +1,13 @@
 ---
 title: "Bodhisattvas Welcoming"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "02/27/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/bodhisattvas-welcoming"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/asQTitz2-cMfXcsXK.html"
+description: "2/27/2010, Shosan Victoria Austin dharma talk at City Center."
 ---
 02/27/2010
 

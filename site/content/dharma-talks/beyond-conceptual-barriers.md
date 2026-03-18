@@ -1,11 +1,13 @@
 ---
 title: "Beyond Conceptual Barriers"
-speaker: ""
+speaker: "kogen-jamie-howell"
 talk_date: "02/03/2016"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/beyond-conceptual-barriers"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/ipv9kMQD-cMfXcsXK.html"
+description: "2/3/2016, Kogen Jamie Howell dharma talk at City Center."
 ---
 02/03/2016
 

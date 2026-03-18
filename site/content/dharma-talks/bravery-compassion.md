@@ -1,11 +1,13 @@
 ---
 title: "Bravery & Compassion"
-speaker: ""
+speaker: "acharya-arawana-hayashi"
 talk_date: "10/28/2009"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/bravery-compassion"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/ftkdkiEu-cMfXcsXK.html"
+description: "10/28/2009, Acharya Arawana Hayashi dharma talk at City Center."
 ---
 10/28/2009
 

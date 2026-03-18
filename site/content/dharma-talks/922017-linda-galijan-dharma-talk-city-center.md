@@ -1,11 +1,13 @@
 ---
 title: "9/2/2017, Linda Galijan, dharma talk at City Center"
-speaker: ""
+speaker: "shinchi-linda-galijan"
 talk_date: "09/02/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/922017-linda-galijan-dharma-talk-city-center"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/YCwXCN1r-cMfXcsXK.html"
+description: "9/2/2017, Linda Galijan, dharma talk at City Center."
 ---
 09/02/2017
 

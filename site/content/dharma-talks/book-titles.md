@@ -1,11 +1,13 @@
 ---
 title: "Book Titles"
-speaker: ""
+speaker: "diana-gerard"
 talk_date: "05/14/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/book-titles"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/u6yaPVfD-cMfXcsXK.html"
+description: "5/14/2011, Diana Gerard dharma talk at Tassajara."
 ---
 05/14/2011
 

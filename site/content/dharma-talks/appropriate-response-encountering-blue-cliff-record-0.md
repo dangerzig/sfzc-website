@@ -1,11 +1,13 @@
 ---
 title: "An Appropriate Response: Encountering the Blue Cliff Record"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "10/05/2022"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/appropriate-response-encountering-blue-cliff-record-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/Hofvm3gQ-cMfXcsXK.html"
+description: "10/05/2022, Rinso Ed Sattizahn and Tenzen David Zimmerman, dharma talk at City Center.In the first dharma talk of the Fall practice period, Abbots Ed and David provide an introduction to 'encounter dialogues' and the venerable koan collection of The Blue Cliff Record, including the enlightenment sto"
 ---
 10/05/2022
 

@@ -1,11 +1,13 @@
 ---
 title: "Ango"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "02/16/2014"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/ango"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/antPaonb-cMfXcsXK.html"
+description: "2/16/2014, Eijun Linda Ruth Cutts dharma talk at Green Gulch Farm."
 ---
 02/16/2014
 

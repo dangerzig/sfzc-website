@@ -1,11 +1,13 @@
 ---
 title: "To Become Completely Who We Are"
-speaker: ""
+speaker: "onryu-mary-stares"
 talk_date: "12/20/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/become-completely-who-we-are"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/zXUEkCIO-cMfXcsXK.html"
+description: "12/20/2017, Onryu Mary Stares dharma talk at City Center."
 ---
 12/20/2017
 

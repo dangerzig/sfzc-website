@@ -1,11 +1,13 @@
 ---
 title: "Bodhisattva Vow in Daily Life"
-speaker: ""
+speaker: "shinchi-linda-galijan"
 talk_date: "01/07/2009"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/bodhisattva-vow-daily-life"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/NPKnYaCB-cMfXcsXK.html"
+description: "1/7/2009, Linda Galijan dharma talk at City Center."
 ---
 01/07/2009
 

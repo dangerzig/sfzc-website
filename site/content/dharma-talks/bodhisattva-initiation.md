@@ -1,11 +1,13 @@
 ---
 title: "Bodhisattva Initiation"
-speaker: ""
+speaker: "dairyu-michael-wenger"
 talk_date: "01/09/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/bodhisattva-initiation"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/NC4nV3r6-cMfXcsXK.html"
+description: "1/9/2010, Michael Wenger dharma talk at City Center."
 ---
 01/09/2010
 

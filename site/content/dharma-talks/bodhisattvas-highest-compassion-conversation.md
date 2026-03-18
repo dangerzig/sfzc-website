@@ -1,11 +1,13 @@
 ---
 title: "Bodhisattvas' Highest Compassion Is a Conversation"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "11/18/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/bodhisattvas-highest-compassion-conversation"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/ndt8NXOd-cMfXcsXK.html"
+description: "11/18/2018, Tenshin Reb Anderson, dharma talk at Green Gulch Farm."
 ---
 11/18/2018
 

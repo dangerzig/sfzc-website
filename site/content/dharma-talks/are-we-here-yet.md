@@ -1,11 +1,13 @@
 ---
 title: "Are We Here Yet?"
-speaker: ""
+speaker: "shinchi-linda-galijan"
 talk_date: "05/26/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/are-we-here-yet"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/qNSBvEoo-cMfXcsXK.html"
+description: "5/26/2018, Linda Galijan dharma talk at Tassajara."
 ---
 05/26/2018
 

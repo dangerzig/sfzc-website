@@ -1,11 +1,13 @@
 ---
 title: "Anuttara-samyaksambodhi: How to Live It"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "08/25/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/anuttara-samyaksambodhi-how-live-it"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/4o8D0wFJ-cMfXcsXK.html"
+description: "8/25/2012, Tenshin Reb Anderson dharma talk at Tassajara."
 ---
 08/25/2012
 

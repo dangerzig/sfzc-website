@@ -1,11 +1,13 @@
 ---
 title: "Bodhidharma's Song"
-speaker: ""
+speaker: "do-robert-thomas"
 talk_date: "12/22/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/bodhidharmas-song"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/28MzgQ8q-cMfXcsXK.html"
+description: "12/22/2012, Do-on Robert Thomas, dharma talk at City Center."
 ---
 12/22/2012
 

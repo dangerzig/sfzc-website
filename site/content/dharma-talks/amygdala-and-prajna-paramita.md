@@ -1,11 +1,13 @@
 ---
 title: "Amygdala and Prajna Paramita"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "07/29/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/amygdala-and-prajna-paramita"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/FFLZgNU3-cMfXcsXK.html"
+description: "7/29/2018, Steve Weintraub dharma talk at Green Gulch Farm."
 ---
 07/29/2018
 

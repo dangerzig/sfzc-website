@@ -1,11 +1,13 @@
 ---
 title: "Bodhisattva Precepts"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "11/15/2009"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/bodhisattva-precepts"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/nhngMGb9-cMfXcsXK.html"
+description: "11/15/2009, Eijun Linda Ruth Cutts dharma talk at Green Gulch Farm."
 ---
 11/15/2009
 

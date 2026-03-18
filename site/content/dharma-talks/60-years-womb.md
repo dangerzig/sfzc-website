@@ -1,11 +1,12 @@
 ---
 title: "60 Years in the Womb"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "11/23/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/60-years-womb"
+centers:
+  - "Tassajara"
+description: "11/23/2015, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 No video provider was found to handle the given URL. See [the documentation](https://www.drupal.org/node/2842927) for more information.
 

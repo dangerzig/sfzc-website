@@ -1,11 +1,13 @@
 ---
 title: "Box of Nothing"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "12/20/2009"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/box-nothing"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/77bMpevS-cMfXcsXK.html"
+description: "12/20/2009, Rev. Furyu Schroeder dharma talk at Green Gulch Farm."
 ---
 12/20/2009
 

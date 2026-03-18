@@ -1,11 +1,13 @@
 ---
 title: "Bodhisattva Training"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "06/16/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/bodhisattva-training"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/erXDkU6S-cMfXcsXK.html"
+description: "6/16/2010, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 06/16/2010
 

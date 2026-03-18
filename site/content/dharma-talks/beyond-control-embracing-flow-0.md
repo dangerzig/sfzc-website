@@ -1,11 +1,13 @@
 ---
 title: "Beyond Control, Embracing Flow"
-speaker: ""
+speaker: "so-eli-brown-stevenson"
 talk_date: "11/13/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/beyond-control-embracing-flow-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/iVdXQJ0t-cMfXcsXK.html"
+description: "11/13/2024, Eli Brown-Stevenson, dharma talk at City Center.This dharma talk was given at Beginner’s Mind Temple by So-on Eli Brown-Stevenson, co-leader of the fall 2024 Practice Period at City Center. Inspired by the teachings from Suzuki Roshi and the symbolism of the bell in Zen practice, this ta"
 ---
 11/13/2024
 

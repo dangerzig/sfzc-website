@@ -1,11 +1,13 @@
 ---
 title: "Birth of Buddhas"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "05/16/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/birth-buddhas"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/DSrbYtU6-cMfXcsXK.html"
+description: "5/16/2010, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 05/16/2010
 
