@@ -1,11 +1,13 @@
 ---
 title: "Practicing With Common Illness"
-speaker: ""
+speaker: "doshin-dan-gudgel"
 talk_date: "09/06/2023"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/practicing-common-illness-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/ezJ172yc-cMfXcsXK.html"
+description: "09/06/2023, Dan Gudgel, dharma talk at City Center.In this talk from Beginner's Mind Temple, Dan Gudgel discusses practice lessons and methods of practice that emerged around the experiences of having COViD, and having a common head cold. Dan suggests close attention to our everyday suffering, to hi"
 ---
 09/06/2023
 

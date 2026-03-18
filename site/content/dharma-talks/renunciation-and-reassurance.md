@@ -1,11 +1,13 @@
 ---
 title: "Renunciation and Reassurance"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "12/02/2013"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/renunciation-and-reassurance"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/8Aq9vqeM-cMfXcsXK.html"
+description: "12/2/2013, Ryushin Paul Haller, dharma talk at City Center."
 ---
 12/02/2013
 

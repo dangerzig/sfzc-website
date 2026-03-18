@@ -1,11 +1,13 @@
 ---
 title: "Realms of Lovingkindness"
-speaker: ""
+speaker: "gil-fronsdal"
 talk_date: "03/05/2008"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/realms-lovingkindness"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/lnHgybUE-cMfXcsXK.html"
+description: "3/5/2008, Gil Fronsdal dharma talk at City Center."
 ---
 03/05/2008
 

@@ -1,11 +1,13 @@
 ---
 title: "Reality In This Being"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "04/26/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/reality-being"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/wBzuDH6l-cMfXcsXK.html"
+description: "04/26/2019, Leslie James, dharma talk at Tassajara."
 ---
 04/26/2019
 

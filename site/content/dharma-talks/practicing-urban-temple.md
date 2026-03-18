@@ -1,11 +1,13 @@
 ---
 title: "Practicing in an Urban Temple"
-speaker: ""
+speaker: "anshin-rosalie-curtis"
 talk_date: "08/03/2013"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/practicing-urban-temple"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/9wfRuf0m-cMfXcsXK.html"
+description: "8/3/2013, Anshin Rosalie Curtis dharma talk at City Center."
 ---
 08/03/2013
 

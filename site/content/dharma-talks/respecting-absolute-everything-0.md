@@ -1,11 +1,13 @@
 ---
 title: "Respecting The Absolute In Everything"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "08/14/2022"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/respecting-absolute-everything-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/mzysuvyV-cMfXcsXK.html"
+description: "08/14/2022, Jiryu Rutschman-Byler, dharma talk at Green Gulch Farm.A talk on Suzuki Roshi's statement that, while the essential truth of Buddhism is most directly reached by zazen practice, there are two teachings that characterize Mahayana Buddhism: \"the absolute character of all phenomena and the"
 ---
 08/14/2022
 

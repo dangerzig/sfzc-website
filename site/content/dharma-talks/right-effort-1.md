@@ -1,11 +1,13 @@
 ---
 title: "Right Effort"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "05/27/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/right-effort-1"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/piPxargG-cMfXcsXK.html"
+description: "5/27/2017, Shosan Victoria Austin dharma talk at Tassajara."
 ---
 05/27/2017
 

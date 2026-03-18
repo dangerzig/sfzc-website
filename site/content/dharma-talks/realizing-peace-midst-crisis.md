@@ -1,11 +1,13 @@
 ---
 title: "Realizing Peace in the Midst of Crisis"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "12/15/2019"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/realizing-peace-midst-crisis"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/RLtNKOW8-cMfXcsXK.html"
+description: "12/15/2019, Tenshin Reb Anderson, dharma talk at Green Gulch Farm."
 ---
 12/15/2019
 

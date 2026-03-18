@@ -1,11 +1,13 @@
 ---
 title: "The Request of the Schedule in Sesshin"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "03/22/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/request-schedule-sesshin"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/PmqgaJwH-cMfXcsXK.html"
+description: "3/22/2017, Ryushin Paul Haller dharma talk at City Center."
 ---
 03/22/2017
 

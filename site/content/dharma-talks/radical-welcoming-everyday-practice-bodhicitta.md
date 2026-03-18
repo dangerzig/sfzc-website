@@ -1,11 +1,13 @@
 ---
 title: "Radical Welcoming: The Everyday Practice of Bodhicitta"
-speaker: ""
+speaker: "qayyum-johnson"
 talk_date: "04/16/2017"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/radical-welcoming-everyday-practice-bodhicitta"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/IX6fhEGi-cMfXcsXK.html"
+description: "4/16/2017, Qayyum Johnson dharma talk at Green Gulch Farm."
 ---
 04/16/2017
 

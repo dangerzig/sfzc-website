@@ -1,11 +1,13 @@
 ---
 title: "A Reason To Be Together"
-speaker: ""
+speaker: "shinchi-linda-galijan"
 talk_date: "05/15/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/reason-be-together"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/RbUauEYA-cMfXcsXK.html"
+description: "05/15/2019, Linda Galijan, dharma talk at Tassajara."
 ---
 05/15/2019
 

@@ -1,11 +1,13 @@
 ---
 title: "Practicing Silence and Forgiveness"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "05/10/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/practicing-silence-and-forgiveness"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/rmscYiFu-cMfXcsXK.html"
+description: "5/10/2010, Christina Lehnherr dharma talk at Tassajara."
 ---
 05/10/2010
 

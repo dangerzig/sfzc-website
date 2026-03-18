@@ -1,11 +1,13 @@
 ---
 title: "The Practice of Work"
-speaker: ""
+speaker: "shokan-jordan-thorn"
 talk_date: "05/02/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/practice-work"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/ijgVnhID-cMfXcsXK.html"
+description: "5/2/2012, Shokan Jordan Thorn dharma talk at City Center."
 ---
 05/02/2012
 

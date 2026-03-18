@@ -1,11 +1,13 @@
 ---
 title: "The Radical Power of Love"
-speaker: ""
+speaker: "jisan-tova-green"
 talk_date: "01/15/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/radical-power-love"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/yUqMqvYf-cMfXcsXK.html"
+description: "1/15/2011, Jisan Tova Green dharma talk at City Center."
 ---
 01/15/2011
 

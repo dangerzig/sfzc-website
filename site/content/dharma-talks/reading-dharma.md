@@ -1,11 +1,13 @@
 ---
 title: "Reading the Dharma"
-speaker: ""
+speaker: "marcia-lieberman"
 talk_date: "09/02/2023"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/reading-dharma"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/VYEfZShp-cMfXcsXK.html"
+description: "09/02/2023, Marcia Lieberman, dharma talk at City Center. In this talk from Beginner's Mind Temple, Marcia Lieberman explores the connection between books and practice. When  reading the Dharma, listening to talks, or visiting websites, there is no guarantee that there will be any real benefit in un"
 ---
 09/02/2023
 

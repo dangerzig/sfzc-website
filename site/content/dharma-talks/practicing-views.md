@@ -1,11 +1,13 @@
 ---
 title: "Practicing with Views"
-speaker: ""
+speaker: "ango-sara-tashker"
 talk_date: "05/22/2016"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/practicing-views"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/tzGl5grn-cMfXcsXK.html"
+description: "5/22/2016, Sara Tashker dharma talk at Green Gulch Farm."
 ---
 05/22/2016
 

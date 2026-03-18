@@ -1,11 +1,13 @@
 ---
 title: "Renouncing Unhappiness"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "05/07/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/renouncing-unhappiness-1"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/xXbLAeXp-cMfXcsXK.html"
+description: "5/7/2011, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 05/07/2011
 

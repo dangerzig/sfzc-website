@@ -1,11 +1,13 @@
 ---
 title: "Pure Land History and Practice - A Voyage of Compassion"
-speaker: ""
+speaker: "harry-gyokyo-bridge"
 talk_date: "09/30/2009"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/pure-land-history-and-practice-voyage-compassion"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/b90bPKGX-cMfXcsXK.html"
+description: "9/30/2009, Rev. Harry Gyoko Bridge dharma talk at Green Gulch Farm."
 ---
 09/30/2009
 

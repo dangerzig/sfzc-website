@@ -1,11 +1,13 @@
 ---
 title: "Questions of Your Heart"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "04/13/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/questions-your-heart"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/fCvXAYdN-cMfXcsXK.html"
+description: "04/13/2019, Ryushin Paul Haller, dharma talk at Tassajara."
 ---
 04/13/2019
 

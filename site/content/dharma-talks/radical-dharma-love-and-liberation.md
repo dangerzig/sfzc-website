@@ -1,11 +1,13 @@
 ---
 title: "Radical Dharma: Love and Liberation"
-speaker: ""
+speaker: "rev-angel-kyodo-williams"
 talk_date: "06/11/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/radical-dharma-love-and-liberation"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/3dOlNgaX-cMfXcsXK.html"
+description: "6/11/2016, angel Kyodo williams dharma talk at Tassajara."
 ---
 06/11/2016
 

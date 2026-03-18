@@ -1,11 +1,13 @@
 ---
 title: "Reality Wearing her Hat Visits Judi in the Night"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "12/10/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/reality-wearing-her-hat-visits-judi-night"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/ONKpcQAG-cMfXcsXK.html"
+description: "12/10/2017, Tenshin Reb Anderson dharma talk at Tassajara."
 ---
 12/10/2017
 

@@ -1,11 +1,12 @@
 ---
 title: "Pure Conduct"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "11/22/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/pure-conduct"
+centers:
+  - "Tassajara"
+description: "11/22/2015, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 No video provider was found to handle the given URL. See [the documentation](https://www.drupal.org/node/2842927) for more information.
 

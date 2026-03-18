@@ -1,11 +1,13 @@
 ---
 title: "Reweaving With Our Women Ancestors"
-speaker: ""
+speaker: "pamela-weiss"
 talk_date: "07/11/2020"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/reweaving-our-women-ancestors"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/2jMlEeGO-cMfXcsXK.html"
+description: "07/11/2020, Pamela Weiss, dharma talk at City Center."
 ---
 07/11/2020
 

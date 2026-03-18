@@ -1,11 +1,13 @@
 ---
 title: "Realizing Our Infinite Life"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "04/23/2017"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/realizing-our-infinite-life"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/8jnEHbR8-cMfXcsXK.html"
+description: "4/23/2017, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 04/23/2017
 

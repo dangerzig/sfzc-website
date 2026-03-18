@@ -1,11 +1,13 @@
 ---
 title: "The Practice of Zazen"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "10/20/2019"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/practice-zazen"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/ggoraLcX-cMfXcsXK.html"
+description: "10/20/2019, Jiryu Rutschman-Byler, dharma talk at Green Gulch Farm."
 ---
 10/20/2019
 

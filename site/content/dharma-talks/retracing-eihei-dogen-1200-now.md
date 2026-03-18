@@ -1,11 +1,13 @@
 ---
 title: "Retracing Eihei Dogen from 1200 to Now"
-speaker: ""
+speaker: "sessei-meg-mcneil-levie"
 talk_date: "03/23/2014"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/retracing-eihei-dogen-1200-now"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/qaFyNWpp-cMfXcsXK.html"
+description: "3/23/2014, Sessei Meg Levie dharma talk at Green Gulch Farm."
 ---
 03/23/2014
 

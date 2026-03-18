@@ -1,11 +1,13 @@
 ---
 title: "The Precepts and the Paramitas"
-speaker: ""
+speaker: "anshi-zachary-smith"
 talk_date: "09/24/2022"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/precepts-and-paramitas"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/MAZdLxpN-cMfXcsXK.html"
+description: "09/24/2022, Anshi Zachary Smith, dharma talk at City Center. We discuss the precepts, giving a bit of history, and how they changed as Buddhism was infused with new ideas from the Mahayana philosophers and practitioners. In particular, we talk about the way in which the six Paramitas were proposed, "
 ---
 09/24/2022
 

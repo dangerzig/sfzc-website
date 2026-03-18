@@ -1,11 +1,13 @@
 ---
 title: "Right Effort, Right Action"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "10/21/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/right-effort-right-action"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/eiFOY2UX-cMfXcsXK.html"
+description: "10/21/2012, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 10/21/2012
 

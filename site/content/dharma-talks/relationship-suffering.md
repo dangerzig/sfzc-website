@@ -1,11 +1,13 @@
 ---
 title: "A Relationship With Suffering"
-speaker: ""
+speaker: "lee-lipp"
 talk_date: "08/20/2014"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/relationship-suffering"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/A2ZftsGC-cMfXcsXK.html"
+description: "8/20/2014, Lee Lipp, dharma talk at City Center."
 ---
 08/20/2014
 

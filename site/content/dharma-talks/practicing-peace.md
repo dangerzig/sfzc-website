@@ -1,11 +1,13 @@
 ---
 title: "Practicing Peace"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "08/04/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/practicing-peace"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/TkNaisF3-cMfXcsXK.html"
+description: "8/4/2010, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 08/04/2010
 

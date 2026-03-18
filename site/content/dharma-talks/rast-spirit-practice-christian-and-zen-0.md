@@ -1,11 +1,13 @@
 ---
 title: "Rast - The Spirit of Practice: Christian and Zen"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "07/03/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/rast-spirit-practice-christian-and-zen-0"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/KztIrDTh-cMfXcsXK.html"
+description: "7/3/2011, Ryushin Paul Halle,Brother David Steindl dharma talk at Tassajara."
 ---
 07/03/2011
 

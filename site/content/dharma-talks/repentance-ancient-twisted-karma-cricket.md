@@ -1,11 +1,13 @@
 ---
 title: "Repentance: Ancient Twisted Karma (Cricket)"
-speaker: ""
+speaker: "keiryu-lien-shutt"
 talk_date: "07/28/2019"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/repentance-ancient-twisted-karma-cricket"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/HCgaNN9i-cMfXcsXK.html"
+description: "07/28/2019, Keiryu Liên Shutt, dharma talk at Green Gulch Farm."
 ---
 07/28/2019
 
