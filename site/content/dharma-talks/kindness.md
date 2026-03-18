@@ -1,11 +1,13 @@
 ---
 title: "Kindness"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "10/24/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/kindness"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/7SLKk4EW-cMfXcsXK.html"
+description: "10/24/2010, Christina Lehnherr dharma talk at Green Gulch Farm."
 ---
 10/24/2010
 

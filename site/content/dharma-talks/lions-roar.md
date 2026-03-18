@@ -1,11 +1,13 @@
 ---
 title: "The Lions Roar"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "03/20/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/lions-roar"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/G4d6cZI9-cMfXcsXK.html"
+description: "3/20/2012, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 03/20/2012
 

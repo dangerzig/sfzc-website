@@ -1,11 +1,13 @@
 ---
 title: "The Life of Buddha"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "10/07/2020"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/life-buddha-1"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/h2XRZOCj-cMfXcsXK.html"
+description: "Shakyamuni Buddha and the hero's journey.10/07/2020, Rinso Ed Sattizahn, dharma talk at City Center."
 ---
 10/07/2020
 

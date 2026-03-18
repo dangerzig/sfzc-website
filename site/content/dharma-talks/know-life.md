@@ -1,11 +1,13 @@
 ---
 title: "To Know Life"
-speaker: ""
+speaker: "teah-strozer"
 talk_date: "07/14/2022"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/know-life"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/kW2aLmPD-cMfXcsXK.html"
+description: "7/14/2022, Teah Strozer, dharma talk at Tassajara."
 ---
 07/14/2022
 

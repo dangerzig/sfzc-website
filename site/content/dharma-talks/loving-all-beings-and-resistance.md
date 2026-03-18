@@ -1,11 +1,13 @@
 ---
 title: "Loving All Beings and Resistance"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "03/15/2009"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/loving-all-beings-and-resistance"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/8FbkSuDq-cMfXcsXK.html"
+description: "3/15/2009, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 03/15/2009
 

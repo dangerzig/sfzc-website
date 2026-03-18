@@ -1,11 +1,13 @@
 ---
 title: "Maya's Birth Story"
-speaker: ""
+speaker: "horin-nancy-petrin"
 talk_date: "04/10/2021"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/mayas-birth-story-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/yjT0KPNZ-cMfXcsXK.html"
+description: "On the occasion of Buddha's Birthday lay teacher, mother, and birth and postpartum doula Nancy Petrin reimagines the story of Buddha's birth, placing his mother Maya at the center of its telling. With a focus on practicing with anger and grief, what is it to reimagine our stories into wholeness ackn"
 ---
 04/10/2021
 

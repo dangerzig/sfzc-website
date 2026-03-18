@@ -1,11 +1,13 @@
 ---
 title: "A Labor of Love"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "04/15/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/labor-love"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/VjnPJrzp-cMfXcsXK.html"
+description: "4/15/2011, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 04/15/2011
 

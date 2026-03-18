@@ -1,11 +1,13 @@
 ---
 title: "Lessons From A Zen Monastery"
-speaker: ""
+speaker: "marc-lesser"
 talk_date: "08/24/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/lessons-zen-monastery"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/ngRRffQ2-cMfXcsXK.html"
+description: "08/24/2019, Marc Lesser, dharma talk at Tassajara."
 ---
 08/24/2019
 

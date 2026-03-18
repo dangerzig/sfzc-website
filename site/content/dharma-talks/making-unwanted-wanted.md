@@ -1,11 +1,13 @@
 ---
 title: "Making the Unwanted Wanted"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "12/11/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/making-unwanted-wanted"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/kYdREObF-cMfXcsXK.html"
+description: "12/11/2018, Furyu Schroeder, dharma talk at Tassajara."
 ---
 12/11/2018
 

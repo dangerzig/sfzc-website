@@ -1,11 +1,13 @@
 ---
 title: "Make Your Best Effort"
-speaker: ""
+speaker: "abbot-tenzen-david-zimmerman"
 talk_date: "10/08/2016"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/make-your-best-effort"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/KwjuLaLz-cMfXcsXK.html"
+description: "10/8/2016, Tenzen David Zimmerman dharma talk at City Center."
 ---
 10/08/2016
 

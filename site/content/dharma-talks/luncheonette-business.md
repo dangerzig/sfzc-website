@@ -1,11 +1,13 @@
 ---
 title: "The Luncheonette Business"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "11/14/2009"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/luncheonette-business"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/nN0nNFbO-cMfXcsXK.html"
+description: "11/14/2009, Steve Weintraub dharma talk at City Center."
 ---
 11/14/2009
 

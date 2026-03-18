@@ -1,11 +1,13 @@
 ---
 title: "Keizan's Pure Land Right Here"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "04/23/2025"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/keizans-pure-land-right-here"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/opbwL1co-cMfXcsXK.html"
+description: "04/23/2025, Shosan Victoria Austin, dharma talk at City Center. Shosan Victoria Austin uses Keizan Zenji’s teachings to explore the questions: What is intentional service? And, how does this help very different people build an environment of wholeness and trust?"
 ---
 04/23/2025
 

@@ -1,11 +1,13 @@
 ---
 title: "Making Mistakes"
-speaker: ""
+speaker: "zesho-susan-oconnell"
 talk_date: "06/03/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/making-mistakes"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/f9SI69GQ-cMfXcsXK.html"
+description: "6/3/2012, Zesho Susan O'Connell dharma talk at Green Gulch Farm."
 ---
 06/03/2012
 

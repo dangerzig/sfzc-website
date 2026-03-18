@@ -1,11 +1,13 @@
 ---
 title: "The Meaning of the Birth of the Buddha"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "04/29/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/meaning-birth-buddha"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/fPyZFrdg-cMfXcsXK.html"
+description: "4/29/2012, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 04/29/2012
 

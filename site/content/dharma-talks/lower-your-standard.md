@@ -1,11 +1,13 @@
 ---
 title: "Lower Your Standard"
-speaker: ""
+speaker: "marc-lesser"
 talk_date: "05/03/2013"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/lower-your-standard"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/wmelesn6-cMfXcsXK.html"
+description: "5/3/2013, Marc Lesser dharma talk at Green Gulch Farm."
 ---
 05/03/2013
 

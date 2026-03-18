@@ -1,11 +1,13 @@
 ---
 title: "Lucky to Be Alive"
-speaker: ""
+speaker: "doshin-dan-gudgel"
 talk_date: "08/17/2025"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/lucky-be-alive"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/KkIKAumJ-cMfXcsXK.html"
+description: "08/17/2025, Doshin Dan Gudgel, dharma talk at Green Gulch Farm. Doshin Dan Gudgel explores how feeling the preciousness of life can support deep practice, kindness and gentleness."
 ---
 08/17/2025
 

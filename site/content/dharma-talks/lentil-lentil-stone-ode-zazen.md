@@ -1,11 +1,13 @@
 ---
 title: "A Lentil a Lentil a Stone: An Ode to Zazen"
-speaker: ""
+speaker: "sonja-gardenswartz"
 talk_date: "12/11/2022"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/lentil-lentil-stone-ode-zazen"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/5ikh2vsT-cMfXcsXK.html"
+description: "12/11/2022, Sonja Gardenswartz, dharma talk at Green Gulch Farm. Our zazen sitting builds a foundation upon which we make contact with what is important to us, you become the gift. Not searching outside ourselves for what matters but to go in and settle, drop in to the body is to be more permeable t"
 ---
 12/11/2022
 

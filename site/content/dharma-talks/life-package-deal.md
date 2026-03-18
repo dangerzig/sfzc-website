@@ -1,11 +1,13 @@
 ---
 title: "Life Is a Package Deal"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "06/26/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/life-package-deal"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/lR3OIwR7-cMfXcsXK.html"
+description: "6/26/2013, Jiryu Rutschman-Byler, dharma talk at Tassajara."
 ---
 06/26/2013
 

@@ -2,10 +2,12 @@
 title: "Listening to Wild Nature, Listening with the Eye of Wisdom"
 speaker: ""
 talk_date: "07/11/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/listening-wild-nature-listening-eye-wisdom"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/GKpVT0UC-cMfXcsXK.html"
+description: "7/11/2010, Myogen Steve Stucky dharma talk at Green Gulch Farm."
 ---
 07/11/2010
 

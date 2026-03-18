@@ -1,11 +1,13 @@
 ---
 title: "March 17th Class (poor quality audio)"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "03/13/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/march-17th-class-poor-quality-audio"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/wMz36TQN-cMfXcsXK.html"
+description: "3/13/2014, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 03/13/2014
 

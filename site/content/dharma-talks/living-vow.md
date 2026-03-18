@@ -1,11 +1,13 @@
 ---
 title: "Living By Vow"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "02/20/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/living-vow"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/GgO2qry9-cMfXcsXK.html"
+description: "2/20/2016, Furyu Schroeder dharma talk at Tassajara."
 ---
 02/20/2016
 

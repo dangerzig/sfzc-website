@@ -1,11 +1,13 @@
 ---
 title: "Light"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "07/13/2009"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/light"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/Mqj7YYAG-cMfXcsXK.html"
+description: "7/13/2009, Sojun Mel Weitsman dharma talk at Tassajara."
 ---
 07/13/2009
 

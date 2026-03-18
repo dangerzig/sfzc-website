@@ -1,11 +1,13 @@
 ---
 title: "Listening With Your Body"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "12/15/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/listening-your-body"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/KQ7xsToG-cMfXcsXK.html"
+description: "12/15/2013, Kiku Christina Lehnherr dharma talk at Tassajara."
 ---
 12/15/2013
 

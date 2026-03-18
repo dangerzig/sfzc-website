@@ -1,11 +1,13 @@
 ---
 title: "Meeting the Ancestors, Meeting Oneself"
-speaker: ""
+speaker: "abbot-tenzen-david-zimmerman"
 talk_date: "01/17/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/meeting-ancestors-meeting-oneself"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/sgHCspEY-cMfXcsXK.html"
+description: "1/17/2018, Tenzen David Zimmerman dharma talk at City Center."
 ---
 01/17/2018
 

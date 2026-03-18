@@ -1,11 +1,13 @@
 ---
 title: "Living By Vow"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "05/31/2022"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/living-vow-1"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/AxWsfzNr-cMfXcsXK.html"
+description: "05/31/2022, Ryushin Paul Haller, dharma talk at Tassajara."
 ---
 05/31/2022
 

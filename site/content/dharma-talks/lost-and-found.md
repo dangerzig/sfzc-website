@@ -1,11 +1,13 @@
 ---
 title: "Lost and Found"
-speaker: ""
+speaker: "shokan-jordan-thorn"
 talk_date: "04/23/2008"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/lost-and-found"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/XDfNFt5v-cMfXcsXK.html"
+description: "4/23/2008, Shokan Jordan Thorn dharma talk at City Center."
 ---
 04/23/2008
 

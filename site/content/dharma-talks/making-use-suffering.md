@@ -1,11 +1,13 @@
 ---
 title: "Making Use Of Suffering"
-speaker: ""
+speaker: "christine-burkhart"
 talk_date: "03/25/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/making-use-suffering"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/D9Q7U6b5-cMfXcsXK.html"
+description: "03/25/2019, Christine Burkhart, dharma talk at Tassajara."
 ---
 03/25/2019
 

@@ -1,11 +1,13 @@
 ---
 title: "The Meaning of Life at Tassajara"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "08/19/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/meaning-life-tassajara"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/CZmiD5EU-cMfXcsXK.html"
+description: "8/19/2010, Leslie James dharma talk at Tassajara."
 ---
 08/19/2010
 

@@ -1,11 +1,13 @@
 ---
 title: "Light and Dark"
-speaker: ""
+speaker: "shokuchi-deirdre-carrigan-0"
 talk_date: "10/30/2016"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/light-and-dark"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/UBlSaBda-cMfXcsXK.html"
+description: "10/30/2016, Shokuchi Carrigan dharma talk at Green Gulch Farm."
 ---
 10/30/2016
 

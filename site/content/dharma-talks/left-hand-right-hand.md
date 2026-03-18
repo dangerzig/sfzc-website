@@ -1,11 +1,13 @@
 ---
 title: "Left Hand, Right Hand"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "03/01/2026"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/left-hand-right-hand"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/GQuaSdCd-cMfXcsXK.html"
+description: "03/01/2026, Abbot Jiryu Rutschman-Byler, dharma talk at Green Gulch Farm. Jiryu Rutschman-Byler reflects on the classical Zen teaching \"the ten thousand things are one body,\" exploring how understanding that truth plants seeds of peace in our hearts and in this world of confusion and violence, in "
 ---
 03/01/2026
 
