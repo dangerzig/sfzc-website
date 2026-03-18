@@ -1,11 +1,13 @@
 ---
 title: "The Zen of The Missing Piece"
-speaker: ""
+speaker: "keiryu-lien-shutt"
 talk_date: "06/04/2017"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/zen-missing-piece"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/HM9KknTI-cMfXcsXK.html"
+description: "6/4/2017, Keiryu Lien Shutt dharma talk at Green Gulch Farm."
 ---
 06/04/2017
 

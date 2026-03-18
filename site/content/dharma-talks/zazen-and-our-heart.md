@@ -1,11 +1,13 @@
 ---
 title: "Zazen and Our Heart"
-speaker: ""
+speaker: "shokan-jordan-thorn"
 talk_date: "10/15/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/zazen-and-our-heart"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/na2DEOAr-cMfXcsXK.html"
+description: "10/15/2011, Shokan Jordan Thorn dharma talk at City Center."
 ---
 10/15/2011
 

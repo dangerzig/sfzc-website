@@ -1,11 +1,13 @@
 ---
 title: "Your Perfect Self"
-speaker: ""
+speaker: "gyo-ji-arlene-lueck"
 talk_date: "05/17/2009"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/your-perfect-self"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/2oSyljHl-cMfXcsXK.html"
+description: "5/17/2009, Arlene Lueck dharma talk at Green Gulch Farm."
 ---
 05/17/2009
 

@@ -1,11 +1,13 @@
 ---
 title: "Zen-prentice"
-speaker: ""
+speaker: "onryu-mary-stares"
 talk_date: "07/10/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/zen-prentice"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/5K2H10jb-cMfXcsXK.html"
+description: "07/10/2019, Onryu Mary Stares, dharma talk at Tassajara."
 ---
 07/10/2019
 

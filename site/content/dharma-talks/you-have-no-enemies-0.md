@@ -1,11 +1,13 @@
 ---
 title: "You Have No Enemies"
-speaker: ""
+speaker: "doshin-dan-gudgel"
 talk_date: "05/15/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/you-have-no-enemies-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/yMMidA4o-cMfXcsXK.html"
+description: "05/15/2024, Dan Gudgel, dharma talk at City Center.In this talk, given at Beginner's Mind Temple, Dōshin Dan Gudgel investigates how using the word and idea of ‘enemy’ affects our every day experience. Dan examines our national, military idea of ‘enemies,’ as well as how modern culture in the U.S. i"
 ---
 05/15/2024
 

@@ -1,11 +1,13 @@
 ---
 title: "Zazen and Waking Up"
-speaker: ""
+speaker: "shokan-jordan-thorn"
 talk_date: "10/24/2007"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/zazen-and-waking"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/tqf4bM3D-cMfXcsXK.html"
+description: "10/24/2007, Shokan Jordan Thorn dharma talk at City Center."
 ---
 10/24/2007
 

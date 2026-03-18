@@ -1,11 +1,13 @@
 ---
 title: "Yunmen’s Every Day is a Good Day"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "09/26/2021"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/yunmens-every-day-good-day-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/gCR3Lq5O-cMfXcsXK.html"
+description: "In the talk, Abbot Ed Sattizahn uses the \"Every Day is a Good Day\" koan, and Suzuki's Roshi's teaching, to explore how it may be genuinely beneficial, to ourselves and others, to appreciate our life beyond the \"good\" and \"bad\" of it.  09/26/2021, Rinso Ed Sattizahn, dharma talk at Green Gulch "
 ---
 09/26/2021
 

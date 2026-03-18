@@ -1,11 +1,13 @@
 ---
 title: "Zen Practices for Anger"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "10/05/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/zen-practices-anger-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/KrBx7xGU-cMfXcsXK.html"
+description: "10/05/2024, Shosan Victoria Austin, dharma talk at City Center.This dharma talk was given at Beginner’s Mind Temple by Shosan Victoria Austin. When we are challenged by anger, it's easy to react and difficult to respond. How might Zen practices of giving, tolerance and enthusiasm help us let go of r"
 ---
 10/05/2024
 

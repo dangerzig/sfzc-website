@@ -1,11 +1,13 @@
 ---
 title: "Zen Tonglen: Devotion to Justice"
-speaker: ""
+speaker: "korin-charlie-pokorny"
 talk_date: "06/21/2020"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/zen-tonglen-devotion-justice"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/3S4o2Cso-cMfXcsXK.html"
+description: "06/21/2020, Korin Charlie Pokorny, dharma talk at Green Gulch Farm."
 ---
 06/21/2020
 

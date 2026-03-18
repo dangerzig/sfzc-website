@@ -1,11 +1,13 @@
 ---
 title: "Zhaozhou Teaching the Assembly"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "04/13/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/zhaozhou-teaching-assembly"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/mHOG9DVB-cMfXcsXK.html"
+description: "04/13/2019, Rinso Ed Sattizahn, dharma talk at City Center."
 ---
 04/13/2019
 

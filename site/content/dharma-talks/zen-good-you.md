@@ -1,11 +1,13 @@
 ---
 title: "Zen Is Good For You!"
-speaker: ""
+speaker: "yogetsu-akasaka"
 talk_date: "03/02/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/zen-good-you"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/n0lE9emU-cMfXcsXK.html"
+description: "In this talk, given at Beginner's Mind Temple, visiting monk Yogetsu Akasaka discusses the contrasts he’s seen between Soto Zen in Japan and in the United States. Yogetsu explains the path he’s taken from touring as a beatbox musician, to preparing to one day inherit the temple that this father curr"
 ---
 03/02/2024
 

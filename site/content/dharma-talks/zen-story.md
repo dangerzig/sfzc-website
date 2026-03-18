@@ -1,11 +1,13 @@
 ---
 title: "A Zen Story"
-speaker: ""
+speaker: "graham-ross"
 talk_date: "09/15/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/zen-story"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/Jew0EutI-cMfXcsXK.html"
+description: "9/15/2012, Graham Ross dharma talk at Tassajara."
 ---
 09/15/2012
 

@@ -1,11 +1,13 @@
 ---
 title: "You Call It A Cat"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "12/14/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/you-call-it-cat"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/IOLSJJrf-cMfXcsXK.html"
+description: "12/14/2018, Furyu Schroeder, dharma talk at Tassajara."
 ---
 12/14/2018
 

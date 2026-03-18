@@ -1,11 +1,13 @@
 ---
 title: "Zazen is Our Whole Life"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "10/04/2014"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/zazen-our-whole-life"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/wCfjIaBl-cMfXcsXK.html"
+description: "10/4/2014, Rinso Ed Sattizahn dharma talk at City Center."
 ---
 10/04/2014
 
