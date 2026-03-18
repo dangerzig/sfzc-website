@@ -1,11 +1,13 @@
 ---
 title: "A Monks Mouth Is Like An Oven"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "11/12/2017"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/monks-mouth-oven"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/le5Wksu2-cMfXcsXK.html"
+description: "11/12/2017, Eijun Linda Ruth Cutts dharma talk at Green Gulch Farm."
 ---
 11/12/2017
 

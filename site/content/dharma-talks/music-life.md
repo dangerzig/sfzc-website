@@ -1,11 +1,13 @@
 ---
 title: "The Music of Life"
-speaker: ""
+speaker: "shundo-david-haye"
 talk_date: "08/13/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/music-life"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/l6a4vpod-cMfXcsXK.html"
+description: "8/13/2014, Shundo David Haye dharma talk at Tassajara."
 ---
 08/13/2014
 

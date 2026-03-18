@@ -1,11 +1,13 @@
 ---
 title: "In the Mountains, Meeting Flowing Mountains"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "03/26/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/mountains-meeting-flowing-mountains"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/Y2uIOUyR-cMfXcsXK.html"
+description: "3/26/2012, Eijun Linda Cutts dharma talk at Tassajara."
 ---
 03/26/2012
 

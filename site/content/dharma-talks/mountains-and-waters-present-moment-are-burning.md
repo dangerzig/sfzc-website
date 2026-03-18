@@ -1,11 +1,13 @@
 ---
 title: "The Mountains and Waters of the Present Moment are Burning"
-speaker: ""
+speaker: "shinchi-linda-galijan"
 talk_date: "10/28/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/mountains-and-waters-present-moment-are-burning"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/kJmFzg33-cMfXcsXK.html"
+description: "10/28/2019, Shinchi Linda Galijan, dharma talk at Tassajara."
 ---
 10/28/2019
 

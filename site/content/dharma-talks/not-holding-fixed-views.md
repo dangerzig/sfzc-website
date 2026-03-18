@@ -1,11 +1,13 @@
 ---
 title: "Not Holding to Fixed Views"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "07/29/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/not-holding-fixed-views"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/jgHgkAjY-cMfXcsXK.html"
+description: "7/29/2015, Eijun Linda Ruth Cutts dharma talk at Tassajara."
 ---
 07/29/2015
 

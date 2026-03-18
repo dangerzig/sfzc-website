@@ -1,11 +1,13 @@
 ---
 title: "Meeting Impermanence Practice"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "06/10/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/meeting-impermanence-practice"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/H0ZaTLmO-cMfXcsXK.html"
+description: "6/10/2012, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 06/10/2012
 

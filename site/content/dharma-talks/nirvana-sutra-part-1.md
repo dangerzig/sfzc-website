@@ -1,11 +1,13 @@
 ---
 title: "The Nirvana Sutra Part 1"
-speaker: ""
+speaker: "mark-blum"
 talk_date: "08/11/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/nirvana-sutra-part-1"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/omZer9sq-cMfXcsXK.html"
+description: "8/11/2015, Mark Blum dharma talk at Tassajara."
 ---
 08/11/2015
 

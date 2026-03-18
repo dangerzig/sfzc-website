@@ -1,11 +1,13 @@
 ---
 title: "The Messenger Within"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "02/18/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/messenger-within"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/EZEoXUaO-cMfXcsXK.html"
+description: "2/18/2018, Furyu Schroeder dharma talk at Green Gulch Farm."
 ---
 02/18/2018
 

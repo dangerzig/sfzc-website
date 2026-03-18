@@ -1,11 +1,13 @@
 ---
 title: "Meeting Others on Equal Ground"
-speaker: ""
+speaker: "jisan-tova-green"
 talk_date: "06/14/2015"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/meeting-others-equal-ground"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/mKo5pYsr-cMfXcsXK.html"
+description: "6/14/2015, Jisan Tova Green dharma talk at Green Gulch Farm."
 ---
 06/14/2015
 

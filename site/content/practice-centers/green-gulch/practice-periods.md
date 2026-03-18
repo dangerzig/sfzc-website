@@ -18,6 +18,6 @@ San Francisco Zen Center welcomes international visitors in the US on B visas to
 
 Saturday, Mar 21, 2026
 
-| [Start Time](?order=field_dates_1&sort=asc "sort by Start Time") | [Location](?order=field_practice_center&sort=asc "sort by Location") | [Event](?order=title&sort=asc "sort by Event") |
+| Start Time | Location | Event |
 | --- | --- | --- |
 | 03:00 PM | Green Gulch Farm | [Whole and Wholesome Shikantaza: March 2026 Zen Retreat with Gil Fronsdal at Green Gulch Farm, GGF 3/21–4/4](https://www.sfzc.org/calendar/events/green-gulch-farm/whole-and-wholesome-shikantaza-march-2026-zen-retreat-gil-fronsdal) |

@@ -1,11 +1,13 @@
 ---
 title: "Not Always So"
-speaker: ""
+speaker: "zenju-earthlyn-manuel-osho"
 talk_date: "08/19/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/not-always-so"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/FxNf5tlV-cMfXcsXK.html"
+description: "8/19/2017, Zenju Earthlyn Manuel dharma talk at Tassajara."
 ---
 08/19/2017
 

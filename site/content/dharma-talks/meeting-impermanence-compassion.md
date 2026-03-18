@@ -1,11 +1,13 @@
 ---
 title: "Meeting Impermanence with Compassion"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "10/04/2009"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/meeting-impermanence-compassion"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/GMXTsXuh-cMfXcsXK.html"
+description: "10/4/2009, Furyu Schroeder dharma talk at Green Gulch Farm."
 ---
 10/04/2009
 

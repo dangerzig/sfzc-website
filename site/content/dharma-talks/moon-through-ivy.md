@@ -1,11 +1,13 @@
 ---
 title: "Like the Moon through Ivy"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "07/06/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/moon-through-ivy"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/Sfv9Pa3y-cMfXcsXK.html"
+description: "7/6/2011, Leslie James dharma talk at Tassajara."
 ---
 07/06/2011
 

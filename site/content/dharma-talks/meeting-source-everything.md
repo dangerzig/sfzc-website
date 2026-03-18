@@ -1,11 +1,13 @@
 ---
 title: "Meeting the Source in Everything"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "06/06/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/meeting-source-everything"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/WTcqQUCo-cMfXcsXK.html"
+description: "6/6/2012, Leslie James dharma talk at Tassajara."
 ---
 06/06/2012
 

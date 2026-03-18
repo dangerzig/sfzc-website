@@ -1,11 +1,13 @@
 ---
 title: "My Coffee Mug, or, Top Tips for Bodhisattvas"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "06/11/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/my-coffee-mug-or-top-tips-bodhisattvas"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/bP60jwYD-cMfXcsXK.html"
+description: "6/11/2011, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 06/11/2011
 

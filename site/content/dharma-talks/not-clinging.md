@@ -1,11 +1,13 @@
 ---
 title: "Not Clinging"
-speaker: ""
+speaker: "ajahn-amaro"
 talk_date: "08/26/2009"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/not-clinging"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/sPIFpTvH-cMfXcsXK.html"
+description: "8/26/2009, Ajahn Amaro dharma talk at Tassajara."
 ---
 08/26/2009
 

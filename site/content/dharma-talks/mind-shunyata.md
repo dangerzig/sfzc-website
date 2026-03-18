@@ -1,11 +1,13 @@
 ---
 title: "Mind of Shunyata"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "12/13/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/mind-shunyata"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/4SjKHOyv-cMfXcsXK.html"
+description: "12/13/2015, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 12/13/2015
 

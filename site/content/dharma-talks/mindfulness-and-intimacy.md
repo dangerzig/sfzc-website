@@ -1,11 +1,13 @@
 ---
 title: "Mindfulness and Intimacy"
-speaker: ""
+speaker: "ben-connelly"
 talk_date: "05/11/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/mindfulness-and-intimacy"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/HdoAewxp-cMfXcsXK.html"
+description: "05/11/2019, Ben Connelly dharma talk at City Center."
 ---
 05/11/2019
 

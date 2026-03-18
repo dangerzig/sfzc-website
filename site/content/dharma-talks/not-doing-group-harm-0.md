@@ -1,11 +1,13 @@
 ---
 title: "Not Doing Group Harm"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "07/28/2024"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/not-doing-group-harm-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/v8lPHdfN-cMfXcsXK.html"
+description: "07/28/2024, Shosan Victoria Austin, dharma talk at Green Gulch Farm.Studying Zen precepts, our tradition transmits a wealth of teachings to help us stop harming at personal and interpersonal levels. At this time in the West, we need to develop our ability to stop supporting harm and evil in groups a"
 ---
 07/28/2024
 

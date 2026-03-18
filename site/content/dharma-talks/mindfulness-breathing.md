@@ -1,11 +1,13 @@
 ---
 title: "Mindfulness of Breathing"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "11/13/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/mindfulness-breathing"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/2n6tBBeS-cMfXcsXK.html"
+description: "11/13/2010, Shosan Victoria Austin dharma talk at City Center."
 ---
 11/13/2010
 
