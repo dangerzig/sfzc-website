@@ -1,0 +1,20 @@
+---
+title: "Interdependence for Bunnies"
+speaker: ""
+talk_date: "10/09/2022"
+centers:
+  - "Green Gulch Farm"
+aliases:
+  - "/teachings/dharma-talks/interdependence-bunnies"
+---
+10/09/2022
+
+10/09/2022,Thiemo Blank, dharma talk at Green Gulch Farm. The teachings of interdependence, emptiness and dependent arising in Mahayana Buddhism, explained with the help of a cut out paper bunny.
+
+Hosted at:
+
+[Green Gulch Farm](/locations/green-gulch-farm)
+
+Featuring:
+
+[Thiemo Blank](/teachers/thiemo-blank)
