@@ -1,11 +1,13 @@
 ---
 title: "Turning the Light Inwards"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "01/23/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/turning-light-inwards"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/p0npdLLM-cMfXcsXK.html"
+description: "1/23/2013, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 01/23/2013
 

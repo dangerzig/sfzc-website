@@ -1,11 +1,13 @@
 ---
 title: "Three Types Of Consciousness"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/26/2020"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/three-types-consciousness"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/fqUHJ5FL-cMfXcsXK.html"
+description: "02/26/2020, Ryushin Paul Haller, dharma talk at Tassajara."
 ---
 02/26/2020
 

@@ -1,11 +1,13 @@
 ---
 title: "Trusting Your Life"
-speaker: ""
+speaker: "abbot-doshin-mako-voelkel"
 talk_date: "06/20/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/trusting-your-life"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/WldXx8gZ-cMfXcsXK.html"
+description: "6/20/2015, Mako Voelkel dharma talk at Tassajara."
 ---
 06/20/2015
 

@@ -1,11 +1,13 @@
 ---
 title: "Universal Gateway of Avalokiteshvara"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "01/17/2021"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/universal-gateway-avalokiteshvara-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/qPurEsq7-cMfXcsXK.html"
+description: "An entry into Chapter 25 of the Lotus Sutra for our time, dedicated to Dr. Martin Luther King, Jr.01/17/2021, Eijun Linda Cutts, dharma talk at Green Gulch Farm."
 ---
 01/17/2021
 

@@ -1,11 +1,13 @@
 ---
 title: "Turning Towards Earth Day"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "04/25/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/turning-towards-earth-day"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/jBV4HxQR-cMfXcsXK.html"
+description: "4/25/2010, Eijun Linda Ruth Cutts dharma talk at Green Gulch Farm."
 ---
 04/25/2010
 

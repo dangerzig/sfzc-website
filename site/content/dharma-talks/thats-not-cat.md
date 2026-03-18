@@ -1,11 +1,13 @@
 ---
 title: "Thats Not a Cat"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "03/27/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/thats-not-cat"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/hUBhH4GD-cMfXcsXK.html"
+description: "3/27/2016, Furyu Schroeder dharma talk at Tassajara."
 ---
 03/27/2016
 

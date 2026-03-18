@@ -1,11 +1,13 @@
 ---
 title: "Understanding the Self"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "05/06/2022"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/understanding-self"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/ypOVznR7-cMfXcsXK.html"
+description: "05/06/2022, Leslie James, dharma talk at Tassajara."
 ---
 05/06/2022
 

@@ -1,11 +1,13 @@
 ---
 title: "Three Views of Love"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "02/14/2009"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/three-views-love"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/D4mc76T2-cMfXcsXK.html"
+description: "2/14/2009, Shosan Victoria Austin dharma talk at City Center."
 ---
 02/14/2009
 

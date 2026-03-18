@@ -1,11 +1,13 @@
 ---
 title: "The Transmission of Sewing Buddha's Robe"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "04/21/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/transmission-sewing-buddhas-robe"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/YUSKxDdG-cMfXcsXK.html"
+description: "4/21/2012, Zenshin Greg Fain, dharma talk at Tassajara."
 ---
 04/21/2012
 

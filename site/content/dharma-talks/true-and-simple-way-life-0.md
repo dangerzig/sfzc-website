@@ -1,11 +1,13 @@
 ---
 title: "A True and Simple Way of Life"
-speaker: ""
+speaker: "zoketsu-norman-fischer"
 talk_date: "03/18/2021"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/true-and-simple-way-life-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/mKgCNXFa-cMfXcsXK.html"
+description: "On the first day of a three-day sesshin, Zoketsu Norman Fischer shares with us Dogen Zenji's Book 4, Section 7 of the Zuimonki, with commentary on the themes of the true nature of mind, home leaving, and encouragement to choose practice and uphold the precepts as an \"ancient and natural way\" of li"
 ---
 03/18/2021
 

@@ -1,11 +1,13 @@
 ---
 title: "The Unique Breeze of Reality"
-speaker: ""
+speaker: "dairyu-michael-wenger"
 talk_date: "10/01/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/unique-breeze-reality-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/s4QiZifb-cMfXcsXK.html"
+description: "10/1/2011, Michael Wenger dharma talk at City Center."
 ---
 10/01/2011
 

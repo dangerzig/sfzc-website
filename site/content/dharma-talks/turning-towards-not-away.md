@@ -1,11 +1,13 @@
 ---
 title: "Turning Towards (Not Away)"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "10/11/2021"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/turning-towards-not-away"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/kh5NpYvC-cMfXcsXK.html"
+description: "10/11/2021, Ryushin Paul Haller, dharma talk at Tassajara."
 ---
 10/11/2021
 

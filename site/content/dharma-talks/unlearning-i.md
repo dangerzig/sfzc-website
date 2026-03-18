@@ -1,11 +1,13 @@
 ---
 title: "Unlearning the I"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "11/14/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/unlearning-i"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/T8xQwdG2-cMfXcsXK.html"
+description: "11/14/2013, Kiku Christina Lehnherr dharma talk at Tassajara."
 ---
 11/14/2013
 

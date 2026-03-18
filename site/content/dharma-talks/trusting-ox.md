@@ -1,11 +1,13 @@
 ---
 title: "Trusting the Ox"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "09/05/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/trusting-ox"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/SGmriudI-cMfXcsXK.html"
+description: "9/5/2010, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 09/05/2010
 

@@ -1,11 +1,13 @@
 ---
 title: "The Temple Is Where You Are"
-speaker: ""
-talk_date: "November 6, 2024"
-centers:
-  - "City Center"
+speaker: "gengyoku-tim-wicks"
+talk_date: "11/06/2024"
 aliases:
   - "/teachings/dharma-talks/temple-where-you-are-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/5ZBxvprB-cMfXcsXK.html"
+description: "11/06/2024, Gengyoko Tim Wicks, dharma talk at City Center.This dharma talk was given at Beginner’s Mind Temple by tanto (head of practice) and practice period co-leader Gengyoko Tim Wicks. In the talk, Tim shares some of the teachings that are being studied this practice period and talks about prac"
 ---
 11/06/2024
 

@@ -1,11 +1,13 @@
 ---
 title: "A Thief of the Heart"
-speaker: ""
+speaker: "roshi-james-ishmael-ford"
 talk_date: "09/07/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/thief-heart-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/u3HrWTs3-cMfXcsXK.html"
+description: "09/07/2024, James Ishmael Ford, dharma talk at City Center.This dharma talk was given at Beginner’s Mind Temple’s pop-up zendo at Unity Church on Page Street, by visiting teacher James Ishmael Ford. In the talk, Roshi Ford tells a story from his latest book, “The Intimate Way of Zen: Effort, Surrend"
 ---
 09/07/2024
 

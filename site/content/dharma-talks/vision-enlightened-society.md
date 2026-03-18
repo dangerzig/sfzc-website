@@ -1,11 +1,13 @@
 ---
 title: "Vision of an Enlightened Society"
-speaker: ""
+speaker: "kazuaki-tanahashi"
 talk_date: "08/27/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/vision-enlightened-society"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/N25ubENf-cMfXcsXK.html"
+description: "8/27/2013, Kazuaki Tanahashi dharma talk at Tassajara."
 ---
 08/27/2013
 

@@ -1,11 +1,13 @@
 ---
 title: "Wake Up!"
-speaker: ""
+speaker: "sessei-meg-mcneil-levie"
 talk_date: "12/02/2007"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/wake"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/nYX239ZP-cMfXcsXK.html"
+description: "12/2/2007, Sessei Meg Levie dharma talk at Green Gulch Farm."
 ---
 12/02/2007
 

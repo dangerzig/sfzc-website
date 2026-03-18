@@ -1,11 +1,13 @@
 ---
 title: "The Varieties of Love"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/14/2015"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/varieties-love"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/HNScGsTe-cMfXcsXK.html"
+description: "2/14/2015, Ryushin Paul Haller dharma talk at City Center."
 ---
 02/14/2015
 

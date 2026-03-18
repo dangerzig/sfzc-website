@@ -1,11 +1,13 @@
 ---
 title: "Thanksgiving Message"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "11/22/2023"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/thanksgiving-message-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/n2KotIh2-cMfXcsXK.html"
+description: "This talk, from Beginner's Mind Temple, was given by senior dharma teacher Ryushin Paul Haller. This talk was based on a Thanksgiving message from Brother David Steindl-Rast and examines how to sustain gratitude and be uplifted in the face of the difficulties and “bad news” of our lives. In dyads, a"
 ---
 11/22/2023
 

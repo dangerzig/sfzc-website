@@ -1,11 +1,13 @@
 ---
 title: "Threads and Clues"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "03/18/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/threads-and-clues"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/Hd78iW99-cMfXcsXK.html"
+description: "3/18/2018, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 03/18/2018
 

@@ -1,11 +1,13 @@
 ---
 title: "The Truth Before Our Eyes"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "12/14/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/truth-our-eyes"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/rxowluoh-cMfXcsXK.html"
+description: "12/14/2019, Rysuhin Paul Haller, dharma talk at City Center."
 ---
 12/14/2019
 

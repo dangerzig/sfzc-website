@@ -1,11 +1,13 @@
 ---
 title: "A Tribute to Sojun Roshi"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "01/10/2021"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/tribute-sojun-roshi-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/gL4hDF9F-cMfXcsXK.html"
+description: "Sojun Mel Weitsman Roshi's three Green Gulch resident Dharma Heirs - Steve Weintraub, Sara Tashker, and Jiryu Rutschman-Byler - share their reflections on their late teacher's teaching. 1/10/2021, dharma talk at Green Gulch Farm."
 ---
 01/10/2021
 

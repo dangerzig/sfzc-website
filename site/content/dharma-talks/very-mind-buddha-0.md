@@ -1,11 +1,13 @@
 ---
 title: "This Very Mind Is Buddha"
-speaker: ""
+speaker: "zoketsu-norman-fischer"
 talk_date: "03/28/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/very-mind-buddha-0"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/wSwctBON-cMfXcsXK.html"
+description: "03/28/2019, Zoketsu Norman Fischer, dharma talk at Tassajara."
 ---
 03/28/2019
 

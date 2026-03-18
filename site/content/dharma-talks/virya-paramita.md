@@ -1,11 +1,13 @@
 ---
 title: "Virya Paramita"
-speaker: ""
+speaker: "shokan-jordan-thorn"
 talk_date: "06/04/2008"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/virya-paramita"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/RIMwhZ3X-cMfXcsXK.html"
+description: "6/4/2008, Shokan Jordan Thorn dharma talk at City Center."
 ---
 06/04/2008
 

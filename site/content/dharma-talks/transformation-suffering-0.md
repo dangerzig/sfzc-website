@@ -1,11 +1,13 @@
 ---
 title: "Transformation of Suffering"
-speaker: ""
+speaker: "keiryu-lien-shutt"
 talk_date: "10/31/2020"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/transformation-suffering-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/j8WglH3P-cMfXcsXK.html"
+description: "Living the insight of non-self & the \"I\" of mutuality.10/31/2020, Keiryu Liên Shutt, dharma talk at City Center."
 ---
 10/31/2020
 

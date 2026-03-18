@@ -1,11 +1,13 @@
 ---
 title: "Too Busy"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "03/29/2015"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/too-busy-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/OczyLuWu-cMfXcsXK.html"
+description: "3/29/2015, Furyu Schroeder dharma talk at Green Gulch Farm."
 ---
 03/29/2015
 

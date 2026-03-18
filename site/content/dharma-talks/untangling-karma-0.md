@@ -1,11 +1,13 @@
 ---
 title: "Untangling Karma"
-speaker: ""
+speaker: "judith-ragir"
 talk_date: "07/16/2022"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/untangling-karma-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/yZCsYcED-cMfXcsXK.html"
+description: "07/16/2022, Judith Ragir, dharma talk at City Center.This is a talk on the book Untangling Karma. It is one woman Zen teacher's approach to trauma that integrates deep spirituality with directly facing your pain. This talk circles around unraveling our karma by deeply entering our narrative and find"
 ---
 07/16/2022
 

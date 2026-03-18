@@ -1,11 +1,13 @@
 ---
 title: "Vernal Equinox, Lotus Sutra"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "03/20/2014"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/vernal-equinox-lotus-sutra"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/p8r56JPd-cMfXcsXK.html"
+description: "3/20/2014, Eijun Linda Ruth Cutts, dharma talk at Green Gulch Farm."
 ---
 03/20/2014
 

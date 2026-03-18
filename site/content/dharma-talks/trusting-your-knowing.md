@@ -1,11 +1,13 @@
 ---
 title: "Trusting Your Knowing"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "01/08/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/trusting-your-knowing"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/F3QbvVwm-cMfXcsXK.html"
+description: "1/8/2011, Ryushin Paul Haller dharma talk at City Center."
 ---
 01/08/2011
 

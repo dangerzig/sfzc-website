@@ -1,11 +1,13 @@
 ---
 title: "Water Liberated Dependent on Water"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "03/04/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/water-liberated-dependent-water"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/6Zvz2a0a-cMfXcsXK.html"
+description: "3/4/2012, Eijun Linda Cutts dharma talk at Tassajara."
 ---
 03/04/2012
 

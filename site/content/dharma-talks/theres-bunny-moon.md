@@ -1,11 +1,13 @@
 ---
 title: "Theres a Bunny on the Moon"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "03/24/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/theres-bunny-moon"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/qi27eLbr-cMfXcsXK.html"
+description: "3/24/2016, Furyu Schroeder dharma talk at Tassajara."
 ---
 03/24/2016
 

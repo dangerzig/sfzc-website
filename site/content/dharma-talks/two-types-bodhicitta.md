@@ -1,11 +1,13 @@
 ---
 title: "Two Types of Bodhicitta"
-speaker: ""
+speaker: "korin-charlie-pokorny"
 talk_date: "05/30/2020"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/two-types-bodhicitta"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/j3EghbUN-cMfXcsXK.html"
+description: "A description of Relative and Absolute Bodhichitta.05/30/2020, Korin Charlie Pokorny, Dharma Talk at City Center."
 ---
 05/30/2020
 

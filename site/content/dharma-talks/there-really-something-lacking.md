@@ -1,11 +1,13 @@
 ---
 title: "There Really Is Something Lacking"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "01/28/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/there-really-something-lacking"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/uMD4H5Dn-cMfXcsXK.html"
+description: "1/28/2013, Leslie James dharma talk at Tassajara."
 ---
 01/28/2013
 

@@ -1,11 +1,13 @@
 ---
 title: "Things Are Not What They Seem, Nor Are They Otherwise"
-speaker: ""
+speaker: "kogen-kim-hart"
 talk_date: "06/05/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/things-are-not-what-they-seem-nor-are-they-otherwise-1"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/y00AaTxT-cMfXcsXK.html"
+description: "06/05/2024, Kim Kōgen Dai-Hō Hart, dharma talk at City Center.In this talk, given at Beginner's Mind Temple, San Francisco Zen Center, Kim considers how we are often hindered by our habitual responses, conditioning and fundamental misunderstanding of the substantiality of the phenomenal world. Her"
 ---
 06/05/2024
 

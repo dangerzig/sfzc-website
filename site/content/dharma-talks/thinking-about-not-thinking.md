@@ -1,11 +1,13 @@
 ---
 title: "Thinking About Not Thinking"
-speaker: ""
+speaker: "kogen-jamie-howell"
 talk_date: "07/15/2015"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/thinking-about-not-thinking"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/NjCYrl0T-cMfXcsXK.html"
+description: "7/15/2015, Jamie Howell dharma talk at City Center."
 ---
 07/15/2015
 

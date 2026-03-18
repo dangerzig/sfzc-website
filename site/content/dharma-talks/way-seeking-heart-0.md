@@ -1,11 +1,13 @@
 ---
 title: "Way Seeking Heart"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "01/20/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/way-seeking-heart-0"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/ufSJYF2B-cMfXcsXK.html"
+description: "1/20/2016, Furyu Schroeder dharma talk at Tassajara."
 ---
 01/20/2016
 

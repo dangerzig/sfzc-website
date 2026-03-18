@@ -1,11 +1,13 @@
 ---
 title: "Vowing and Vowing"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "11/14/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/vowing-and-vowing"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/p4zkfeve-cMfXcsXK.html"
+description: "11/14/2016, Eijun Linda Ruth Cutts dharma talk at Tassajara."
 ---
 11/14/2016
 

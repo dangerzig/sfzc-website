@@ -1,11 +1,13 @@
 ---
 title: "Traveling the Path With Ordinary Mind"
-speaker: ""
+speaker: "roger-hillyard"
 talk_date: "08/14/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/traveling-path-ordinary-mind-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/pdO72FCX-cMfXcsXK.html"
+description: "08/14/2024, Roger Hillyard, dharma talk at City Center.This talk was given at Beginner's Mind Temple, by Roger Hillyard. The path is sometimes dark and difficult, sometimes smooth and joyous.  It is always circuitous and doesn't proceed in a linear direction, so we cannot resist its call.  When we s"
 ---
 08/14/2024
 

@@ -1,11 +1,13 @@
 ---
 title: "True Freedom Of Choice"
-speaker: ""
+speaker: "hakusho-johan-ostlund"
 talk_date: "04/22/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/true-freedom-choice"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/zltwXvDT-cMfXcsXK.html"
+description: "04/22/2019, Hakusho Ostlund, dharma talk at Tassajara."
 ---
 04/22/2019
 

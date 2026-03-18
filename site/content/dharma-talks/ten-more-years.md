@@ -1,11 +1,13 @@
 ---
 title: "Ten More Years"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "11/18/2009"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/ten-more-years"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/jMNO5jcx-cMfXcsXK.html"
+description: "11/18/2009, Rinso Ed Sattizahn dharma talk at City Center."
 ---
 11/18/2009
 

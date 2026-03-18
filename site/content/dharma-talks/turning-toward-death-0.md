@@ -1,11 +1,13 @@
 ---
 title: "Turning Toward Death"
-speaker: ""
+speaker: "jisan-tova-green"
 talk_date: "10/22/2022"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/turning-toward-death-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/qfJm2ayr-cMfXcsXK.html"
+description: "10/22/2022, Jisan Tova Green, dharma talk at City Center.As leaves fall and nights are longer, we turn from autumn towards winter. This is a tender, transitional time for many of us. We may be more in touch with loss, grief, and death. In this talk, Tova shares her own journey toward facing death an"
 ---
 10/22/2022
 

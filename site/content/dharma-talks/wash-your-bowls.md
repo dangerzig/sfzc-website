@@ -1,11 +1,13 @@
 ---
 title: "Wash Your Bowls"
-speaker: ""
+speaker: "gengyoku-tim-wicks"
 talk_date: "09/09/2020"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/wash-your-bowls"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/UI3u6tLR-cMfXcsXK.html"
+description: "Studying anger and the Sattipatthana Sutra.09/09/2020, Gengyoko Tim Wicks, dharma talk at City Center."
 ---
 09/09/2020
 

@@ -1,11 +1,13 @@
 ---
 title: "The Ugly Stitch"
-speaker: ""
+speaker: "gengyoku-tim-wicks"
 talk_date: "01/08/2020"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/ugly-stitch"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/gihPhL35-cMfXcsXK.html"
+description: "01/08/2020, Gengyoko Tim Wicks, dharma talk at City Center."
 ---
 01/08/2020
 

@@ -2,10 +2,12 @@
 title: "Thought, Word and Deed: Buddhist Practice and Brain Science"
 speaker: ""
 talk_date: "07/14/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/thought-word-and-deed-buddhist-practice-and-brain-science"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/PwVFmAiJ-cMfXcsXK.html"
+description: "7/14/2012, Laura Burges dharma talk at Tassajara."
 ---
 07/14/2012
 
