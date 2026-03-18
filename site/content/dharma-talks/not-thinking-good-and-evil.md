@@ -1,0 +1,20 @@
+---
+title: "Not Thinking Good and Evil"
+speaker: ""
+talk_date: "10/22/2023"
+centers:
+  - "Green Gulch Farm"
+aliases:
+  - "/teachings/dharma-talks/not-thinking-good-and-evil"
+---
+10/22/2023
+
+10/22/2023, Jiryu Rutschman-Byler, dharma talk at Green Gulch Farm. For those who have vowed to "do all good" and "avoid all evil," Zen offers a compassionate but counter-intuitive teaching, equally relevant to meditation and to the ethics of daily living: "do not think good or evil," but include absolutely everything.
+
+Hosted at:
+
+[Green Gulch Farm](/locations/green-gulch-farm)
+
+Featuring:
+
+[Abbot Jiryu Rutschman-Byler](/teachers/abbot-jiryu-rutschman-byler)
