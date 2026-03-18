@@ -1,0 +1,11 @@
+---
+title: "Zenju Earthlyn Manuel Osho"
+role: "Abbess"
+centers:
+  - "City Center"
+photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Zenju-Earthlyn-Manuel_Anna-Cummings_BioPic_288x288_png.png?h=f57c33c4&itok=poPoCaLD"
+status: "active"
+aliases:
+  - "/teachers/zenju-earthlyn-manuel-osho"
+---
+Zenju Earthlyn Manuel Osho, PhD, is the heir of Zenkei Blanche Hartman with Dharma Transmission completed by Shosan Victoria Austin. Zenju was Shuso (Head Student) at City Center in 2012, during a practice period which was led by former abbess Kiku Christina Lehnherr. She is the author of [*The Deepest Peace: Contemplations from a Season of Stillness*,](https://store.sfzc.org/product/the-deepest-peace-contemplations-from-a-season-of-stillness-manuel-zenju-earthlyn-/883) [*The Way of Tenderness: Awakening Through Race, Sexuality, and Gender*](https://store.sfzc.org/product/the-way-of-tenderness-manuel-zenju-earthlyn-/637) (foreword by Charles Johnson), [*Tell Me Something About Buddhism*](https://store.sfzc.org/product/tell-me-something-about-buddhism-manuel-zenju-earthlyn-/231) (foreword by Thich Nhat Hanh), with poetry and illustrations by Zenju, [*The Shamanic Bones of Zen: Revealing the Ancestral Spirit and Mystical Heart of a Sacred Tradition*](https://store.sfzc.org/product/the-shamanic-bones-of-zen-revealing-the-ancestral-spirit-and-mystical-heart-of-a-sacred-tradition-zenju-earthlyn-manuel-/1008), and her latest publication, [*Opening to Darkness: Eight Gateways for Being with the Absence of Light in Unsettling Times*](https://store.sfzc.org/product/opening-to-darkness-eight-gateways-for-being-with-the-absence-of-light-in-unsettling-times-zenju-earthlyn-manuel-/1278). In addition, she is a contributing author to many books, including *Dharma, Color and Culture: Voices From Western Buddhist Teachers of Color* and [*Hidden Lamp: Stories from Twenty-Five Centuries of Awakened Women*](https://store.sfzc.org/product/the-hidden-lamp-caplow-zenshin-florence-/19), edited by Florence Caplow and Susan Moon. Zenju Earthlyn compiled a collection of teachings from Zenkei Blanche Hartman (1926–2016) entitled [*Seeds for a Boundless Life*](https://store.sfzc.org/product/seeds-for-a-boundless-life-hartman-zenkei-blanche-/275). For more information go to [zenju.org.](http://zenju.org/)

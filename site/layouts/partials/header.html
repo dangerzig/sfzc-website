@@ -1,0 +1,102 @@
+<!-- Utility bar -->
+<div class="bg-sfzc-green text-white text-sm">
+  <div class="max-w-7xl mx-auto px-4 flex justify-end items-center h-8 gap-4">
+    {{ range .Site.Menus.utility }}
+    <a href="{{ .URL }}" class="hover:text-sfzc-gold transition-colors{{ if eq .Name "Donate" }} bg-sfzc-gold text-sfzc-green font-bold px-3 py-0.5 rounded text-xs uppercase tracking-wide hover:bg-yellow-400 hover:text-sfzc-green{{ end }}"
+       {{ if hasPrefix .URL "https" }}target="_blank" rel="noopener"{{ end }}>
+      {{ .Name }}
+    </a>
+    {{ end }}
+  </div>
+</div>
+
+<!-- Main header -->
+<header class="bg-white border-b border-gray-200 sticky top-0 z-50">
+  <div class="max-w-7xl mx-auto px-4">
+    <div class="flex items-center justify-between h-16">
+      <!-- Logo -->
+      <a href="{{ "/" | absURL }}" class="flex items-center gap-3">
+        <span class="text-xl font-bold text-sfzc-green tracking-tight">San Francisco Zen Center</span>
+      </a>
+
+      <!-- Mobile menu button -->
+      <button id="mobile-menu-btn" class="lg:hidden p-2 text-gray-600 hover:text-sfzc-green" aria-label="Toggle menu">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+        </svg>
+      </button>
+
+      <!-- Desktop navigation -->
+      <nav class="hidden lg:flex items-center gap-1">
+        {{ range .Site.Menus.main }}
+          {{ if .HasChildren }}
+          <div class="nav-item relative">
+            <a href="{{ .URL }}" class="px-3 py-2 text-sm font-medium text-gray-700 hover:text-sfzc-green transition-colors">
+              {{ .Name }}
+              <svg class="inline w-3 h-3 ml-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </a>
+            <div class="nav-dropdown absolute top-full left-0 bg-white shadow-lg rounded-b-md border border-gray-100 min-w-[200px] py-2">
+              {{ range .Children }}
+              <a href="{{ .URL }}" class="block px-4 py-2 text-sm text-gray-600 hover:bg-sfzc-cream hover:text-sfzc-green transition-colors">
+                {{ .Name }}
+              </a>
+              {{ end }}
+            </div>
+          </div>
+          {{ else }}
+          <a href="{{ .URL }}" class="px-3 py-2 text-sm font-medium text-gray-700 hover:text-sfzc-green transition-colors">
+            {{ .Name }}
+          </a>
+          {{ end }}
+        {{ end }}
+      </nav>
+    </div>
+  </div>
+
+  <!-- Mobile navigation -->
+  <div id="mobile-menu" class="hidden lg:hidden border-t border-gray-100">
+    <div class="px-4 py-3 space-y-1">
+      {{ range .Site.Menus.main }}
+        {{ if .HasChildren }}
+        <div>
+          <a href="{{ .URL }}" class="block px-3 py-2 text-base font-medium text-gray-700 hover:text-sfzc-green">{{ .Name }}</a>
+          <div class="pl-4">
+            {{ range .Children }}
+            <a href="{{ .URL }}" class="block px-3 py-1.5 text-sm text-gray-500 hover:text-sfzc-green">{{ .Name }}</a>
+            {{ end }}
+          </div>
+        </div>
+        {{ else }}
+        <a href="{{ .URL }}" class="block px-3 py-2 text-base font-medium text-gray-700 hover:text-sfzc-green">{{ .Name }}</a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</header>
+
+<!-- Breadcrumbs -->
+{{ if not .IsHome }}
+<nav class="bg-sfzc-cream border-b border-gray-200" aria-label="Breadcrumb">
+  <div class="max-w-7xl mx-auto px-4 py-2">
+    <ol class="flex items-center text-sm text-gray-500 gap-1">
+      <li><a href="{{ "/" | absURL }}" class="hover:text-sfzc-green">Home</a></li>
+      {{ range .Ancestors.Reverse }}
+      <li class="flex items-center gap-1">
+        <span class="text-gray-300">/</span>
+        <a href="{{ .Permalink }}" class="hover:text-sfzc-green">{{ .Title }}</a>
+      </li>
+      {{ end }}
+      <li class="flex items-center gap-1">
+        <span class="text-gray-300">/</span>
+        <span class="text-gray-700 font-medium">{{ .Title }}</span>
+      </li>
+    </ol>
+  </div>
+</nav>
+{{ end }}
+
+<script>
+document.getElementById('mobile-menu-btn').addEventListener('click', function() {
+  document.getElementById('mobile-menu').classList.toggle('hidden');
+});
+</script>

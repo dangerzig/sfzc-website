@@ -1,0 +1,146 @@
+baseURL = "https://sfzc.github.io/sfzc-website/"
+languageCode = "en-us"
+title = "San Francisco Zen Center"
+
+[params]
+  description = "San Francisco Zen Center – City Center, Green Gulch Farm, Tassajara"
+  tagline = "Beginner's Mind Temple"
+
+# Taxonomies for connected content
+[taxonomies]
+  center = "centers"
+  role = "roles"
+  topic = "topics"
+  event_type = "event-types"
+  teacher_slug = "teacher-slugs"
+
+# Clean URLs
+[permalinks]
+  [permalinks.page]
+    teachers = "/teachers/:slug/"
+    dharma-talks = "/dharma-talks/:slug/"
+    events = "/events/:slug/"
+
+# Main navigation menu
+[[menus.main]]
+  name = "Practice Centers"
+  url = "/practice-centers/"
+  weight = 10
+
+[[menus.main]]
+  name = "City Center"
+  parent = "Practice Centers"
+  url = "/practice-centers/city-center/"
+  weight = 1
+
+[[menus.main]]
+  name = "Green Gulch Farm"
+  parent = "Practice Centers"
+  url = "/practice-centers/green-gulch/"
+  weight = 2
+
+[[menus.main]]
+  name = "Tassajara"
+  parent = "Practice Centers"
+  url = "/practice-centers/tassajara/"
+  weight = 3
+
+[[menus.main]]
+  name = "Online"
+  parent = "Practice Centers"
+  url = "/practice-centers/online/"
+  weight = 4
+
+[[menus.main]]
+  name = "Events"
+  url = "/events/"
+  weight = 20
+
+[[menus.main]]
+  name = "Dharma Talks"
+  url = "/dharma-talks/"
+  weight = 30
+
+[[menus.main]]
+  name = "Teachers"
+  url = "/teachers/"
+  weight = 40
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 50
+
+[[menus.main]]
+  name = "Mission"
+  parent = "About"
+  url = "/about/mission-and-vision/"
+  weight = 1
+
+[[menus.main]]
+  name = "Lineage"
+  parent = "About"
+  url = "/about/lineage/"
+  weight = 2
+
+[[menus.main]]
+  name = "Board"
+  parent = "About"
+  url = "/about/board-of-directors/"
+  weight = 3
+
+[[menus.main]]
+  name = "How We Operate"
+  parent = "About"
+  url = "/about/how-we-operate/"
+  weight = 4
+
+[[menus.main]]
+  name = "Contact"
+  parent = "About"
+  url = "/about/contact/"
+  weight = 5
+
+[[menus.main]]
+  name = "Giving"
+  url = "/giving/"
+  weight = 60
+
+# Utility menu
+[[menus.utility]]
+  name = "Store"
+  url = "https://store.sfzc.org"
+  weight = 10
+
+[[menus.utility]]
+  name = "News"
+  url = "/news/"
+  weight = 20
+
+[[menus.utility]]
+  name = "Livestream"
+  url = "/dharma-talks/livestream/"
+  weight = 30
+
+[[menus.utility]]
+  name = "Donate"
+  url = "https://giving.sfzc.org"
+  weight = 50
+
+# Build settings
+[build]
+  [build.buildStats]
+    enable = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changeFreq = "weekly"
+  priority = 0.5

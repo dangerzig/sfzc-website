@@ -1,0 +1,39 @@
+{{ define "main" }}
+<div class="max-w-7xl mx-auto px-4 py-8">
+  <h1 class="text-3xl font-bold text-sfzc-green mb-2">Teachers</h1>
+  <p class="text-gray-600 mb-6">San Francisco Zen Center teachers, past and present.</p>
+
+  <!-- Filters -->
+  <div class="flex flex-wrap gap-3 mb-8" id="teacher-filters">
+    <div>
+      <label class="text-sm font-medium text-gray-700 block mb-1">Center</label>
+      <select data-filter="center" class="border border-gray-300 rounded px-3 py-1.5 text-sm">
+        <option value="">All Centers</option>
+        <option value="City Center">City Center</option>
+        <option value="Green Gulch Farm">Green Gulch Farm</option>
+        <option value="Tassajara">Tassajara</option>
+      </select>
+    </div>
+    <div>
+      <label class="text-sm font-medium text-gray-700 block mb-1">Role</label>
+      <select data-filter="role" class="border border-gray-300 rounded px-3 py-1.5 text-sm">
+        <option value="">All Roles</option>
+        <option value="Central Abbot">Central Abbot</option>
+        <option value="Abbot">Abbot</option>
+        <option value="Senior Dharma Teacher">Senior Dharma Teacher</option>
+        <option value="Dharma Teacher">Dharma Teacher</option>
+        <option value="Practice Leader">Practice Leader</option>
+        <option value="Guest Teacher">Guest Teacher</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4" id="teacher-grid">
+    {{ range .Pages.ByTitle }}
+      {{ partial "teacher-card.html" . }}
+    {{ end }}
+  </div>
+
+  <p id="no-results" class="hidden text-gray-500 text-center py-8">No teachers match the selected filters.</p>
+</div>
+{{ end }}

@@ -1,0 +1,23 @@
+# Dependencies
+site/node_modules/
+
+# Build output
+site/public/
+
+# Hugo
+site/resources/
+site/.hugo_build.lock
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+scripts/.*_state.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large binary files from architecture docs
+*.png
+*.pdf
