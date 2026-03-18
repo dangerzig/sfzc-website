@@ -1,11 +1,13 @@
 ---
 title: "The Thread of Time and Space"
-speaker: ""
+speaker: "gengyoku-tim-wicks"
 talk_date: "01/12/2022"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/thread-time-and-space-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/SHQQk7Tr-cMfXcsXK.html"
+description: "Guided by the great Mahāyāna teachings of Prajñāpāramitā our Zen training asks us to join with all beings and follow the investigation of our karmic responsibilities from even the distant past to where we practice today without preference for where it may lead.01/12/2022, Gengyoko Tim Wicks, dharma "
 ---
 01/12/2022
 

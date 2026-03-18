@@ -1,11 +1,13 @@
 ---
 title: "Three Minds"
-speaker: ""
+speaker: "daiyu-judith-randall"
 talk_date: "05/11/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/three-minds"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/fmW4jAJs-cMfXcsXK.html"
+description: "5/11/2013, Judith Randall dharma talk at Tassajara."
 ---
 05/11/2013
 

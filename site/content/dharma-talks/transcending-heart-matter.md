@@ -1,11 +1,13 @@
 ---
 title: "Transcending the Heart of the Matter"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "12/12/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/transcending-heart-matter"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/rSKL6UI1-cMfXcsXK.html"
+description: "12/12/2010, Tenshin Reb Anderson dharma talk at Tassajara."
 ---
 12/12/2010
 

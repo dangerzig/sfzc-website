@@ -1,11 +1,13 @@
 ---
 title: "True Strictness"
-speaker: ""
+speaker: "dairyu-michael-wenger"
 talk_date: "03/18/2009"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/true-strictness"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/Atdv5Bha-cMfXcsXK.html"
+description: "3/18/2009, Michael Wenger dharma talk at City Center."
 ---
 03/18/2009
 

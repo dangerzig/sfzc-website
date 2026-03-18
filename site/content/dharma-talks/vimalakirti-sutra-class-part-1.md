@@ -1,11 +1,13 @@
 ---
 title: "Vimalakirti Sutra Class Part 1"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "06/23/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/vimalakirti-sutra-class-part-1"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/kzlOYDAW-cMfXcsXK.html"
+description: "6/23/2015, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 06/23/2015
 

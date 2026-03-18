@@ -1,11 +1,13 @@
 ---
 title: "Turning Toward vs. Turning Away"
-speaker: ""
+speaker: "caverly-morgan"
 talk_date: "01/07/2023"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/turning-toward-vs-turning-away"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/6xxIpRys-cMfXcsXK.html"
+description: "01/07/2023, Caverly Morgan, dharma talk at City Center. This dharma talk is based off Caverly’s new book, The Heart of Who We Are: Realizing Freedom Together, published by Sounds True.Have you ever found yourself identified with a self who is on a mission to annihilate the self? Have you found yours"
 ---
 01/07/2023
 

@@ -1,11 +1,13 @@
 ---
 title: "Way-Seeking Mind"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "05/12/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/way-seeking-mind-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/U27MUFSe-cMfXcsXK.html"
+description: "5/12/2012, Steve Weintraub dharma talk at City Center."
 ---
 05/12/2012
 

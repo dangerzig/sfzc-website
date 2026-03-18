@@ -1,11 +1,13 @@
 ---
 title: "Two Zen Stories: Sanctuary and Compassion"
-speaker: ""
+speaker: "pamela-weiss"
 talk_date: "05/24/2025"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/two-zen-stories-sanctuary-and-compassion"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/OQk9ayGW-cMfXcsXK.html"
+description: "05/24/2025, Monitsu Pamela Weiss, dharma talk at City Center. Monitsu Pamela Weiss explores the twin themes of refuge and compassion in Cases 4 and 54 of the Book of Serenity."
 ---
 05/24/2025
 

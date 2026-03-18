@@ -1,11 +1,13 @@
 ---
 title: "The Unbearable Lightness of Being"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "10/24/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/unbearable-lightness-being"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/mIzsW7qU-cMfXcsXK.html"
+description: "10/24/2013, Kiku Christina Lehnherr dharma talk at Tassajara."
 ---
 10/24/2013
 

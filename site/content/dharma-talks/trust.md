@@ -1,11 +1,13 @@
 ---
 title: "Trust"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "10/23/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/trust"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/RNviIAic-cMfXcsXK.html"
+description: "10/23/2013, Leslie James dharma talk at Tassajara."
 ---
 10/23/2013
 

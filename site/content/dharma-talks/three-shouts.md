@@ -1,11 +1,13 @@
 ---
 title: "Three Shouts"
-speaker: ""
+speaker: "dairyu-michael-wenger"
 talk_date: "01/22/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/three-shouts"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/8EWR4Pmp-cMfXcsXK.html"
+description: "1/22/2011, Michael Wenger dharma talk at City Center."
 ---
 01/22/2011
 

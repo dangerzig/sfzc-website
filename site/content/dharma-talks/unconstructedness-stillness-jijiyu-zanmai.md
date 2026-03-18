@@ -1,11 +1,13 @@
 ---
 title: "Unconstructedness in Stillness - Jijiyu Zanmai"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "03/05/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/unconstructedness-stillness-jijiyu-zanmai"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/yBElXfb3-cMfXcsXK.html"
+description: "3/5/2011, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 03/05/2011
 

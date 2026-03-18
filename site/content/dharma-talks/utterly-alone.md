@@ -1,11 +1,13 @@
 ---
 title: "Utterly Alone"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "10/22/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/utterly-alone"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/8dZuPsin-cMfXcsXK.html"
+description: "10/22/2013, Kiku Christina Lehnherr dharma talk at Tassajara."
 ---
 10/22/2013
 

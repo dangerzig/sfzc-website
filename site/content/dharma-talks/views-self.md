@@ -1,11 +1,13 @@
 ---
 title: "Views of Self"
-speaker: ""
+speaker: "gil-fronsdal"
 talk_date: "05/20/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/views-self"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/rCoZLaFE-cMfXcsXK.html"
+description: "5/20/2014, Gil Fronsdale dharma talk at Tassajara."
 ---
 05/20/2014
 

@@ -1,11 +1,13 @@
 ---
 title: "Valleys and Mountains"
-speaker: ""
+speaker: "hoitsu-suzuki-roshi"
 talk_date: "03/08/2008"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/valleys-and-mountains"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/elMKsniN-cMfXcsXK.html"
+description: "3/8/2008, hoitsu suzuki dharma talk at City Center."
 ---
 03/08/2008
 

@@ -1,11 +1,13 @@
 ---
 title: "Training Spirit of Enlightenment"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "01/08/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/training-spirit-enlightenment"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/9mdAGpoS-cMfXcsXK.html"
+description: "1/8/2012, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 01/08/2012
 

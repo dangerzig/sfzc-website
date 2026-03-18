@@ -1,11 +1,13 @@
 ---
 title: "Trust in Action"
-speaker: ""
+speaker: "shinshu-roberts"
 talk_date: "05/31/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/trust-action"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/x4RNTO1D-cMfXcsXK.html"
+description: "5/31/2016, Shinshu Robert dharma talk at Tassajara."
 ---
 05/31/2016
 

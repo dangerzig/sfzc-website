@@ -1,11 +1,13 @@
 ---
 title: "The Two Wings of Practice"
-speaker: ""
+speaker: "anam-thubten"
 talk_date: "09/19/2020"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/two-wings-practice"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/vl4UM6B5-cMfXcsXK.html"
+description: "Tibetan Buddhist teacher Anam Thubten offers a rich view of practicing balance between compassion and wisdom. He reminisces about his own love of the Heart Sutra, and his personal relationship with Avalokiteshvara- the bodhisattva of compassion. For a time, he leaned too much into wisdom and lost co"
 ---
 09/19/2020
 

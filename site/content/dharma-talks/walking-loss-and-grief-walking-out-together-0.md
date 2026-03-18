@@ -1,11 +1,13 @@
 ---
 title: "Walking into Loss and Grief – Walking Out Together!"
-speaker: ""
+speaker: "koshin-steven-tierney"
 talk_date: "03/13/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/walking-loss-and-grief-walking-out-together-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/vYv1niaU-cMfXcsXK.html"
+description: "03/13/2024, Koshin Steven Tierney, dharma talk at City Center.In this talk, given at Beginner's Mind Temple, Koshin Steven Tierney discusses the experience of loss and grief, and how these very natural and individual human experiences unfold within spiritual community. We must attend to our grief, i"
 ---
 03/13/2024
 

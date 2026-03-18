@@ -1,11 +1,13 @@
 ---
 title: "Turning Words From Our Teachers"
-speaker: ""
+speaker: "hozan-alan-senauke"
 talk_date: "07/08/2023"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/turning-words-our-teachers-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/jf9hCaXz-cMfXcsXK.html"
+description: "07/08/2023, Hozan Alan Senauke, dharma talk at City Center.Hozan Alan Senauke, abbot of Berkeley Zen Center, in this dharma talk from Beginner’s Mind Temple, discusses the teacher-student relationship, using stories of Sojun Mel Weitsman and Suzuki Roshi. This rememberance and celebration of Sojun W"
 ---
 07/08/2023
 
