@@ -3,7 +3,7 @@ title: "Leslie James"
 role: "Teacher"
 centers:
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Leslie%20James%20by%20Hamish%20John%20Appleby%202015.jpg?h=5bf72504&itok=ZPCm4kmd"
+photo: "images/teachers/leslie-james.jpg"
 status: "active"
 aliases:
   - "/teachers/leslie-james"

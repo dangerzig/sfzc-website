@@ -4,7 +4,7 @@ role: "Teacher"
 centers:
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/DanGudgel-by-KikaHellein-288px.png?h=f57c33c4&itok=JHf-maRy"
+photo: "images/teachers/doshin-dan-gudgel.png"
 status: "active"
 aliases:
   - "/teachers/doshin-dan-gudgel"

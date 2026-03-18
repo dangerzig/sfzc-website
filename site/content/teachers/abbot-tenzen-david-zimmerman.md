@@ -4,7 +4,7 @@ role: "Central Abbot"
 centers:
   - "City Center"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/TenzenDavidZimmerman-288px_TasjaKeetman.png?h=a7e6d17b&itok=K7ewU319"
+photo: "images/teachers/abbot-tenzen-david-zimmerman.png"
 status: "active"
 aliases:
   - "/teachers/abbot-tenzen-david-zimmerman"

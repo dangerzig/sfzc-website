@@ -4,7 +4,7 @@ role: "Abbot"
 centers:
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/JaneLazar-bio2018.jpg?h=24b51c26&itok=P3Pd1W9O"
+photo: "images/teachers/jiko-jane-lazar.jpg"
 status: "active"
 aliases:
   - "/teachers/jiko-jane-lazar"

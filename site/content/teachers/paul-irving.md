@@ -3,7 +3,7 @@ title: "Paul Irving"
 role: ""
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/PaulIrving-by-DavidDel-Francia-288px.png?h=f57c33c4&itok=cdvkNg8V"
+photo: "images/teachers/paul-irving.png"
 status: "active"
 aliases:
   - "/teachers/paul-irving"

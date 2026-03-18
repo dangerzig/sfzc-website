@@ -3,7 +3,7 @@ title: "Keiryu Liên Shutt"
 role: "Teacher"
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/2019-02/LienShutt2.jpg?h=4702567e&itok=uKPnmYHN"
+photo: "images/teachers/keiryu-lien-shutt.jpg"
 status: "active"
 aliases:
   - "/teachers/keiryu-lien-shutt"

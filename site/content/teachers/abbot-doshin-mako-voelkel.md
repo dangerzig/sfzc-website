@@ -4,7 +4,7 @@ role: "Abbot"
 centers:
   - "City Center"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Mako_288x288.png?h=f57c33c4&itok=jMXysx-3"
+photo: "images/teachers/abbot-doshin-mako-voelkel.png"
 status: "active"
 aliases:
   - "/teachers/abbot-doshin-mako-voelkel"

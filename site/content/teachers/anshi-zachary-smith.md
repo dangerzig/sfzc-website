@@ -3,7 +3,7 @@ title: "Anshi Zachary Smith"
 role: "Abbot"
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/DT-ZacharySmith-bio.jpg?itok=P9dIlA7W"
+photo: "images/teachers/anshi-zachary-smith.jpg"
 status: "active"
 aliases:
   - "/teachers/anshi-zachary-smith"

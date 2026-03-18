@@ -3,7 +3,7 @@ title: "Zenju Earthlyn Manuel Osho"
 role: "Abbess"
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Zenju-Earthlyn-Manuel_Anna-Cummings_BioPic_288x288_png.png?h=f57c33c4&itok=poPoCaLD"
+photo: "images/teachers/zenju-earthlyn-manuel-osho.png"
 status: "active"
 aliases:
   - "/teachers/zenju-earthlyn-manuel-osho"

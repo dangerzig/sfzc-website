@@ -4,7 +4,7 @@ role: ""
 centers:
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Shokuchi-AnitaBowen.jpg?h=74b373c7&itok=_KItEVCv"
+photo: "images/teachers/shokuchi-deirdre-carrigan-0.jpg"
 status: "active"
 aliases:
   - "/teachers/shokuchi-deirdre-carrigan-0"

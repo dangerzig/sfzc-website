@@ -3,7 +3,7 @@ title: "Yeshi Neumann"
 role: "Teacher"
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/2019-02/Yeshi-Neumann-webbio.jpg?h=426e70b4&itok=jLXwL0Vo"
+photo: "images/teachers/yeshi-neumann.jpg"
 status: "active"
 aliases:
   - "/teachers/yeshi-neumann"

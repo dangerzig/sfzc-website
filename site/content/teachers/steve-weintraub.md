@@ -5,7 +5,7 @@ centers:
   - "City Center"
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/SteveWeintraub_GibRobinson.jpg?h=1f38cf5a&itok=xM9EhDbo"
+photo: "images/teachers/steve-weintraub.jpg"
 status: "active"
 aliases:
   - "/teachers/steve-weintraub"

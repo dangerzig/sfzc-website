@@ -4,7 +4,7 @@ role: "Teacher"
 centers:
   - "City Center"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Sozan%20Miglioli_bio_288x288_png.png?h=f57c33c4&itok=D2nTAjIU"
+photo: "images/teachers/sozan-miglioli.png"
 status: "active"
 aliases:
   - "/teachers/sozan-miglioli"

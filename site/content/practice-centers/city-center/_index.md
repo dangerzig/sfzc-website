@@ -3,7 +3,7 @@ title: "City Center"
 tagline: "Beginner's Mind Temple in the heart of San Francisco"
 address: "300 Page Street, San Francisco, CA 94102"
 phone: "(415) 863-3136"
-image: "/images/centers/city-center.jpg"
+image: "images/centers/city-center.jpg"
 weight: 1
 aliases:
   - "/locations/city-center"

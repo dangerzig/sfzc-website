@@ -3,7 +3,7 @@ title: "Thiemo Blank"
 role: "Tanto"
 centers:
   - "Green Gulch Farm"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/2024-02/ThiemoBlank288x288.jpeg?h=f57c33c4&itok=dEIG28Rz"
+photo: "images/teachers/thiemo-blank.jpeg"
 status: "active"
 aliases:
   - "/teachers/thiemo-blank"

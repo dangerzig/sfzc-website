@@ -4,7 +4,7 @@ role: "Teacher"
 centers:
   - "City Center"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Hiro%20Ikushima_288x288_png.png?h=f57c33c4&itok=HXLphz69"
+photo: "images/teachers/hiro-ikushima.png"
 status: "active"
 aliases:
   - "/teachers/hiro-ikushima"

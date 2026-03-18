@@ -3,7 +3,7 @@ title: "Erica Reischer"
 role: ""
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/EricaReischer-GGFbio.jpg?h=5bc06211&itok=cbRgr1jI"
+photo: "images/teachers/erica-reischer.jpg"
 status: "active"
 aliases:
   - "/teachers/erica-reischer"

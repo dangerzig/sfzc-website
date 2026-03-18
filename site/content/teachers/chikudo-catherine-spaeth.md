@@ -3,7 +3,7 @@ title: "Chikudo Catherine Spaeth"
 role: ""
 centers:
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/CatherineSpaeth-shuso-250px.jpg?h=038a9462&itok=-z868QxY"
+photo: "images/teachers/chikudo-catherine-spaeth.jpg"
 status: "active"
 aliases:
   - "/teachers/chikudo-catherine-spaeth"

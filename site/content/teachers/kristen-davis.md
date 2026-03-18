@@ -3,7 +3,7 @@ title: "Kristen Davis"
 role: "Teacher"
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Kristen_in_Marichyasana.jpg?h=252f27fa&itok=ki9vJv7_"
+photo: "images/teachers/kristen-davis.jpg"
 status: "active"
 aliases:
   - "/teachers/kristen-davis"

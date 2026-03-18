@@ -3,7 +3,7 @@ title: "Hoka Chris Fortin"
 role: "Teacher"
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Chris-Fortin.jpg?h=bb737763&itok=gRIfhgKn"
+photo: "images/teachers/hoka-chris-fortin.jpg"
 status: "active"
 aliases:
   - "/teachers/hoka-chris-fortin"

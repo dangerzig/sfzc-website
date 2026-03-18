@@ -3,7 +3,7 @@ title: "Zesho Susan O’Connell"
 role: "Teacher"
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/ZeshoSusanOConnell.jpg?h=6db28224&itok=nvNXNrFP"
+photo: "images/teachers/zesho-susan-oconnell.jpg"
 status: "active"
 aliases:
   - "/teachers/zesho-susan-oconnell"

@@ -3,7 +3,7 @@ title: "Sokaku Kathie Fischer"
 role: "Teacher"
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/KathieFischer-2020-250px.jpg?h=038a9462&itok=uo3GARJy"
+photo: "images/teachers/sokaku-kathie-fischer.jpg"
 status: "active"
 aliases:
   - "/teachers/sokaku-kathie-fischer"

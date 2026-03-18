@@ -4,7 +4,7 @@ role: "Dharma Teacher"
 centers:
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/DjunaDevereaux-288px.png?h=f57c33c4&itok=gna3EWHH"
+photo: "images/teachers/djuna-devereaux.png"
 status: "active"
 aliases:
   - "/teachers/djuna-devereaux"

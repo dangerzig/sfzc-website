@@ -4,7 +4,7 @@ role: ""
 centers:
   - "City Center"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/KeithBaker_ClareHollander-288px.png?h=04d92ac6&itok=WuXSBrUN"
+photo: "images/teachers/keido-keith-baker.png"
 status: "active"
 aliases:
   - "/teachers/keido-keith-baker"

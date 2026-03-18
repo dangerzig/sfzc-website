@@ -3,7 +3,7 @@ title: "Lane Olson"
 role: ""
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Lane%20Olson%20-%20submitted2013.jpg?h=0b2b6f6f&itok=EmC21mIh"
+photo: "images/teachers/lane-olson.jpg"
 status: "active"
 aliases:
   - "/teachers/lane-olson"

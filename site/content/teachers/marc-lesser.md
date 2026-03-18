@@ -3,7 +3,7 @@ title: "Marc Lesser"
 role: "Teacher"
 centers:
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Marc-Lesser_CreditsMissing_288x288_png%20%281%29.png?h=f57c33c4&itok=aOkA8F1E"
+photo: "images/teachers/marc-lesser.png"
 status: "active"
 aliases:
   - "/teachers/marc-lesser"

@@ -3,7 +3,7 @@ title: "Ando Jaune Evans"
 role: "Teacher"
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/JauneEvans-2022-288px.png?h=f57c33c4&itok=XdgZntRd"
+photo: "images/teachers/ando-jaune-evans.png"
 status: "active"
 aliases:
   - "/teachers/ando-jaune-evans"

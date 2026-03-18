@@ -3,7 +3,7 @@ title: "Lee Klinger Lesser"
 role: ""
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/LeeKlingerLesser-bio250px.jpg?h=4c47fe44&itok=PmRx_yCH"
+photo: "images/teachers/lee-klinger-lesser.jpg"
 status: "active"
 aliases:
   - "/teachers/lee-klinger-lesser"

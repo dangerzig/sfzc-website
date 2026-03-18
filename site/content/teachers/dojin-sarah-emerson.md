@@ -3,7 +3,7 @@ title: "Dojin Sarah Emerson"
 role: "Abbot"
 centers:
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/DojinSarahEmerson-bio.jpg?h=262ada82&itok=yCbqPHG_"
+photo: "images/teachers/dojin-sarah-emerson.jpg"
 status: "active"
 aliases:
   - "/teachers/dojin-sarah-emerson"

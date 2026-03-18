@@ -3,7 +3,7 @@ title: "Kikū Christina Lehnherr"
 role: "Abbess"
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/KikuChristinaLehnherr-by-John-Anklow-288px.png?h=f57c33c4&itok=b2ZuNhJ6"
+photo: "images/teachers/kiku-christina-lehnherr.png"
 status: "active"
 aliases:
   - "/teachers/kiku-christina-lehnherr"

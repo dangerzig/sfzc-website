@@ -3,7 +3,7 @@ title: "Green Gulch Farm"
 tagline: "Zen practice, organic farming, and nature in Marin County"
 address: "1601 Shoreline Highway, Muir Beach, CA 94965"
 phone: "(415) 383-3134"
-image: "/images/centers/green-gulch.jpg"
+image: "images/centers/green-gulch.jpg"
 weight: 2
 aliases:
   - "/locations/green-gulch-farm"

@@ -3,7 +3,7 @@ title: "Abbot Jiryu Rutschman-Byler"
 role: "Abbot"
 centers:
   - "Green Gulch Farm"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Jiryu-Rutschman-Byler_RobertErdman.jpg?h=1cf55fce&itok=kLhpzmr7"
+photo: "images/teachers/abbot-jiryu-rutschman-byler.jpg"
 status: "active"
 aliases:
   - "/teachers/abbot-jiryu-rutschman-byler"
