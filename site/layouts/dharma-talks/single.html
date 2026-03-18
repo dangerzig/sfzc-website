@@ -9,7 +9,7 @@
       <a href="{{ .Permalink }}" class="text-sfzc-green hover:text-sfzc-green-light font-medium">{{ .Title }}</a>
       {{ end }}
     {{ end }}
-    {{ with .Params.talk_date }}<span>{{ dateFormat "January 2, 2006" . }}</span>{{ end }}
+    {{ with .Params.talk_date }}<span>{{ . }}</span>{{ end }}
     {{ with .Params.centers }}<span>{{ delimit . ", " }}</span>{{ end }}
   </div>
 
