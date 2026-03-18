@@ -1,11 +1,13 @@
 ---
 title: "Like Don't Like OK"
-speaker: ""
+speaker: "hoitsu-suzuki-roshi"
 talk_date: "03/16/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/dont-ok"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/tiMYgsUd-cMfXcsXK.html"
+description: "3/16/2008, Hoitsu Suzuki Roshi dharma talk at Green Gulch Farm."
 ---
 03/16/2008
 

@@ -1,11 +1,13 @@
 ---
 title: "Dwelling In Peace"
-speaker: ""
+speaker: "shinki-mark-lancaster"
 talk_date: "11/30/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/dwelling-peace"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/Ql4EJFtV-cMfXcsXK.html"
+description: "11/30/2011, Mark Lancaster dharma talk at City Center."
 ---
 11/30/2011
 

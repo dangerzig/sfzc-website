@@ -1,11 +1,13 @@
 ---
 title: "Doing Less"
-speaker: ""
+speaker: "marc-lesser"
 talk_date: "03/01/2009"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/doing-less"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/M2sjdY7I-cMfXcsXK.html"
+description: "3/1/2009, Marc Lesser dharma talk at Green Gulch Farm."
 ---
 03/01/2009
 

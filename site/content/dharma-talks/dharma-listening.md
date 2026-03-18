@@ -1,11 +1,13 @@
 ---
 title: "The Dharma of Listening"
-speaker: ""
+speaker: "thiemo-blank"
 talk_date: "11/24/2019"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/dharma-listening"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/rU8nfLQi-cMfXcsXK.html"
+description: "11/24/2019, Thiemo Blank, dharma talk at Green Gulch Farm."
 ---
 11/24/2019
 

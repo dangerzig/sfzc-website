@@ -1,11 +1,13 @@
 ---
 title: "To Diligently Care for and Collect Body and Mind"
-speaker: ""
+speaker: "hakusho-johan-ostlund"
 talk_date: "02/10/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/diligently-care-and-collect-body-and-mind"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/GSfzQmcW-cMfXcsXK.html"
+description: "02/10/2019, Hakusho Ostlund, dharma talk at Tassajara."
 ---
 02/10/2019
 

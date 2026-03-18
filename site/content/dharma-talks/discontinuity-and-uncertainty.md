@@ -1,11 +1,13 @@
 ---
 title: "Discontinuity and Uncertainty"
-speaker: ""
+speaker: "dairyu-michael-wenger"
 talk_date: "09/12/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/discontinuity-and-uncertainty"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/0N1Q7ebF-cMfXcsXK.html"
+description: "9/12/2012, Michael Wenger dharma talk at City Center."
 ---
 09/12/2012
 

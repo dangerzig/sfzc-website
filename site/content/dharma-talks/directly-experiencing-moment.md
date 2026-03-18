@@ -1,11 +1,13 @@
 ---
 title: "Directly Experiencing This Moment"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "01/01/2015"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/directly-experiencing-moment"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/KheQXiMs-cMfXcsXK.html"
+description: "1/1/15, Ryushin Paul Haller, dharma talk at City Center."
 ---
 01/01/2015
 

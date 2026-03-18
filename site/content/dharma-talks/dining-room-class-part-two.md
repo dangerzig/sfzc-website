@@ -1,11 +1,13 @@
 ---
 title: "Dining Room Class - Part Two"
-speaker: ""
+speaker: "zenju-earthlyn-manuel-osho"
 talk_date: "06/29/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/dining-room-class-part-two"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/zhWWgFhF-cMfXcsXK.html"
+description: "6/29/2013, Zenju Earthlyn Manuel, dharma talk at Tassajara."
 ---
 06/29/2013
 

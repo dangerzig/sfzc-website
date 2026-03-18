@@ -1,11 +1,13 @@
 ---
 title: "Early Buddhist Teachings on Emptiness"
-speaker: ""
+speaker: "gil-fronsdal"
 talk_date: "07/18/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/early-buddhist-teachings-emptiness"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/2DN6QZ6Y-cMfXcsXK.html"
+description: "7/18/2010, Gil Fronsdal dharma talk at Tassajara."
 ---
 07/18/2010
 

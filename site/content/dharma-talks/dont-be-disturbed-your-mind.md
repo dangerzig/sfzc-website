@@ -1,11 +1,13 @@
 ---
 title: "Don't Be Disturbed by Your Mind"
-speaker: ""
+speaker: "kosho-mccall"
 talk_date: "05/22/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/dont-be-disturbed-your-mind"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/vEUep0NV-cMfXcsXK.html"
+description: "5/22/2012, Kosho McCall, dharma talk at Tassajara."
 ---
 05/22/2012
 

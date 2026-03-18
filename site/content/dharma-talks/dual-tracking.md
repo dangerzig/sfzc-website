@@ -1,11 +1,13 @@
 ---
 title: "Dual Tracking"
-speaker: ""
+speaker: "dairyu-michael-wenger"
 talk_date: "07/07/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/dual-tracking"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/lAsikj1T-cMfXcsXK.html"
+description: "7/7/2010, Michael Wenger dharma talk at City Center."
 ---
 07/07/2010
 

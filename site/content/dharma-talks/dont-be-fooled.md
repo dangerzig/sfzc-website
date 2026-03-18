@@ -1,11 +1,13 @@
 ---
 title: "Don't Be Fooled"
-speaker: ""
+speaker: "ven-dhammadipa-konin-cardenas"
 talk_date: "03/14/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/dont-be-fooled"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/MlkaGWrF-cMfXcsXK.html"
+description: "3/14/2012, Konin Cardenas, dharma talk at City Center."
 ---
 03/14/2012
 

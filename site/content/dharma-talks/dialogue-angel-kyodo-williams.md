@@ -1,11 +1,13 @@
 ---
 title: "Dialogue with angel Kyodo williams"
-speaker: ""
+speaker: "rev-angel-kyodo-williams"
 talk_date: "07/28/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/dialogue-angel-kyodo-williams"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/REt8BRMV-cMfXcsXK.html"
+description: "7/28/2018, angel Kyodo williams dharma talk at Tassajara."
 ---
 07/28/2018
 

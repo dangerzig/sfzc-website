@@ -1,11 +1,13 @@
 ---
 title: "Dogen's Genjo Koan"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "08/05/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/dogens-genjo-koan-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/4VTLd3WQ-cMfXcsXK.html"
+description: "8/5/2012, Sojun Mel Weitsman, dharma talk at Green Gulch Farm."
 ---
 08/05/2012
 

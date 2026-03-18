@@ -1,11 +1,13 @@
 ---
 title: "Dream Language"
-speaker: ""
+speaker: "dairyu-michael-wenger"
 talk_date: "12/17/2014"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/dream-language"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/Hh9FpjCQ-cMfXcsXK.html"
+description: "12/17/2014, Dairyu Michael Wenger dharma talk at City Center."
 ---
 12/17/2014
 

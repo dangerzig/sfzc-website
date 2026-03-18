@@ -1,11 +1,13 @@
 ---
 title: "The Dirty Robe"
-speaker: ""
+speaker: "gengyoku-tim-wicks"
 talk_date: "07/06/2022"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/dirty-robe"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/ohr5Pt4e-cMfXcsXK.html"
+description: "07/06/2022, Gengyoko Tim Weeks, dharma talk at City Center. Although our Zen practice centers on sitting silently, we value conversation and interaction with each other through space and time, with our present day sangha members and those who brought this deep and sometimes painful practice to us. I"
 ---
 07/06/2022
 

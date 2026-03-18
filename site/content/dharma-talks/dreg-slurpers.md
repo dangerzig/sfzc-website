@@ -1,11 +1,13 @@
 ---
 title: "Dreg Slurpers"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "10/16/2016"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/dreg-slurpers"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/IKOXBgFR-cMfXcsXK.html"
+description: "10/16/2016, Furyu Schroeder dharma talk at Green Gulch Farm."
 ---
 10/16/2016
 

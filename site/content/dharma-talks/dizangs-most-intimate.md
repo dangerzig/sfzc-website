@@ -1,11 +1,13 @@
 ---
 title: "Dizang's \"Most Intimate\""
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "08/16/2015"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/dizangs-most-intimate"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/xAzseCXe-cMfXcsXK.html"
+description: "08/16/2015, Rinso Ed Sattizahn, dharma talk at Green Gulch Farm."
 ---
 08/16/2015
 
