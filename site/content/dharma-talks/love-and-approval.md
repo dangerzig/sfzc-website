@@ -1,11 +1,13 @@
 ---
 title: "Love and Approval"
-speaker: ""
+speaker: "edward-espe-brown"
 talk_date: "11/23/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/love-and-approval"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/FvOQZLB3-cMfXcsXK.html"
+description: "11/23/2008, Edward Espe Brown dharma talk at Green Gulch Farm."
 ---
 11/23/2008
 

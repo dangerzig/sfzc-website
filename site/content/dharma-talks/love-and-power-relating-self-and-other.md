@@ -1,11 +1,13 @@
 ---
 title: "Love and Power: Relating to Self and Other"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "10/26/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/love-and-power-relating-self-and-other"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/ewl3U2Vr-cMfXcsXK.html"
+description: "11/2/2019, Kiku Christina Lehnherr, dharma talk at  City Center."
 ---
 10/26/2019
 

@@ -1,11 +1,13 @@
 ---
 title: "Making Peace With One's Incarnation"
-speaker: ""
+speaker: "zenju-earthlyn-manuel-osho"
 talk_date: "07/26/2015"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/making-peace-ones-incarnation"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/eosOoeKc-cMfXcsXK.html"
+description: "07/26/2015, Zenju Earthlyn Manuel, dharma talk at Green Gulch Farm."
 ---
 07/26/2015
 

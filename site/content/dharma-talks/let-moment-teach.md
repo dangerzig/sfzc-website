@@ -1,11 +1,13 @@
 ---
 title: "Let The Moment Teach"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/03/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/let-moment-teach"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/SrBMAb7j-cMfXcsXK.html"
+description: "2/3/2018, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 02/03/2018
 

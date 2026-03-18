@@ -1,11 +1,13 @@
 ---
 title: "On Keizan and his ‘Notes on What to Be Aware of in Zazen’"
-speaker: "dogen-zenji"
+speaker: "abbot-tenzen-david-zimmerman"
 talk_date: "06/01/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/keizan-and-his-notes-what-be-aware-zazen-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/NVjgvVvA-cMfXcsXK.html"
+description: "06/01/2024, Tenzen David Zimmerman, dharma talk at City Center.In this talk, given at Beginner's Mind Temple’s monthly one-day sitting, (this time held at Haight Street Art Center) Abbot David shares highlights of his recent trip to Japan to participate in a memorial ceremony and tour in honor of Ke"
 ---
 06/01/2024
 

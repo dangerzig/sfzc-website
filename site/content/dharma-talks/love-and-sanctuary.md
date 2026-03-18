@@ -1,11 +1,13 @@
 ---
 title: "Love and Sanctuary"
-speaker: ""
+speaker: "abbot-tenzen-david-zimmerman"
 talk_date: "07/13/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/love-and-sanctuary"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/vqkAsQno-cMfXcsXK.html"
+description: "07/13/2019, Tenzen David Zimmerman, dharma talk at Tassajara."
 ---
 07/13/2019
 

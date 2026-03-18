@@ -1,11 +1,13 @@
 ---
 title: "The Light at the Tip of the Candle"
-speaker: ""
+speaker: "hoka-chris-fortin"
 talk_date: "05/20/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/light-tip-candle"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/kPhlkFHb-cMfXcsXK.html"
+description: "5/20/2015, Chris Fortin dharma talk at Tassajara."
 ---
 05/20/2015
 

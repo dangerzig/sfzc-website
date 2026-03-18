@@ -1,11 +1,13 @@
 ---
 title: "Learning From Difference"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "07/01/2020"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/learning-difference"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/fTN1Tzih-cMfXcsXK.html"
+description: "07/01/2020, Ryushin Paul Haller, dharma talk at Tassajara."
 ---
 07/01/2020
 

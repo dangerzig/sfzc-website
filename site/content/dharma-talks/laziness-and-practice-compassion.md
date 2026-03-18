@@ -1,11 +1,13 @@
 ---
 title: "Laziness and the Practice of Compassion"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "04/11/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/laziness-and-practice-compassion"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/XcorSNp9-cMfXcsXK.html"
+description: "4/11/2010, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 04/11/2010
 

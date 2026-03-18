@@ -1,11 +1,13 @@
 ---
 title: "Leavening Our Delusion"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "08/22/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/leavening-our-delusion"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/HGMJIpvd-cMfXcsXK.html"
+description: "8/22/2012, Steve Weintraub dharma talk at City Center."
 ---
 08/22/2012
 

@@ -1,11 +1,13 @@
 ---
 title: "Meeting and Merging"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "07/28/2013"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/meeting-and-merging"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/W1PaIt7c-cMfXcsXK.html"
+description: "7/28/2013, Sojun Mel Weitsman dharma talk at Green Gulch Farm."
 ---
 07/28/2013
 

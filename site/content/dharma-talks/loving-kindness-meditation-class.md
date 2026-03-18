@@ -1,11 +1,13 @@
 ---
 title: "Loving Kindness Meditation (class)"
-speaker: ""
+speaker: "kojun-dana-hull"
 talk_date: "09/02/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/loving-kindness-meditation-class"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/8kWmzzCd-cMfXcsXK.html"
+description: "9/2/2013, Kojun Dana Hull, dining room class at Tassajara."
 ---
 09/02/2013
 

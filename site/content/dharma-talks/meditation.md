@@ -1,11 +1,13 @@
 ---
 title: "Meditation"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "12/09/2015"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/meditation"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/ykfUcLsY-cMfXcsXK.html"
+description: "12/9/2015, Jiryu Rutschman-Byler, dharma talk at City Center."
 ---
 12/09/2015
 

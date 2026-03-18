@@ -1,11 +1,13 @@
 ---
 title: "Love and Commitment"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "06/29/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/love-and-commitment"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/Ff1ajnPb-cMfXcsXK.html"
+description: "6/29/2008, Shosan Victoria Austin dharma talk at Green Gulch Farm."
 ---
 06/29/2008
 

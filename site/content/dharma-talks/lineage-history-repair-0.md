@@ -1,11 +1,13 @@
 ---
 title: "Lineage, History, Repair"
-speaker: ""
+speaker: "shogen-jody-greene"
 talk_date: "01/23/2021"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/lineage-history-repair-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/kNTdONGz-cMfXcsXK.html"
+description: "A reflection on the debts and obligations of lineage.01/23/2021, Shogen Jody Greene, dharma talk at City Center."
 ---
 01/23/2021
 

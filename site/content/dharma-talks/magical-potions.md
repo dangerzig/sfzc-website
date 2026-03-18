@@ -1,11 +1,13 @@
 ---
 title: "Magical Potions"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "03/26/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/magical-potions"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/nOeaGGT7-cMfXcsXK.html"
+description: "3/26/2016, Furyu Schroeder dharma talk at Tassajara."
 ---
 03/26/2016
 

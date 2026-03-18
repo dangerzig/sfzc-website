@@ -1,11 +1,13 @@
 ---
 title: "Listening to The Cries of The World"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "06/20/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/listening-cries-world"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/S0STahzz-cMfXcsXK.html"
+description: "6/20/2018, Tenshin Reb Anderson dharma talk at Tassajara."
 ---
 06/20/2018
 

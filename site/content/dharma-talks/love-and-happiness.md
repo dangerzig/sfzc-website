@@ -1,11 +1,13 @@
 ---
 title: "Love and Happiness"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "03/12/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/love-and-happiness"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/j1L1GDAz-cMfXcsXK.html"
+description: "3/12/2011, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 03/12/2011
 

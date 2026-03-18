@@ -2,10 +2,12 @@
 title: "A Lifetime of Devotion"
 speaker: "eijun-linda-cutts"
 talk_date: "07/04/2021"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/lifetime-devotion"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/2bTqnVTl-cMfXcsXK.html"
+description: "Senior Dharma Teacher Eijun Linda Cutts reflects on \"a lifetime of devotion.\" 07/04/2021, Eijun Linda Cutts, dharma talk at Green Gulch Farm."
 ---
 07/04/2021
 

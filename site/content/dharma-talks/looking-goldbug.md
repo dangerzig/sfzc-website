@@ -1,11 +1,13 @@
 ---
 title: "Looking for Goldbug"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "02/05/2023"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/looking-goldbug"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/3l8NHxGV-cMfXcsXK.html"
+description: "02/05/2023, Jiryu Rutschman-Byler, dharma talk at Green Gulch. In this talk, Jiryu raises the line chanted before Zen lectures, \"I vow to taste the truth of Tathagata's words,\" and reflects on what it could mean for us not just to listen to formal talks with this heart, but to live our whole life "
 ---
 02/05/2023
 

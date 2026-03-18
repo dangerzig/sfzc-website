@@ -1,11 +1,13 @@
 ---
 title: "Lay Practice and the Brahmaviharas"
-speaker: ""
+speaker: "kogen-jamie-howell"
 talk_date: "05/22/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/lay-practice-and-brahmaviharas"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/fmCHkYdt-cMfXcsXK.html"
+description: "5/22/2010, Jamie Howell dharma talk at City Center."
 ---
 05/22/2010
 

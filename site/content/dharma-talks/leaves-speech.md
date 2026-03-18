@@ -1,11 +1,13 @@
 ---
 title: "Leaves of Speech"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "05/27/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/leaves-speech"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/kW9OaCMk-cMfXcsXK.html"
+description: "5/27/2017, Eijun Linda Ruth Cutts dharma talk at City Center."
 ---
 05/27/2017
 

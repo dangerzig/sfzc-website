@@ -1,11 +1,13 @@
 ---
 title: "Let It Register"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "10/13/2021"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/let-it-register"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/SOdu5IE7-cMfXcsXK.html"
+description: "10/13/2021, Ryushin Paul Haller, dharma talk at Tassajara."
 ---
 10/13/2021
 

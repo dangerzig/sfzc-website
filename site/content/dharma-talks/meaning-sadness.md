@@ -1,11 +1,13 @@
 ---
 title: "The Meaning of Sadness"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "09/25/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/meaning-sadness"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/9jhKQryg-cMfXcsXK.html"
+description: "9/25/2010, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 09/25/2010
 

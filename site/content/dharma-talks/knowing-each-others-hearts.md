@@ -1,11 +1,13 @@
 ---
 title: "Knowing Each Other's Hearts"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "09/07/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/knowing-each-others-hearts"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/rVir5ftC-cMfXcsXK.html"
+description: "9/7/2017, Leslie James dharma talk at Tassajara."
 ---
 09/07/2017
 
