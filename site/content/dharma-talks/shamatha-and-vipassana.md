@@ -1,11 +1,13 @@
 ---
 title: "Shamatha and Vipassana"
-speaker: ""
+speaker: "kokyo-henkel"
 talk_date: "02/24/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/shamatha-and-vipassana"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/jm2SA64x-cMfXcsXK.html"
+description: "2/24/2008, Luminous Owl dharma talk at Green Gulch Farm."
 ---
 02/24/2008
 

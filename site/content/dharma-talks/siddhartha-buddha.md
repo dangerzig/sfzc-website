@@ -1,11 +1,13 @@
 ---
 title: "From Siddhartha to Buddha"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "08/09/2009"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/siddhartha-buddha"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/VWlOsikS-cMfXcsXK.html"
+description: "8/9/2009, Furyu Schroeder dharma talk at Green Gulch Farm."
 ---
 08/09/2009
 

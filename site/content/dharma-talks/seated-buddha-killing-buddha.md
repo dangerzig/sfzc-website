@@ -1,11 +1,13 @@
 ---
 title: "Seated Buddha is Killing Buddha"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "12/11/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/seated-buddha-killing-buddha"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/KcPlSNHt-cMfXcsXK.html"
+description: "12/11/2010, Tenshin Reb Anderson dharma talk at Tassajara."
 ---
 12/11/2010
 

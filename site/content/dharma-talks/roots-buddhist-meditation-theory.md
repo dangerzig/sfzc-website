@@ -1,11 +1,13 @@
 ---
 title: "Roots of Buddhist Meditation Theory"
-speaker: ""
+speaker: "eric-greene"
 talk_date: "06/30/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/roots-buddhist-meditation-theory"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/MbGIpp1O-cMfXcsXK.html"
+description: "6/30/2012, Eric Greene dharma talk at Tassajara."
 ---
 06/30/2012
 

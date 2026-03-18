@@ -1,11 +1,13 @@
 ---
 title: "Seeing Virtue"
-speaker: ""
+speaker: "edward-espe-brown"
 talk_date: "04/01/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/seeing-virtue"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/TQkbPwpX-cMfXcsXK.html"
+description: "4/1/2012, Edward Espe Brown dharma talk at Green Gulch Farm."
 ---
 04/01/2012
 

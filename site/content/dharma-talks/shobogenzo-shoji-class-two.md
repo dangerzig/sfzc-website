@@ -1,11 +1,13 @@
 ---
 title: "Shobogenzo Shoji (class two)"
-speaker: ""
+speaker: "kokyo-henkel"
 talk_date: "05/28/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/shobogenzo-shoji-class-two"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/5ycHwSfq-cMfXcsXK.html"
+description: "5/28/2013, Kokyo Henkel dharma talk at Tassajara."
 ---
 05/28/2013
 

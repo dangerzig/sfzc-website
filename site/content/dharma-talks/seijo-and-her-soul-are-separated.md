@@ -1,11 +1,13 @@
 ---
 title: "Seijo and Her Soul Are Separated"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "05/18/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/seijo-and-her-soul-are-separated"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/FDBxDcry-cMfXcsXK.html"
+description: "5/18/2010, Eijun Linda Cutts dharma talk at Tassajara."
 ---
 05/18/2010
 

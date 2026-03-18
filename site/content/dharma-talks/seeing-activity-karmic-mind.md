@@ -1,11 +1,13 @@
 ---
 title: "Seeing the Activity of Karmic Mind"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/27/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/seeing-activity-karmic-mind"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/Hjool4Ba-cMfXcsXK.html"
+description: "2/27/2011, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 02/27/2011
 

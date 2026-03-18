@@ -1,11 +1,13 @@
 ---
 title: "Sesshin Effort"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/01/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/sesshin-effort"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/pm9AVGux-cMfXcsXK.html"
+description: "2/1/2011, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 02/01/2011
 

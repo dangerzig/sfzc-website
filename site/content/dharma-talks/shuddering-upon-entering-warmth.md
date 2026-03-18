@@ -1,11 +1,13 @@
 ---
 title: "Shuddering Upon Entering The Warmth"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "10/12/2021"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/shuddering-upon-entering-warmth"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/M090z7DP-cMfXcsXK.html"
+description: "10/12/2021, Ryushin Paul Haller, dharma talk at Tassajara."
 ---
 10/12/2021
 

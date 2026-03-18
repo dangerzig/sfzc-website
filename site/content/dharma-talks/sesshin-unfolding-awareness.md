@@ -1,11 +1,13 @@
 ---
 title: "Sesshin - The Unfolding of Awareness"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "03/27/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/sesshin-unfolding-awareness"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/S8O1UaRP-cMfXcsXK.html"
+description: "3/27/2010, Ryushin Paul Haller dharma talk at City Center."
 ---
 03/27/2010
 

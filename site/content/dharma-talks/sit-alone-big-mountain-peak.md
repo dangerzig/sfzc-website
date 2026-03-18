@@ -1,11 +1,13 @@
 ---
 title: "Sit Alone Big Mountain Peak"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "11/06/2016"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/sit-alone-big-mountain-peak"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/t3x8wrux-cMfXcsXK.html"
+description: "11/6/2016, Rinso Ed Sattizahn dharma talk at City Center."
 ---
 11/06/2016
 

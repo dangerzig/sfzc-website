@@ -1,11 +1,13 @@
 ---
 title: "Sesshin Day 2"
-speaker: ""
+speaker: "lee-lipp"
 talk_date: "03/25/2013"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/sesshin-day-2-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/altIGCrd-cMfXcsXK.html"
+description: "3/25/2013, Lee Lipp dharma talk at City Center."
 ---
 03/25/2013
 

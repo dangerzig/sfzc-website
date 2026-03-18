@@ -1,11 +1,13 @@
 ---
 title: "Shining Practice"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "11/19/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/shining-practice"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/yJMWxXcq-cMfXcsXK.html"
+description: "11/19/2013, Kiku Christina Lehnherr dharma talk at Tassajara."
 ---
 11/19/2013
 

@@ -1,11 +1,13 @@
 ---
 title: "Sitting In The Heart Land"
-speaker: ""
+speaker: "shokuchi-deirdre-carrigan-0"
 talk_date: "11/15/2015"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/sitting-heart-land"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/GbLNQf3j-cMfXcsXK.html"
+description: "11/15/2015, Shokuchi Carrigan, dharma talk at Green Gulch Farm."
 ---
 11/15/2015
 

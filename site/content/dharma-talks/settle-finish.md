@@ -1,11 +1,13 @@
 ---
 title: "Settle / Finish"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "02/07/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/settle-finish"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/Vpgpzq0T-cMfXcsXK.html"
+description: "2/7/2014, Leslie James, dharma talk at Tassajara."
 ---
 02/07/2014
 

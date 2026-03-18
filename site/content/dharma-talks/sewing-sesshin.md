@@ -1,11 +1,13 @@
 ---
 title: "Sewing Sesshin"
-speaker: ""
+speaker: "gengyoku-tim-wicks"
 talk_date: "06/20/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/sewing-sesshin"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/moDl1vIf-cMfXcsXK.html"
+description: "6/20/2018, Gengyoko Tim Wicks dharma talk at City Center."
 ---
 06/20/2018
 

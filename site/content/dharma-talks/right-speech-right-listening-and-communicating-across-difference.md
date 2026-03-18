@@ -1,11 +1,13 @@
 ---
 title: "Right Speech, Right Listening and Communicating Across Difference"
-speaker: ""
+speaker: "shinchi-linda-galijan"
 talk_date: "07/13/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/right-speech-right-listening-and-communicating-across-difference"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/KvoJ0Ecm-cMfXcsXK.html"
+description: "7/13/2015, Linda Galijan dharma talk at Tassajara."
 ---
 07/13/2015
 

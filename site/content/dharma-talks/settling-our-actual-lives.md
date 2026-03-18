@@ -1,11 +1,13 @@
 ---
 title: "Settling into Our Actual Lives"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "06/26/2011"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/settling-our-actual-lives"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/uzONtBGD-cMfXcsXK.html"
+description: "6/26/2011, Steve Weintraub dharma talk at Green Gulch Farm."
 ---
 06/26/2011
 

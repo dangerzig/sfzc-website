@@ -1,11 +1,13 @@
 ---
 title: "Savoring"
-speaker: ""
+speaker: "marlene-jones"
 talk_date: "07/01/2009"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/savoring"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/oJnDrbTo-cMfXcsXK.html"
+description: "7/1/2009, Dr. Marlene Jones dharma talk at City Center."
 ---
 07/01/2009
 

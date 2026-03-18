@@ -1,11 +1,13 @@
 ---
 title: "Saying Yes To The Causes And Conditions Of Our Lives"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "04/16/2016"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/saying-yes-causes-and-conditions-our-lives"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/HcVRZjuW-cMfXcsXK.html"
+description: "4/16/2016, Ryushin Paul Haller dharma talk at City Center."
 ---
 04/16/2016
 

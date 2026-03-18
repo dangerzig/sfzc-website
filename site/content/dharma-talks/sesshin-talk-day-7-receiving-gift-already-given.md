@@ -1,11 +1,13 @@
 ---
 title: "Sesshin Talk Day 7 - Receiving the Gift Already Given"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "12/10/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/sesshin-talk-day-7-receiving-gift-already-given"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/refixV9I-cMfXcsXK.html"
+description: "12/10/2011, Ryushin Paul Haller dharma talk at City Center."
 ---
 12/10/2011
 
