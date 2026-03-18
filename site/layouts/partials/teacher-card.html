@@ -1,0 +1,23 @@
+{{/* Expects: . = a teacher page */}}
+<div class="bg-white border border-gray-200 rounded-lg overflow-hidden card-hover"
+     data-center="{{ with .Params.centers }}{{ delimit . "," }}{{ end }}"
+     data-role="{{ with .Params.roles }}{{ delimit . "," }}{{ end }}">
+  <a href="{{ .Permalink }}" class="block">
+    {{ with .Params.photo }}
+    <img src="{{ . | absURL }}" alt="{{ $.Title }}" class="w-full h-48 object-cover">
+    {{ else }}
+    <div class="w-full h-48 bg-sfzc-cream flex items-center justify-center text-sfzc-stone text-4xl font-light">
+      {{ substr .Title 0 1 }}
+    </div>
+    {{ end }}
+    <div class="p-4">
+      <h3 class="font-semibold text-sfzc-green">{{ .Title }}</h3>
+      {{ with .Params.role }}<p class="text-sm text-gray-500 mt-1">{{ . }}</p>{{ end }}
+      {{ with .Params.centers }}
+      <p class="text-xs text-sfzc-stone mt-2">
+        {{ range $i, $c := . }}{{ if $i }}, {{ end }}{{ $c }}{{ end }}
+      </p>
+      {{ end }}
+    </div>
+  </a>
+</div>

@@ -1,0 +1,41 @@
+{{ define "main" }}
+<div class="max-w-4xl mx-auto px-4 py-8">
+  <h1 class="text-3xl font-bold text-sfzc-green mb-2">Events</h1>
+  <p class="text-gray-600 mb-6">Upcoming and past events at San Francisco Zen Center.</p>
+
+  <!-- Filters -->
+  <div class="flex flex-wrap gap-3 mb-8" id="event-filters">
+    <div>
+      <label class="text-sm font-medium text-gray-700 block mb-1">Center</label>
+      <select data-filter="center" class="border border-gray-300 rounded px-3 py-1.5 text-sm">
+        <option value="">All Centers</option>
+        <option value="City Center">City Center</option>
+        <option value="Green Gulch Farm">Green Gulch Farm</option>
+        <option value="Tassajara">Tassajara</option>
+        <option value="Online">Online</option>
+      </select>
+    </div>
+    <div>
+      <label class="text-sm font-medium text-gray-700 block mb-1">Type</label>
+      <select data-filter="type" class="border border-gray-300 rounded px-3 py-1.5 text-sm">
+        <option value="">All Types</option>
+        <option value="Sesshin">Sesshin</option>
+        <option value="Retreat">Retreat</option>
+        <option value="Workshop">Workshop</option>
+        <option value="Class">Class</option>
+        <option value="Lecture">Lecture</option>
+        <option value="Practice Period">Practice Period</option>
+        <option value="Guest Season">Guest Season</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="space-y-3" id="event-list">
+    {{ range .Pages.ByParam "event_date" }}
+      {{ partial "event-card.html" . }}
+    {{ end }}
+  </div>
+
+  <p id="no-results" class="hidden text-gray-500 text-center py-8">No events match the selected filters.</p>
+</div>
+{{ end }}

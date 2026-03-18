@@ -1,0 +1,17 @@
+{{/* Expects: . = a practice center page */}}
+<div class="bg-white border border-gray-200 rounded-lg overflow-hidden card-hover">
+  <a href="{{ .Permalink }}" class="block">
+    {{ with .Params.image }}
+    <img src="{{ . | absURL }}" alt="{{ $.Title }}" class="w-full h-48 object-cover">
+    {{ else }}
+    <div class="w-full h-48 bg-sfzc-cream flex items-center justify-center">
+      <span class="text-sfzc-stone text-lg font-light">{{ .Title }}</span>
+    </div>
+    {{ end }}
+    <div class="p-4">
+      <h3 class="font-bold text-lg text-sfzc-green">{{ .Title }}</h3>
+      {{ with .Params.tagline }}<p class="text-gray-600 text-sm mt-1">{{ . }}</p>{{ end }}
+      {{ with .Params.address }}<p class="text-xs text-sfzc-stone mt-2">{{ . }}</p>{{ end }}
+    </div>
+  </a>
+</div>

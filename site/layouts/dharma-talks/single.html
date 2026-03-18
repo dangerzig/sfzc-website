@@ -1,0 +1,66 @@
+{{ define "main" }}
+<article class="max-w-4xl mx-auto px-4 py-8">
+  <h1 class="text-3xl font-bold text-sfzc-green mb-4">{{ .Title }}</h1>
+
+  <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500 mb-6">
+    {{ with .Params.speaker }}
+      {{ $teacher := site.GetPage (printf "/teachers/%s" .) }}
+      {{ with $teacher }}
+      <a href="{{ .Permalink }}" class="text-sfzc-green hover:text-sfzc-green-light font-medium">{{ .Title }}</a>
+      {{ end }}
+    {{ end }}
+    {{ with .Params.talk_date }}<span>{{ dateFormat "January 2, 2006" . }}</span>{{ end }}
+    {{ with .Params.centers }}<span>{{ delimit . ", " }}</span>{{ end }}
+  </div>
+
+  <!-- Audio embed -->
+  {{ with .Params.audio_url }}
+  <div class="bg-sfzc-cream rounded-lg p-4 mb-8">
+    <audio controls class="w-full" preload="metadata">
+      <source src="{{ . }}" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+  {{ end }}
+
+  <!-- Talk content/description -->
+  <div class="prose max-w-none mb-8">
+    {{ .Content }}
+  </div>
+
+  <!-- Topics -->
+  {{ with .Params.topics }}
+  <div class="mb-8">
+    <h2 class="text-sm font-bold text-gray-500 uppercase tracking-wide mb-2">Topics</h2>
+    <div class="flex flex-wrap gap-2">
+      {{ range . }}
+      <span class="bg-sfzc-cream text-sfzc-brown px-3 py-1 rounded-full text-sm">{{ . }}</span>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  <!-- More talks by this speaker -->
+  {{ $currentPage := . }}
+  {{ with .Params.speaker }}
+    {{ $speaker := . }}
+    {{ $allTalks := where (where site.RegularPages "Section" "dharma-talks") ".Params.speaker" $speaker }}
+    {{ $moreTalks := slice }}
+    {{ range $allTalks }}
+      {{ if ne .Permalink $currentPage.Permalink }}
+        {{ $moreTalks = $moreTalks | append . }}
+      {{ end }}
+    {{ end }}
+    {{ with $moreTalks }}
+    <section class="mt-12">
+      <h2 class="text-2xl font-bold text-sfzc-green mb-4">More Talks by This Speaker</h2>
+      <div class="space-y-3">
+        {{ range first 5 . }}
+          {{ partial "talk-card.html" . }}
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+  {{ end }}
+</article>
+{{ end }}

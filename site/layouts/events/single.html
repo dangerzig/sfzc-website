@@ -1,0 +1,56 @@
+{{ define "main" }}
+<article class="max-w-4xl mx-auto px-4 py-8">
+  <h1 class="text-3xl font-bold text-sfzc-green mb-4">{{ .Title }}</h1>
+
+  <!-- Event meta -->
+  <div class="bg-sfzc-cream rounded-lg p-6 mb-8">
+    <dl class="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
+      {{ with .Params.event_date }}
+      <div>
+        <dt class="font-bold text-gray-700">Date</dt>
+        <dd class="text-gray-600">{{ . }}
+          {{ with $.Params.end_date }}
+            {{ if ne . "" }}&ndash; {{ . }}{{ end }}
+          {{ end }}
+        </dd>
+      </div>
+      {{ end }}
+      {{ with .Params.event_type }}
+      <div>
+        <dt class="font-bold text-gray-700">Type</dt>
+        <dd class="text-gray-600">{{ . }}</dd>
+      </div>
+      {{ end }}
+      {{ with .Params.centers }}
+      <div>
+        <dt class="font-bold text-gray-700">Location</dt>
+        <dd class="text-gray-600">
+          {{ range $i, $c := . }}{{ if $i }}, {{ end }}
+            <a href="{{ printf "/practice-centers/%s/" ($c | urlize) | absURL }}" class="text-sfzc-green hover:text-sfzc-green-light">{{ $c }}</a>
+          {{ end }}
+        </dd>
+      </div>
+      {{ end }}
+      {{ with .Params.teacher }}
+        {{ $t := site.GetPage (printf "/teachers/%s" .) }}
+        {{ with $t }}
+        <div>
+          <dt class="font-bold text-gray-700">Teacher</dt>
+          <dd><a href="{{ .Permalink }}" class="text-sfzc-green hover:text-sfzc-green-light">{{ .Title }}</a></dd>
+        </div>
+        {{ end }}
+      {{ end }}
+      {{ with .Params.format }}
+      <div>
+        <dt class="font-bold text-gray-700">Format</dt>
+        <dd class="text-gray-600">{{ . }}</dd>
+      </div>
+      {{ end }}
+    </dl>
+  </div>
+
+  <div class="prose max-w-none">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}
