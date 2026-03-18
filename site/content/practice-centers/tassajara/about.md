@@ -1,5 +1,6 @@
 ---
 title: "About Tassajara"
+image: "images/pages/Tassajara_0845_ZMC2018_MargoMoritz_zoomDetail.jpg"
 
 ---
 Surrounded by inspiring mountain vistas, Tassajara encourages a more spacious and present way of being. The hot springs melt away the stress and dust of daily living. Carefully prepared food nourishes body and spirit. The air and the skies are crystal clear, and the stars shine brightly at night. Away from the distractions and demands of daily life, supported by the sounds of the creek and the breeze in the sycamores, the opportunity to deeply relax and connect with the natural world is readily at hand.

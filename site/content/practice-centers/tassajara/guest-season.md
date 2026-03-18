@@ -1,5 +1,6 @@
 ---
 title: "Guest Season & Reservations"
+image: "images/pages/142_wenderski_1150.jpg"
 aliases:
   - "/guest-season-reservations"
 ---

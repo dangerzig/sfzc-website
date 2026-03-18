@@ -1,5 +1,6 @@
 ---
 title: "Daily Schedule at City Center"
+image: "images/pages/cc_zenMeditationAndPractice_toutTile.jpg"
 aliases:
   - "/practice-centers/city-center/zen-meditation-practice-city-center/daily-schedule-city-center"
 ---

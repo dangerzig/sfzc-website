@@ -1,5 +1,6 @@
 ---
 title: "Conference Center at City Center"
+image: "images/pages/CC-Rooms-Rentals_tout.png"
 
 ---
 ### Location

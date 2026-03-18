@@ -1,5 +1,6 @@
 ---
 title: "About Green Gulch Farm"
+image: "images/pages/AboutGreenGulch_toutTile.jpg"
 
 ---
 Green Gulch Farm Zen Center, also known as Green Dragon Temple (Soryu-ji), is located in Marin County, just north of San Francisco, in a valley that opens out onto the Pacific Ocean. In addition to a year-round schedule of Zen meditation, study, and practice, it includes a thriving organic farm and garden, a traditional Japanese guest house and tea house, and a conference and retreat center.

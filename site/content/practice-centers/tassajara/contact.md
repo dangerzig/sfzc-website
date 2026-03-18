@@ -1,5 +1,6 @@
 ---
 title: "Contact Tassajara"
+image: "images/pages/Contact-toutTile_moritz_0.jpg"
 aliases:
   - "/practice-centers/tassajara/contact-tassajara"
 ---

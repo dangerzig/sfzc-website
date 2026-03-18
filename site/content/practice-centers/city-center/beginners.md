@@ -1,5 +1,6 @@
 ---
 title: "For Beginners at City Center"
+image: "images/pages/beginners_mind.jpg"
 aliases:
   - "/practice-centers/city-center/zen-meditation-practice-city-center/beginners"
 ---

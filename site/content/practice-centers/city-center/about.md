@@ -1,5 +1,6 @@
 ---
 title: "About City Center"
+image: "images/pages/cityCenter_toutTile_homepage.jpg"
 
 ---
 ### Welcome

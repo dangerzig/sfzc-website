@@ -1,5 +1,6 @@
 ---
 title: "Contact Green Gulch"
+image: "images/pages/Contact-toutTile_moritz_0.jpg"
 
 ---
 ### Mailing Address

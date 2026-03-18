@@ -1,5 +1,6 @@
 ---
 title: "Sittings & Sesshins (City Center)"
+image: "images/pages/DSC_0013_florian_1150_ThursMed.jpg"
 aliases:
   - "/practice-centers/city-center/zen-meditation-practice-city-center/sitting-meditation-sesshins-at-city-center"
 ---

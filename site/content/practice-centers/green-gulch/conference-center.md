@@ -1,5 +1,6 @@
 ---
 title: "Conference Center at Green Gulch: Facilities, Rates, & Policies"
+image: "images/pages/GGF_conferenceCenter_toutTile_2.jpg"
 
 ---
 ### We are no longer accepting requests for 2026 dates.

@@ -1,5 +1,6 @@
 ---
 title: "Getting to Green Gulch Farm"
+image: "images/pages/screenshot-GettingHere_map.png"
 aliases:
   - "/practice-centers/green-gulch-farm/getting-green-gulch-farm"
 ---
