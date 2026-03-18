@@ -1,11 +1,13 @@
 ---
 title: "Dale Wright"
-speaker: ""
+speaker: "dale-wright"
 talk_date: "10/02/2015"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/dale-wright"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/Qgg6164w-cMfXcsXK.html"
+description: "10/2/2015, Dale Wright dharma talk at City Center."
 ---
 10/02/2015
 

@@ -1,11 +1,13 @@
 ---
 title: "Coming From Gratitude at the Turning of the Year"
-speaker: ""
+speaker: "wendy-johnson"
 talk_date: "12/31/2017"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/coming-gratitude-turning-year"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/ryrHVEaJ-cMfXcsXK.html"
+description: "12/31/2017, Wendy Johnson dharma talk at Green Gulch Farm."
 ---
 12/31/2017
 

@@ -1,11 +1,13 @@
 ---
 title: "Completely Taking Refuge"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "08/19/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/completely-taking-refuge"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/O9Nnrj9b-cMfXcsXK.html"
+description: "8/19/2012, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 08/19/2012
 

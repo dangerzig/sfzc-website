@@ -1,11 +1,13 @@
 ---
 title: "Continuous Practice"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "11/12/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/continuous-practice-2"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/0cj1szyB-cMfXcsXK.html"
+description: "11/12/2011, Shosan Victoria Austin dharma talk at City Center."
 ---
 11/12/2011
 

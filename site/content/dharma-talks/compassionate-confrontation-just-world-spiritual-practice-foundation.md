@@ -1,11 +1,13 @@
 ---
 title: "Compassionate Confrontation for a Just World: Spiritual Practice as Foundation for Activism (Discussion)"
-speaker: ""
+speaker: "katie-loncke"
 talk_date: "06/05/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/compassionate-confrontation-just-world-spiritual-practice-foundation"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/WpEBhdoH-cMfXcsXK.html"
+description: "6/5/2015, Katie Loncke, Dawn Haney dharma talk at Tassajara."
 ---
 06/05/2015
 

@@ -1,11 +1,13 @@
 ---
 title: "Contemplation"
-speaker: ""
+speaker: "kokyo-henkel"
 talk_date: "08/31/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/contemplation"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/p3cFWzfr-cMfXcsXK.html"
+description: "8/31/2008, Luminous Owl dharma talk at Green Gulch Farm."
 ---
 08/31/2008
 

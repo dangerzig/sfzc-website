@@ -1,11 +1,13 @@
 ---
 title: "Daowu Tends the Sick"
-speaker: ""
+speaker: "zoketsu-norman-fischer"
 talk_date: "03/30/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/daowu-tends-sick"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/pMFTHl63-cMfXcsXK.html"
+description: "03/30/2019, Zoketsu Norman Fischer, dharma talk at Tassajara."
 ---
 03/30/2019
 

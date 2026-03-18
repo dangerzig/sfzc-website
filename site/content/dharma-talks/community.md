@@ -1,11 +1,13 @@
 ---
 title: "Community"
-speaker: ""
+speaker: "hozan-alan-senauke"
 talk_date: "12/13/2009"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/community"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/SBWPJLDz-cMfXcsXK.html"
+description: "12/13/2009, Hozan Alan Senauke dharma talk at Green Gulch Farm."
 ---
 12/13/2009
 

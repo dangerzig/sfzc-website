@@ -1,11 +1,13 @@
 ---
 title: "Conflict"
-speaker: ""
+speaker: "zoketsu-norman-fischer"
 talk_date: "08/26/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/conflict"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/NsePGFIU-cMfXcsXK.html"
+description: "8/26/2015, Zoketsu Norman Fischer dharma talk at Tassajara."
 ---
 08/26/2015
 

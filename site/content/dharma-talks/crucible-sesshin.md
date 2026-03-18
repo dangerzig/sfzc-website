@@ -1,11 +1,13 @@
 ---
 title: "The Crucible of Sesshin"
-speaker: ""
+speaker: "siobhan-cassidy"
 talk_date: "03/19/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/crucible-sesshin"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/d5IVlXgr-cMfXcsXK.html"
+description: "2017-03-19, Siobhan Cassidy, dharma talk at City Center"
 ---
 03/19/2017
 

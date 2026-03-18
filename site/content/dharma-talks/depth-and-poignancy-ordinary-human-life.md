@@ -1,11 +1,13 @@
 ---
 title: "The Depth and Poignancy of Ordinary Human Life"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "11/24/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/depth-and-poignancy-ordinary-human-life"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/dcbDs0to-cMfXcsXK.html"
+description: "11/24/2018, Steve Weintraub dharma talk at City Center."
 ---
 11/24/2018
 

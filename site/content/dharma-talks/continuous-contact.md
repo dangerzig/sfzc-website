@@ -1,11 +1,13 @@
 ---
 title: "Continuous Contact"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/26/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/continuous-contact"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/ZvV0rj8O-cMfXcsXK.html"
+description: "2/26/2018, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 02/26/2018
 

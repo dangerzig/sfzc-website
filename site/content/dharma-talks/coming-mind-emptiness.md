@@ -1,11 +1,13 @@
 ---
 title: "Coming from the Mind of Emptiness"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "11/10/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/coming-mind-emptiness"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/Ui0JDaZz-cMfXcsXK.html"
+description: "11/10/2010, Ryushin Paul Haller dharma talk at City Center."
 ---
 11/10/2010
 

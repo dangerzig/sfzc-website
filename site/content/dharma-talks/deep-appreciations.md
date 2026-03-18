@@ -1,11 +1,13 @@
 ---
 title: "Deep Appreciations"
-speaker: ""
+speaker: "yuki-kobiyama"
 talk_date: "04/12/2020"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/deep-appreciations"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/orCTsjFl-cMfXcsXK.html"
+description: "04/12/2020, Yuki Kobiyama, dharma talk at Green Gulch Farm."
 ---
 04/12/2020
 

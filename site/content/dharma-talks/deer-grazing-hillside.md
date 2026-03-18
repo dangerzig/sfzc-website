@@ -1,11 +1,13 @@
 ---
 title: "Like Deer Grazing on a Hillside"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "06/20/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/deer-grazing-hillside"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/iAs3OLao-cMfXcsXK.html"
+description: "6/20/2012, Leslie James dharma talk at Tassajara."
 ---
 06/20/2012
 

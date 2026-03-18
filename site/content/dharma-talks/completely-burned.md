@@ -1,11 +1,13 @@
 ---
 title: "Completely Burned Up"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "08/25/2019"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/completely-burned"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/s6O8P3it-cMfXcsXK.html"
+description: "08/25/2019, Furyu Schroeder, dharma talk at Green Gulch Farm."
 ---
 08/25/2019
 

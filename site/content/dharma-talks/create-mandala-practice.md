@@ -1,11 +1,13 @@
 ---
 title: "Create a Mandala of Practice"
-speaker: ""
+speaker: "zenju-earthlyn-manuel-osho"
 talk_date: "06/28/2020"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/create-mandala-practice"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/z2G0WZd9-cMfXcsXK.html"
+description: "06/28/2020, Zenju Earthlyn Manuel, rebroadcast of dharma talk given at New York Zen Center for Contemplative Care on 06/07/2020."
 ---
 06/28/2020
 

@@ -1,11 +1,13 @@
 ---
 title: "Demons"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/25/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/demons"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/dgvLFgg2-cMfXcsXK.html"
+description: "2/25/2014, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 02/25/2014
 

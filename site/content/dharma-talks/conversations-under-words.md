@@ -1,11 +1,13 @@
 ---
 title: "Conversations Under The Words"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "05/29/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/conversations-under-words"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/rWez5QER-cMfXcsXK.html"
+description: "05/29/2019, Ryushin Paul Haller and Naomi Shihab Nye, dharma talk at Tassajara."
 ---
 05/29/2019
 
