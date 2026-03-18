@@ -1,11 +1,13 @@
 ---
 title: "Zen and Vajrayana"
-speaker: ""
+speaker: "kokyo-henkel"
 talk_date: "05/25/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/zen-and-vajrayana-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/R9J9jL12-cMfXcsXK.html"
+description: "05/18/2024, Kokyo Henkel, dharma talk at City Center.In this talk, given at Beginner's Mind Temple, Kokyo celebrates the spirit of non-sectarianism within Buddha-Dharma, and explores the similarities and differences between Zen and Vajrayana practices, through the teaching of the nine vehicles of th"
 ---
 05/25/2024
 

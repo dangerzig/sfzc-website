@@ -1,11 +1,13 @@
 ---
 title: "Zen and Neuroscience"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "09/11/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/zen-and-neuroscience"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/CqIQUWJA-cMfXcsXK.html"
+description: "9/11/2010, Abbot Ryushin Paul Haller and Philippe Goldin dharma talk at City Center."
 ---
 09/11/2010
 

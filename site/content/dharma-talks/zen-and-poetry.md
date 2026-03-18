@@ -1,11 +1,13 @@
 ---
 title: "Zen and Poetry"
-speaker: ""
+speaker: "naomi-shihab-nye"
 talk_date: "06/07/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/zen-and-poetry"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/VjjLo2F7-cMfXcsXK.html"
+description: "6/7/2017, Naomi Shihab Nye and Ryushin Paul Haller dharma talk at Tassajara."
 ---
 06/07/2017
 

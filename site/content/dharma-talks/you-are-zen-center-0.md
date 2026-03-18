@@ -1,11 +1,13 @@
 ---
 title: "You Are Zen Center"
-speaker: ""
+speaker: "sozan-michael-mccord"
 talk_date: "10/13/2024"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/you-are-zen-center-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/PU0wAOip-cMfXcsXK.html"
+description: "10/13/2024, Sozan Michael McCord, dharma talk at Green Gulch Farm.This dharma talk was given at Green Gulch Farm by San Francisco Zen Center president Sozan Michael McCord. While we honor and treasure the memories, lessons and times with people who we knew in the past, it is that very memory of how "
 ---
 10/13/2024
 

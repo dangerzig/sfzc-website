@@ -1,11 +1,13 @@
 ---
 title: "The Zen of Going to the Rest Room"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "07/18/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/zen-going-rest-room"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/qhlcYRsR-cMfXcsXK.html"
+description: "7/18/2015, Sojun Mel Weitsman dharma talk at Tassajara."
 ---
 07/18/2015
 

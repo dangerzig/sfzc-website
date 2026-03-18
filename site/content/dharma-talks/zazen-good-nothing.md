@@ -1,11 +1,13 @@
 ---
 title: "Zazen Is Good for Nothing"
-speaker: ""
+speaker: "shohaku-okumura"
 talk_date: "03/17/2013"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/zazen-good-nothing"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/Nl3YTuhm-cMfXcsXK.html"
+description: "3/17/13, Shohaku Okumura, dharma talk at Green Gulch Farm."
 ---
 03/17/2013
 

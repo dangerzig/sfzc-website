@@ -1,11 +1,13 @@
 ---
 title: "Zen Practice Challenging Racism"
-speaker: ""
+speaker: "korin-charlie-pokorny"
 talk_date: "04/28/2019"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/zen-practice-challenging-racism"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/eeSEQbCP-cMfXcsXK.html"
+description: "04/28/2019, Korin Charlie Pokorny, dharma talk at Green Gulch Farm."
 ---
 04/28/2019
 

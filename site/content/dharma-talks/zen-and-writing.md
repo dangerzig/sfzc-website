@@ -1,11 +1,13 @@
 ---
 title: "Zen and Writing"
-speaker: ""
+speaker: "pico-iyer"
 talk_date: "06/11/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/zen-and-writing"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/k9QPORa7-cMfXcsXK.html"
+description: "6/11/2016, Pico Iyer and Furyu Schroeder dharma talk at Tassajara."
 ---
 06/11/2016
 

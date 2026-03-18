@@ -1,11 +1,13 @@
 ---
 title: "Zazen"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "10/09/2021"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/zazen-0"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/S2HJKqi5-cMfXcsXK.html"
+description: "10/09/2021, Ryushin Paul Haller, dharma talk at Tassajara."
 ---
 10/09/2021
 

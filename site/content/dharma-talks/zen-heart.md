@@ -1,11 +1,13 @@
 ---
 title: "Zen Heart"
-speaker: ""
+speaker: "zenju-earthlyn-manuel-osho"
 talk_date: "08/23/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/zen-heart"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/6qNgbZrj-cMfXcsXK.html"
+description: "8/23/2014, Zenju Earthlyn Manuel dharma talk at Tassajara."
 ---
 08/23/2014
 

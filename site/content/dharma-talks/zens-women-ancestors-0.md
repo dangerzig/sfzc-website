@@ -1,11 +1,13 @@
 ---
 title: "Zen’s Women Ancestors"
-speaker: ""
+speaker: "sokaku-kathie-fischer"
 talk_date: "08/17/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/zens-women-ancestors-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/j50N5bH1-cMfXcsXK.html"
+description: "08/17/2024, Sokaku Kathie Fischer, dharma talk at City Center.In this dharma talk, given at Beginner’s Mind Temple, Kathie references Eihei Dogen's work, \"Receiving the Marrow by Bowing,\" to tell the stories of important Zen women ancestors in the light of changing demographics over the millennia,"
 ---
 08/17/2024
 

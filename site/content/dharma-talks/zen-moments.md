@@ -1,11 +1,13 @@
 ---
 title: "Zen Moments"
-speaker: ""
+speaker: "marc-lesser"
 talk_date: "07/29/2007"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/zen-moments"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/2HsEUdpu-cMfXcsXK.html"
+description: "7/29/2007, Marc Lesser dharma talk at Green Gulch Farm."
 ---
 07/29/2007
 

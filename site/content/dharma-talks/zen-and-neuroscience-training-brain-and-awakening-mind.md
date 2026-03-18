@@ -1,11 +1,13 @@
 ---
 title: "Zen and Neuroscience: Training the Brain and Awakening the Mind"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "09/22/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/zen-and-neuroscience-training-brain-and-awakening-mind"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/uMdkfsKa-cMfXcsXK.html"
+description: "9/22/2018, Ryushin Paul Haller and Philippe Goldin dharma talk at City Center."
 ---
 09/22/2018
 

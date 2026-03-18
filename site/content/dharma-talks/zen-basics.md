@@ -1,11 +1,13 @@
 ---
 title: "Zen Basics"
-speaker: ""
+speaker: "daigaku-rumme"
 talk_date: "05/16/2009"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/zen-basics"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/zkWRTMAe-cMfXcsXK.html"
+description: "5/16/2009, Daigaku Rumme dharma talk at City Center."
 ---
 05/16/2009
 

@@ -1,11 +1,13 @@
 ---
 title: "Zazen Is Big Mind"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "08/17/2013"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/zazen-big-mind"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/9bPu0en5-cMfXcsXK.html"
+description: "8/17/2013, Ryushin Paul Haller dharma talk at City Center."
 ---
 08/17/2013
 

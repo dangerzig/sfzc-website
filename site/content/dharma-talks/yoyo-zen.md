@@ -1,11 +1,13 @@
 ---
 title: "Yoyo Zen"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "05/18/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/yoyo-zen"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/oqceI2eb-cMfXcsXK.html"
+description: "5/18/2008, Furyu Schroeder dharma talk at Green Gulch Farm."
 ---
 05/18/2008
 
