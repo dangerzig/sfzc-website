@@ -4,7 +4,7 @@ role: "Tanto"
 centers:
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Sessei%20Meg%20Levie_No%20Credit_288x288_png.png?h=f57c33c4&itok=n1RK_KWk"
+photo: "images/teachers/sessei-meg-mcneil-levie.png"
 status: "active"
 aliases:
   - "/teachers/sessei-meg-mcneil-levie"

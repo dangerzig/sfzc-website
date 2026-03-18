@@ -4,7 +4,7 @@ role: ""
 centers:
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Cynthia-Cummins_bio-pic_288x288_png.png?h=f57c33c4&itok=x1PMCro_"
+photo: "images/teachers/cynthia-cummins.png"
 status: "active"
 aliases:
   - "/teachers/cynthia-cummins"

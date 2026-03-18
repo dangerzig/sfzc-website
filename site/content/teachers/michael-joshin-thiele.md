@@ -3,7 +3,7 @@ title: "Michael Joshin Thiele"
 role: ""
 centers:
   - "Green Gulch Farm"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Michael%20Thiele.jpg?h=a1fadd76&itok=pANXhsu4"
+photo: "images/teachers/michael-joshin-thiele.jpg"
 status: "active"
 aliases:
   - "/teachers/michael-joshin-thiele"

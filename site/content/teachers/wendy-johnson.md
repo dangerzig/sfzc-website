@@ -3,7 +3,7 @@ title: "Wendy Johnson"
 role: "Teacher"
 centers:
   - "Green Gulch Farm"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/WendyJohnsonCropped.jpg?h=9d8b92e4&itok=wyn8MegL"
+photo: "images/teachers/wendy-johnson.jpg"
 status: "active"
 aliases:
   - "/teachers/wendy-johnson"

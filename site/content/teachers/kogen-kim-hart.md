@@ -3,7 +3,7 @@ title: "Kogen Kim Hart"
 role: "Teacher"
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/KimHart-288px.png?h=f57c33c4&itok=mwD9WvsA"
+photo: "images/teachers/kogen-kim-hart.png"
 status: "active"
 aliases:
   - "/teachers/kogen-kim-hart"

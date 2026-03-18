@@ -3,7 +3,7 @@ title: "Dr. Grace Dammann"
 role: ""
 centers:
   - "Green Gulch Farm"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/GDammann_DalaiLama.jpg?h=d28b2b4d&itok=NqHT-x88"
+photo: "images/teachers/dr-grace-dammann.jpg"
 status: "active"
 aliases:
   - "/teachers/dr-grace-dammann"

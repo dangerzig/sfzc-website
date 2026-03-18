@@ -3,7 +3,7 @@ title: "Shohaku Okumura"
 role: "Teacher"
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/ShohakuOkumura2012.jpg?h=c50eb5d9&itok=TvMtGw97"
+photo: "images/teachers/shohaku-okumura.jpg"
 status: "active"
 aliases:
   - "/teachers/shohaku-okumura"

@@ -4,7 +4,7 @@ role: ""
 centers:
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/CarolynCavanagh-bio.png?h=fbf7a813&itok=0zFe4WuD"
+photo: "images/teachers/jokai-carolyn-cavanagh.png"
 status: "active"
 aliases:
   - "/teachers/jokai-carolyn-cavanagh"

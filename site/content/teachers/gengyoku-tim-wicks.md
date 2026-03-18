@@ -4,7 +4,7 @@ role: "Tanto"
 centers:
   - "City Center"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/TimWicks.jpg?h=affc9d75&itok=buZOhmdz"
+photo: "images/teachers/gengyoku-tim-wicks.jpg"
 status: "active"
 aliases:
   - "/teachers/gengyoku-tim-wicks"

@@ -3,7 +3,7 @@ title: "Zoketsu Norman Fischer"
 role: "Abbot"
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/NormanFischer2-250px.jpg?h=038a9462&itok=ThbR9lLw"
+photo: "images/teachers/zoketsu-norman-fischer.jpg"
 status: "active"
 aliases:
   - "/teachers/zoketsu-norman-fischer"

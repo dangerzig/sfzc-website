@@ -4,7 +4,7 @@ role: ""
 centers:
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/YukiKobiyama-bio2.jpg?itok=kkInP9kH"
+photo: "images/teachers/yuki-kobiyama.jpg"
 status: "active"
 aliases:
   - "/teachers/yuki-kobiyama"

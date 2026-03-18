@@ -3,7 +3,7 @@ title: "So-on Eli Brown-Stevenson"
 role: ""
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/EliBrown-Stevenson-BoardBio2019_ElliotCharney.jpg?itok=MdLD0QY9"
+photo: "images/teachers/so-eli-brown-stevenson.jpg"
 status: "active"
 aliases:
   - "/teachers/so-eli-brown-stevenson"

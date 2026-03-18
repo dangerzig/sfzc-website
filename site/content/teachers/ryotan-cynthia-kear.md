@@ -3,7 +3,7 @@ title: "Ryotan Cynthia Kear"
 role: "Teacher"
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Cynthia%20Kear_No%20Credit_288x288_png.png?h=f57c33c4&itok=kjEvjLYw"
+photo: "images/teachers/ryotan-cynthia-kear.png"
 status: "active"
 aliases:
   - "/teachers/ryotan-cynthia-kear"

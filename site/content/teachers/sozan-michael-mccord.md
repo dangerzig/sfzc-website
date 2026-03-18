@@ -4,7 +4,7 @@ role: ""
 centers:
   - "City Center"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Michael%20McCord_Florian%20Brody_288x288.png?h=f57c33c4&itok=gTx1znQY"
+photo: "images/teachers/sozan-michael-mccord.png"
 status: "active"
 aliases:
   - "/teachers/sozan-michael-mccord"

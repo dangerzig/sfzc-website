@@ -5,7 +5,7 @@ centers:
   - "City Center"
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Roger%20Hillyard_Bio_No%20credit_288x288_png.png?h=f57c33c4&itok=o3DJeuoB"
+photo: "images/teachers/roger-hillyard.png"
 status: "active"
 aliases:
   - "/teachers/roger-hillyard"

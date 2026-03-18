@@ -4,7 +4,7 @@ role: "Teacher"
 centers:
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/LaurenBouyea-1-crop-250px.jpg?h=1015aac6&itok=zZp-o1va"
+photo: "images/teachers/chosetsu-lauren-bouyea.jpg"
 status: "active"
 aliases:
   - "/teachers/chosetsu-lauren-bouyea"

@@ -4,7 +4,7 @@ role: "Abbot"
 centers:
   - "City Center"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Lucy%20Xiao_288x288_png.png?h=f57c33c4&itok=Wc8ltXPt"
+photo: "images/teachers/gendo-lucy-xiao-xuandao.png"
 status: "active"
 aliases:
   - "/teachers/gendo-lucy-xiao-xuandao"

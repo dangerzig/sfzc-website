@@ -4,7 +4,7 @@ role: "Abbot"
 centers:
   - "City Center"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Paul%20Haller_Robyn%20Morris_288x288_png.png?h=f57c33c4&itok=-V24Q6ag"
+photo: "images/teachers/ryushin-paul-haller.png"
 status: "active"
 aliases:
   - "/teachers/ryushin-paul-haller"

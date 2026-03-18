@@ -4,7 +4,7 @@ role: "Teacher"
 centers:
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/2019-02/sara%20headshot.jpg?h=e14dca27&itok=STG1AKdC"
+photo: "images/teachers/ango-sara-tashker.jpg"
 status: "active"
 aliases:
   - "/teachers/ango-sara-tashker"

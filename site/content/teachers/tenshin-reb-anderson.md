@@ -5,7 +5,7 @@ centers:
   - "City Center"
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Reb%20Anderson-by%20Anita%20Bowen.jpg?h=f816c652&itok=q9o38PYx"
+photo: "images/teachers/tenshin-reb-anderson.jpg"
 status: "active"
 aliases:
   - "/teachers/tenshin-reb-anderson"

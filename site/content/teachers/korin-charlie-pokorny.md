@@ -4,7 +4,7 @@ role: ""
 centers:
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Charlie-Pokorny_NoCredit_288x288_png.png?h=f57c33c4&itok=3RjhDu-i"
+photo: "images/teachers/korin-charlie-pokorny.png"
 status: "active"
 aliases:
   - "/teachers/korin-charlie-pokorny"

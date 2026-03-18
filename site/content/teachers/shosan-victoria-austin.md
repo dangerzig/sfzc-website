@@ -3,7 +3,7 @@ title: "Shosan Victoria Austin"
 role: "Dharma Teacher"
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/ShosanVictoriaAustin-288px.png?h=300d517d&itok=b4yGfdsI"
+photo: "images/teachers/shosan-victoria-austin.png"
 status: "active"
 aliases:
   - "/teachers/shosan-victoria-austin"

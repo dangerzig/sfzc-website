@@ -3,7 +3,7 @@ title: "Jennifer Block"
 role: "Teacher"
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/JenniferBlock-ChaplaincyInstWS.jpg?h=02330b6e&itok=0MmBUDks"
+photo: "images/teachers/jennifer-block.jpg"
 status: "active"
 aliases:
   - "/teachers/jennifer-block"

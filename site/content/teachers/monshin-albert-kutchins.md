@@ -4,7 +4,7 @@ role: ""
 centers:
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/albert_kutchins.jpg?h=f1b9f921&itok=vpOvaZM1"
+photo: "images/teachers/monshin-albert-kutchins.jpg"
 status: "active"
 aliases:
   - "/teachers/monshin-albert-kutchins"

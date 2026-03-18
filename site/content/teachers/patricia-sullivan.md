@@ -4,7 +4,7 @@ role: "Teacher"
 centers:
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/PatricianSullivan-bio288px.png?h=f57c33c4&itok=scF8ARQH"
+photo: "images/teachers/patricia-sullivan.png"
 status: "active"
 aliases:
   - "/teachers/patricia-sullivan"

@@ -5,7 +5,7 @@ centers:
   - "City Center"
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/RinsoEdSattizahn-288px.png?h=04d92ac6&itok=Gxh4aZNr"
+photo: "images/teachers/rinso-ed-sattizahn.png"
 status: "active"
 aliases:
   - "/teachers/rinso-ed-sattizahn"

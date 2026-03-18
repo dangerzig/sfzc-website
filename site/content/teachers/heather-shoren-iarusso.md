@@ -4,7 +4,7 @@ role: "Tanto"
 centers:
   - "City Center"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/HeatherIarusso1-288px.png?h=f57c33c4&itok=kJvpCj74"
+photo: "images/teachers/heather-shoren-iarusso.png"
 status: "active"
 aliases:
   - "/teachers/heather-shoren-iarusso"

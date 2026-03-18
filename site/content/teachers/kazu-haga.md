@@ -3,7 +3,7 @@ title: "Kazu Haga"
 role: ""
 centers:
   - "City Center"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/KazuHaga-288-new.jpg?h=f57c33c4&itok=yLmU-xwz"
+photo: "images/teachers/kazu-haga.jpg"
 status: "active"
 aliases:
   - "/teachers/kazu-haga"

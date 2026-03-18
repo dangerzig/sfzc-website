@@ -5,7 +5,7 @@ centers:
   - "City Center"
   - "Green Gulch Farm"
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/Linda%20Cutts%20bio%20pic.png?h=f57c33c4&itok=opv6SCZe"
+photo: "images/teachers/eijun-linda-cutts.png"
 status: "active"
 aliases:
   - "/teachers/eijun-linda-cutts"

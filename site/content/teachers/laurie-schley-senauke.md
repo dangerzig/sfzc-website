@@ -3,7 +3,7 @@ title: "Laurie Schley Senauke"
 role: "Practice Leader"
 centers:
   - "Tassajara"
-photo: "https://www.sfzc.org/sites/default/files/styles/teacher_profile_full/public/media-images/LaurieSchleySenauke-2022-288px.png?h=f57c33c4&itok=BkVieHI6"
+photo: "images/teachers/laurie-schley-senauke.png"
 status: "active"
 aliases:
   - "/teachers/laurie-schley-senauke"
