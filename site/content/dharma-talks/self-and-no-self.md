@@ -1,11 +1,13 @@
 ---
 title: "Self and No-Self"
-speaker: ""
+speaker: "gil-fronsdal"
 talk_date: "05/31/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/self-and-no-self"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/4yTWkfOv-cMfXcsXK.html"
+description: "5/31/2012, Gil Fronsdal dharma talk at Tassajara."
 ---
 05/31/2012
 

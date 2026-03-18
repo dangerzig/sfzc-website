@@ -1,11 +1,13 @@
 ---
 title: "Samsara and what to do about it"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "11/06/2011"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/samsara-and-what-do-about-it"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/xxEgdIP5-cMfXcsXK.html"
+description: "11/6/2011, Steve Weintraub dharma talk at Green Gulch Farm."
 ---
 11/06/2011
 

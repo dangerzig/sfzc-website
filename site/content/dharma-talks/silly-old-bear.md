@@ -1,11 +1,13 @@
 ---
 title: "Silly Old Bear"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "08/02/2015"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/silly-old-bear"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/rocHYeH9-cMfXcsXK.html"
+description: "08/02/2015, Furyu Schroeder, dharma talk at Green Gulch Farm."
 ---
 08/02/2015
 

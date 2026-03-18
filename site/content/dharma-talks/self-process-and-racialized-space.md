@@ -1,11 +1,13 @@
 ---
 title: "Self-Process and Racialized Space"
-speaker: ""
+speaker: "john-powell"
 talk_date: "10/16/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/self-process-and-racialized-space"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/VRQRjlXl-cMfXcsXK.html"
+description: "10/16/2008, John Powell dharma talk at Green Gulch Farm."
 ---
 10/16/2008
 

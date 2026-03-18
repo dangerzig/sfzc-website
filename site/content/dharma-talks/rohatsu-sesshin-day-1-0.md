@@ -1,11 +1,13 @@
 ---
 title: "Rohatsu Sesshin Day 1"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "12/09/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/rohatsu-sesshin-day-1-0"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/SHoi8enG-cMfXcsXK.html"
+description: "12/09/2016, Eijun Linda Cutts, dharma talk at Tassajara."
 ---
 12/09/2016
 

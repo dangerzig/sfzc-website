@@ -1,11 +1,13 @@
 ---
 title: "Siddhartha's Resolve: Encounter with Mara (Sesshin Day 5)"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "12/13/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/siddharthas-resolve-encounter-mara-sesshin-day-5"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/8BOo6mqi-cMfXcsXK.html"
+description: "12/13/2014, Eijun Linda Ruth Cutts, dharma talk at Tassajara."
 ---
 12/13/2014
 

@@ -1,11 +1,13 @@
 ---
 title: "Satipatthana As Journey"
-speaker: ""
+speaker: "caroline-brazier"
 talk_date: "06/20/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/satipatthana-journey"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/9p9mARoR-cMfXcsXK.html"
+description: "6/20/2016, Caroline Brazier dharma talk at Tassajara."
 ---
 06/20/2016
 

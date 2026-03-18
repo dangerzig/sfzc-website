@@ -1,11 +1,13 @@
 ---
 title: "Shuso Way-Seeking Mind Talk"
-speaker: ""
+speaker: "joan-amaral"
 talk_date: "10/07/2009"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/shuso-way-seeking-mind-talk"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/byvtE2yU-cMfXcsXK.html"
+description: "10/7/2009, Joan Amaral dharma talk at City Center."
 ---
 10/07/2009
 

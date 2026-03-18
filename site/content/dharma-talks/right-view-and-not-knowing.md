@@ -1,11 +1,13 @@
 ---
 title: "Right View and Not-Knowing"
-speaker: ""
+speaker: "abbot-doshin-mako-voelkel"
 talk_date: "02/17/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/right-view-and-not-knowing"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/VFnHqbQn-cMfXcsXK.html"
+description: "In this talk, given during the second one-day sitting of the winter 2024 practice period, Abiding Abbot Dōshin Mako Voelkel discusses the power and peace of not-knowing. In the Zen tradition, ‘not-knowing’ is not the same as the ignorance or delusion of everyday life. When we deeply and fully ‘don’t"
 ---
 02/17/2024
 

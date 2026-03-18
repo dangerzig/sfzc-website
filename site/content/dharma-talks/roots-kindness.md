@@ -1,11 +1,13 @@
 ---
 title: "The Roots of Kindness"
-speaker: ""
+speaker: "myogan-djinn-gallagher"
 talk_date: "06/05/2016"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/roots-kindness"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/O1IIdj2I-cMfXcsXK.html"
+description: "6/5/2016, Myogan Djinn Gallagher dharma talk at Green Gulch Farm."
 ---
 06/05/2016
 

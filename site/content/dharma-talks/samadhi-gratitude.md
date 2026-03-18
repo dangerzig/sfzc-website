@@ -1,11 +1,13 @@
 ---
 title: "A Samadhi of Gratitude"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "11/11/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/samadhi-gratitude"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/WrcIx9tU-cMfXcsXK.html"
+description: "11/11/2017, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 11/11/2017
 

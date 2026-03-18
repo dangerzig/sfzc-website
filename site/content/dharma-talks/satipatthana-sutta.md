@@ -1,11 +1,13 @@
 ---
 title: "The Satipatthana Sutta"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "06/13/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/satipatthana-sutta"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/bGe1HkiV-cMfXcsXK.html"
+description: "6/13/2012, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 06/13/2012
 

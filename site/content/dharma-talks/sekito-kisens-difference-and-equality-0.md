@@ -1,11 +1,13 @@
 ---
 title: "Sekito Kisen's Difference and Equality"
-speaker: ""
+speaker: "kyoshin-wendy-lewis"
 talk_date: "04/27/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/sekito-kisens-difference-and-equality-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/BTQUDjpI-cMfXcsXK.html"
+description: "04/27/2024, Kyoshin Wendy Lewis, dharma talk at City Center.In this talk, given at Beginner's Mind Temple, Kyoshin Wendy Lewis discusses the Zen text \"Harmony of Difference and Equality\". Written in the 8th century in China, the \"Harmony of Difference and Equality\" holds significant importance i"
 ---
 04/27/2024
 

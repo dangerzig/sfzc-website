@@ -1,11 +1,13 @@
 ---
 title: "Rohatsu Talk Day 5"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "12/03/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/rohatsu-talk-day-5"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/YwjKFIEx-cMfXcsXK.html"
+description: "12/3/2010, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 12/03/2010
 

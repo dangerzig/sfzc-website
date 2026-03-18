@@ -1,11 +1,13 @@
 ---
 title: "The Silent Bond Between All Beings"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "05/27/2007"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/silent-bond-between-all-beings"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/mnC6AhC7-cMfXcsXK.html"
+description: "5/27/2007, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 05/27/2007
 

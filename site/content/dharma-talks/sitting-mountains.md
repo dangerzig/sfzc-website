@@ -1,11 +1,13 @@
 ---
 title: "Sitting Like Mountains"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "03/19/2011"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/sitting-mountains"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/BRG0iq9v-cMfXcsXK.html"
+description: "3/19/2011, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 03/19/2011
 

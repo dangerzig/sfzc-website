@@ -1,11 +1,13 @@
 ---
 title: "Seeing Ourselves Clearly"
-speaker: ""
+speaker: "abbot-tenzen-david-zimmerman"
 talk_date: "11/26/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/seeing-ourselves-clearly"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/9YG3DsaA-cMfXcsXK.html"
+description: "11/26/2011, Tenzen David Zimmerman dharma talk at City Center."
 ---
 11/26/2011
 

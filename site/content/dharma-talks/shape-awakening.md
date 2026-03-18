@@ -1,11 +1,13 @@
 ---
 title: "The Shape of Awakening"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "07/24/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/shape-awakening"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/CkeYKuaG-cMfXcsXK.html"
+description: "7/24/2010, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 07/24/2010
 

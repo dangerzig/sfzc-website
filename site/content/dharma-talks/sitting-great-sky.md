@@ -1,11 +1,13 @@
 ---
 title: "Sitting in the Great Sky"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "11/04/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/sitting-great-sky"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/jUnK5zdB-cMfXcsXK.html"
+description: "11/4/2017, Rinso Ed Sattizahn dharma talk at City Center."
 ---
 11/04/2017
 

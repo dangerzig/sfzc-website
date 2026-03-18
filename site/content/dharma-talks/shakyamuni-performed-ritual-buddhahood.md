@@ -1,11 +1,13 @@
 ---
 title: "Shakyamuni Performed the Ritual of Buddhahood"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "12/08/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/shakyamuni-performed-ritual-buddhahood"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/Lih1mJI4-cMfXcsXK.html"
+description: "12/8/2010, Tenshin Reb Anderson dharma talk at Tassajara."
 ---
 12/08/2010
 

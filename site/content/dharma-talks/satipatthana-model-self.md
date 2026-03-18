@@ -1,11 +1,13 @@
 ---
 title: "Satipatthana As Model of Self"
-speaker: ""
+speaker: "caroline-brazier"
 talk_date: "06/21/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/satipatthana-model-self"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/KTORLdWT-cMfXcsXK.html"
+description: "6/21/2016, Caroline Brazier dharma talk at Tassajara."
 ---
 06/21/2016
 

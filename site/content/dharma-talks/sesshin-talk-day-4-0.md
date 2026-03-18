@@ -1,11 +1,13 @@
 ---
 title: "Sesshin Talk - day 4"
-speaker: ""
+speaker: "teah-strozer"
 talk_date: "08/03/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/sesshin-talk-day-4-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/YJC9EX0y-cMfXcsXK.html"
+description: "8/3/2012, Teah Strozer dharma talk at City Center."
 ---
 08/03/2012
 
