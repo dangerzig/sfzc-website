@@ -1,11 +1,13 @@
 ---
 title: "A Buddha's Practice Is To Practice With Everyone"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "08/23/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/buddhas-practice-practice-everyone"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/aIRPDYNF-cMfXcsXK.html"
+description: "8/23/2016, Leslie James, dharma talk at Tassajara."
 ---
 08/23/2016
 

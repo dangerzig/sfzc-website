@@ -1,11 +1,13 @@
 ---
 title: "A Ceremony for Okusan"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "07/08/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/ceremony-okusan"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/jJP3eJzo-cMfXcsXK.html"
+description: "7/8/2016, Tenshin Reb Anderson dharma talk at Tassajara."
 ---
 07/08/2016
 

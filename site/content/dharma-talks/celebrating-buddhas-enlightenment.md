@@ -1,11 +1,13 @@
 ---
 title: "Celebrating Buddha's Enlightenment"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "12/03/2016"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/celebrating-buddhas-enlightenment"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/jpgVFy2h-cMfXcsXK.html"
+description: "12/3/2016, Rinso Ed Sattizahn dharma talk at City Center."
 ---
 12/03/2016
 

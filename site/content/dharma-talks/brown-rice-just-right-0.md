@@ -1,11 +1,13 @@
 ---
 title: "Brown Rice Is Just Right"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "05/30/2009"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/brown-rice-just-right-0"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/SGVAKj0R-cMfXcsXK.html"
+description: "5/30/2009, Sojun Mel Weitsman dharma talk at Tassajara."
 ---
 05/30/2009
 

@@ -1,11 +1,13 @@
 ---
 title: "Buddha's Teaching before Buddhism"
-speaker: ""
+speaker: "gil-fronsdal"
 talk_date: "06/23/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/buddhas-teaching-buddhism"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/UEoYl3Pi-cMfXcsXK.html"
+description: "6/23/2011, Gil Fronsdal dharma talk at Tassajara."
 ---
 06/23/2011
 

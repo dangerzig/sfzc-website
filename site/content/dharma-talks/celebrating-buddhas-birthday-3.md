@@ -1,11 +1,13 @@
 ---
 title: "Celebrating Buddha's Birthday"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "05/01/2011"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/celebrating-buddhas-birthday-3"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/zuqgGked-cMfXcsXK.html"
+description: "5/1/2011, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 05/01/2011
 

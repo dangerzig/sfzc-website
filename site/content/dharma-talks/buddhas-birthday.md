@@ -1,11 +1,13 @@
 ---
 title: "Buddha's Birthday"
-speaker: ""
+speaker: "zesho-susan-oconnell"
 talk_date: "04/04/2009"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/buddhas-birthday"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/PfAYrgTs-cMfXcsXK.html"
+description: "4/4/2009, Zesho Susan O'Connell dharma talk at City Center."
 ---
 04/04/2009
 
