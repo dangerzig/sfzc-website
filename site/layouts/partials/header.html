@@ -15,7 +15,7 @@
   <div class="max-w-7xl mx-auto px-4">
     <div class="flex items-center justify-between h-16">
       <!-- Logo -->
-      <a href="{{ "/" | absURL }}" class="flex items-center gap-3">
+      <a href="{{ .Site.BaseURL }}" class="flex items-center gap-3">
         <span class="text-xl font-bold text-sfzc-green tracking-tight">San Francisco Zen Center</span>
       </a>
 
@@ -79,7 +79,7 @@
 <nav class="bg-sfzc-cream border-b border-gray-200" aria-label="Breadcrumb">
   <div class="max-w-7xl mx-auto px-4 py-2">
     <ol class="flex items-center text-sm text-gray-500 gap-1">
-      <li><a href="{{ "/" | absURL }}" class="hover:text-sfzc-green">Home</a></li>
+      <li><a href="{{ .Site.BaseURL }}" class="hover:text-sfzc-green">Home</a></li>
       {{ range .Ancestors.Reverse }}
       <li class="flex items-center gap-1">
         <span class="text-gray-300">/</span>
