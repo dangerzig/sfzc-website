@@ -1,11 +1,13 @@
 ---
 title: "Sun-Face Buddha, Moon-face Buddha in the Green Dragon’s Cave"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "12/13/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/sun-face-buddha-moon-face-buddha-green-dragons-cave"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/IpcHz2On-cMfXcsXK.html"
+description: "12/13/2017, Tenshin Reb Anderson dharma talk at Tassajara."
 ---
 12/13/2017
 

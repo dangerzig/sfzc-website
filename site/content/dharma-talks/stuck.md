@@ -1,11 +1,13 @@
 ---
 title: "Stuck"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "10/06/2019"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/stuck"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/xqoSAE38-cMfXcsXK.html"
+description: "10/06/2019, Furyu Schroeder, dharma talk at Green Guklch Farm."
 ---
 10/06/2019
 

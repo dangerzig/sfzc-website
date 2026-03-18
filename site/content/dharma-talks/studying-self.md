@@ -1,11 +1,13 @@
 ---
 title: "Studying the Self"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "04/27/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/studying-self"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/sTXLSnka-cMfXcsXK.html"
+description: "4/27/2010, Leslie James dharma talk at Tassajara."
 ---
 04/27/2010
 

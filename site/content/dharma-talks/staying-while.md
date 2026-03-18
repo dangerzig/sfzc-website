@@ -1,11 +1,13 @@
 ---
 title: "Staying a While"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "07/25/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/staying-while"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/lij0SwCk-cMfXcsXK.html"
+description: "7/25/2010, Christina Lehnherr dharma talk at Green Gulch Farm."
 ---
 07/25/2010
 

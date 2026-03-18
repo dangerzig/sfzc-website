@@ -1,11 +1,13 @@
 ---
 title: "St. Kevin and the Blackbird"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "10/27/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/st-kevin-and-blackbird"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/xsB8IokD-cMfXcsXK.html"
+description: "10/27/2015, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 10/27/2015
 

@@ -1,11 +1,13 @@
 ---
 title: "Stillness and Activity in Zazen"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "09/28/2013"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/stillness-and-activity-zazen"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/AssDRtPW-cMfXcsXK.html"
+description: "9/28/2013, Ryushin Paul Haller dharma talk at City Center."
 ---
 09/28/2013
 

@@ -1,11 +1,13 @@
 ---
 title: "Soft and Flexible Mind"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "07/16/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/soft-and-flexible-mind"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/i7wCjZBh-cMfXcsXK.html"
+description: "7/16/2014, Eijun Linda Ruth Cutts dharma talk at Tassajara."
 ---
 07/16/2014
 

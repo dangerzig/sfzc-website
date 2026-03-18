@@ -1,11 +1,13 @@
 ---
 title: "A Step off the Hundred Foot Pole"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "03/27/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/step-hundred-foot-pole"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/1AvBX35G-cMfXcsXK.html"
+description: "3/27/2011, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 03/27/2011
 

@@ -1,11 +1,13 @@
 ---
 title: "Students and Teachers Practice the Precepts Together"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "01/29/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/students-and-teachers-practice-precepts-together"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/RnRGxo3t-cMfXcsXK.html"
+description: "1/29/2014, Sojun Mel Weitsman dharma talk at Tassajara."
 ---
 01/29/2014
 

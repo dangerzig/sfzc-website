@@ -1,11 +1,13 @@
 ---
 title: "Stumbling Down the Path"
-speaker: ""
+speaker: "kogen-jamie-howell"
 talk_date: "12/21/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/stumbling-down-path"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/1Kco591N-cMfXcsXK.html"
+description: "12/21/2011, Jamie Howell dharma talk at City Center."
 ---
 12/21/2011
 

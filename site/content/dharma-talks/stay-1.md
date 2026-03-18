@@ -1,11 +1,13 @@
 ---
 title: "Stay"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "11/13/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/stay-1"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/RNKwjPFU-cMfXcsXK.html"
+description: "11/13/2013, Leslie James dharma talk at Tassajara."
 ---
 11/13/2013
 

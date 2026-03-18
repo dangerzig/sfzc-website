@@ -1,11 +1,13 @@
 ---
 title: "Taking Refuge In Dharma"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "04/17/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/taking-refuge-dharma-0"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/rYGlhaZT-cMfXcsXK.html"
+description: "4/17/2014, Leslie James dharma talk at Tassajara."
 ---
 04/17/2014
 

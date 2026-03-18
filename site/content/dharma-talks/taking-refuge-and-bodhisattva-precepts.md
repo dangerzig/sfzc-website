@@ -1,11 +1,13 @@
 ---
 title: "Taking Refuge and the Bodhisattva Precepts"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "10/04/2023"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/taking-refuge-and-bodhisattva-precepts"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/6TSEbtto-cMfXcsXK.html"
+description: "04/10/2023, Ryushin Paul Haller, dharma talk at City Center. In this talk from Beginner's Mind Temple, Ryushin Paul Haller discusses the three Refuges, Buddha, Dharma and Sangha, which are the first three Bodhisattva precepts. They express the shift from a life based on getting what is wanted, avoid"
 ---
 10/04/2023
 

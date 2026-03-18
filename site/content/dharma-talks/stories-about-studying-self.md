@@ -1,11 +1,13 @@
 ---
 title: "Stories About Studying the Self"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "06/22/2014"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/stories-about-studying-self"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/w23uMOWl-cMfXcsXK.html"
+description: "6/22/2014, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 06/22/2014
 

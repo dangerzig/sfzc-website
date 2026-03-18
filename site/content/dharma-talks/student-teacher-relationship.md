@@ -1,11 +1,13 @@
 ---
 title: "Student Teacher Relationship"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "07/04/2020"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/student-teacher-relationship"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/v26jxkZJ-cMfXcsXK.html"
+description: "A teacher's reflection on 50 years of practice.07/04/2020, Sojun Mel Weitsman, dharma talk at City Center."
 ---
 07/04/2020
 

@@ -1,11 +1,13 @@
 ---
 title: "The Taproot of Soto Zen, Part 2: Like a Fool, Like an Idiot"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "07/28/2021"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/taproot-soto-zen-part-2-fool-idiot"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/H6Uz7OS4-cMfXcsXK.html"
+description: "07/28/2021, Zenshin Greg Fain, dharma talk at Tassajara."
 ---
 07/28/2021
 

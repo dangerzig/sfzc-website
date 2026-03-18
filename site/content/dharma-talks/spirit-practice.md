@@ -1,11 +1,13 @@
 ---
 title: "Spirit of Practice"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "07/29/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/spirit-practice"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/u1YQBcaH-cMfXcsXK.html"
+description: "7/29/2017, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 07/29/2017
 

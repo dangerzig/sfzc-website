@@ -1,11 +1,13 @@
 ---
 title: "Surrender To Love"
-speaker: ""
+speaker: "zesho-susan-oconnell"
 talk_date: "11/15/2014"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/surrender-love"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/oGWZVqMD-cMfXcsXK.html"
+description: "11/15/2014, Zesho Susan O'Connell dharma talk at City Center."
 ---
 11/15/2014
 

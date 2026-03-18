@@ -1,11 +1,13 @@
 ---
 title: "Stillness in the Midst of the Hurly Burly"
-speaker: ""
+speaker: "catherine-gammon"
 talk_date: "02/21/2016"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/stillness-midst-hurly-burly"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/HBsMCT2H-cMfXcsXK.html"
+description: "2/21/2016, Catherine Gammon dharma talk at Green Gulch Farm."
 ---
 02/21/2016
 

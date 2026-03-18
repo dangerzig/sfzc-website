@@ -1,11 +1,13 @@
 ---
 title: "The Spirit Of Shikantaza"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "03/18/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/spirit-shikantaza"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/doHcQ58j-cMfXcsXK.html"
+description: "03/18/2019, Ryushin Paul Haller dharma talk at City Center."
 ---
 03/18/2019
 

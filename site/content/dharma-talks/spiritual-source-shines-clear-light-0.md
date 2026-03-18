@@ -1,11 +1,13 @@
 ---
 title: "The Spiritual Source Shines Clear in the Light"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "10/07/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/spiritual-source-shines-clear-light-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/UXYbidyz-cMfXcsXK.html"
+description: "10/7/2017, Rinso Ed Sattizahn dharma talk at City Center."
 ---
 10/07/2017
 

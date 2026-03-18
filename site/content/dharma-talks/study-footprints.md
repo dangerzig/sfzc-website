@@ -1,11 +1,13 @@
 ---
 title: "Study the Footprints"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "03/16/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/study-footprints"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/KqUyl6tv-cMfXcsXK.html"
+description: "3/16/2016, Leslie James dharma talk at Tassajara."
 ---
 03/16/2016
 
