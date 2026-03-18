@@ -1,11 +1,13 @@
 ---
 title: "Dogen's Genjo Koan"
-speaker: ""
+speaker: "kyoshin-wendy-lewis"
 talk_date: "05/16/2015"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/dogens-genjo-koan"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/EQVhFt6n-cMfXcsXK.html"
+description: "5/16/2015, Kyoshin Wendy Lewis, dharma talk at City Center."
 ---
 05/16/2015
 

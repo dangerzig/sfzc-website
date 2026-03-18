@@ -1,11 +1,13 @@
 ---
 title: "Dharma Gate of Mistakes"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "11/17/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/dharma-gate-mistakes"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/UNoQnAGa-cMfXcsXK.html"
+description: "11/17/2014, Eijun Linda Ruth Cutts dharma talk at Tassajara."
 ---
 11/17/2014
 

@@ -1,11 +1,13 @@
 ---
 title: "Doing the Work"
-speaker: ""
+speaker: "anshi-zachary-smith"
 talk_date: "04/17/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/doing-work-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/nNC4LST2-cMfXcsXK.html"
+description: "04/17/2024, Anshi Zachary Smith, dharma talk at City Center.In this talk, given at Beginner's Mind Temple, Anshi Zachary Smith digs into the well-known Case 17 of the Blue Cliff Record. Here, we discover that there are unexpected and experientially accurate ways to interpret the original text of Hsi"
 ---
 04/17/2024
 

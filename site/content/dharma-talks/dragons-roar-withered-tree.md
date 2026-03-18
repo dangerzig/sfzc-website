@@ -1,11 +1,13 @@
 ---
 title: "The Dragon's Roar in the Withered Tree"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "03/17/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/dragons-roar-withered-tree"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/NesnNzQm-cMfXcsXK.html"
+description: "3/17/2010, Ryushin Paul Haller dharma talk at City Center."
 ---
 03/17/2010
 

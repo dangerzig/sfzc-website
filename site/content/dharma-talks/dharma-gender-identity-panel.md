@@ -1,11 +1,13 @@
 ---
 title: "Dharma of Gender Identity Panel"
-speaker: ""
+speaker: "panel-discussion"
 talk_date: "09/16/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/dharma-gender-identity-panel"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/1FV3CaBD-cMfXcsXK.html"
+description: "9/16/2017, Panel Discussion dharma talk at City Center."
 ---
 09/16/2017
 

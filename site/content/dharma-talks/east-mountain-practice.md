@@ -1,11 +1,13 @@
 ---
 title: "East Mountain Practice"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "02/28/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/east-mountain-practice"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/4PqPAkpz-cMfXcsXK.html"
+description: "2/28/2012, Eijun Linda Cutts dharma talk at Tassajara."
 ---
 02/28/2012
 

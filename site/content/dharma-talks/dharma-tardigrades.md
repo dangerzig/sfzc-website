@@ -1,11 +1,13 @@
 ---
 title: "The Dharma of Tardigrades"
-speaker: ""
+speaker: "sokaku-kathie-fischer"
 talk_date: "03/21/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/dharma-tardigrades"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/7Ue1nfIq-cMfXcsXK.html"
+description: "03/21/2019, Kathie Fischer dharma talk at Tassajara."
 ---
 03/21/2019
 

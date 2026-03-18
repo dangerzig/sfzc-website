@@ -1,11 +1,13 @@
 ---
 title: "Dont Leave Out A Single Thing"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "06/24/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/dont-leave-out-single-thing"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/8DjxWnbG-cMfXcsXK.html"
+description: "6/24/2018, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 06/24/2018
 

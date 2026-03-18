@@ -1,11 +1,13 @@
 ---
 title: "Dogen and the Future of Buddhism"
-speaker: ""
+speaker: "brad-warner"
 talk_date: "08/27/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/dogen-and-future-buddhism"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/sHovAWQm-cMfXcsXK.html"
+description: "8/27/2011, Brad Warner dharma talk at Tassajara."
 ---
 08/27/2011
 

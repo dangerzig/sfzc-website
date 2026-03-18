@@ -1,11 +1,13 @@
 ---
 title: "Devoted to Walking among People"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "07/05/2020"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/devoted-walking-among-people"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/pwlldsu6-cMfXcsXK.html"
+description: "07/05/2020, Eijun Linda Cutts, dharma talk at Green Gulch Farm."
 ---
 07/05/2020
 

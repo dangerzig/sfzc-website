@@ -1,11 +1,13 @@
 ---
 title: "Dizang Plants the Fields"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "09/30/2007"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/dizang-plants-fields"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/OghI2Ajw-cMfXcsXK.html"
+description: "9/30/2007, Furyu Schroeder dharma talk at Green Gulch Farm."
 ---
 09/30/2007
 

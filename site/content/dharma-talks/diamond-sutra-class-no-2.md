@@ -1,11 +1,13 @@
 ---
 title: "Diamond Sutra Class No. 2"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "06/25/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/diamond-sutra-class-no-2"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/Fp3zIL9E-cMfXcsXK.html"
+description: "6/25/2016, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 06/25/2016
 

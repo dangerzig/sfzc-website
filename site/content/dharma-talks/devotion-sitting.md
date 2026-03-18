@@ -1,11 +1,13 @@
 ---
 title: "Devotion to Sitting"
-speaker: ""
+speaker: "shokan-jordan-thorn"
 talk_date: "03/13/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/devotion-sitting"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/WTzeohXq-cMfXcsXK.html"
+description: "3/13/2010, Shokan Jordan Thorn dharma talk at City Center."
 ---
 03/13/2010
 

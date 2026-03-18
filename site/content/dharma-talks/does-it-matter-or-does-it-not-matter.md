@@ -1,11 +1,13 @@
 ---
 title: "Does It Matter or Does It Not Matter?"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "08/10/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/does-it-matter-or-does-it-not-matter"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/3L7WCLhw-cMfXcsXK.html"
+description: "8/10/2016, Leslie James dharma talk at Tassajara."
 ---
 08/10/2016
 

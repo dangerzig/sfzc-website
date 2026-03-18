@@ -1,11 +1,13 @@
 ---
 title: "Dogen's Waka Poems"
-speaker: ""
+speaker: "shohaku-okumura"
 talk_date: "08/24/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/dogens-waka-poems"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/aoDO2y09-cMfXcsXK.html"
+description: "8/24/2015, Shohaku Okumura, dharma talk at Tassajara."
 ---
 08/24/2015
 

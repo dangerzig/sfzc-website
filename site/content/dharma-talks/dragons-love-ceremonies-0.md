@@ -1,11 +1,13 @@
 ---
 title: "Dragons Love Ceremonies"
-speaker: ""
+speaker: "thiemo-blank"
 talk_date: "05/12/2024"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/dragons-love-ceremonies-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/StWu1r78-cMfXcsXK.html"
+description: "05/12/2024, Thiemo Blank, dharma talk at Green Gulch Farm. This talk was presented  by Thiemo on Mothers Day at the end of an introductory Sesshin (meditation retreat)  at Green Dragon Temple.The Investigation of   - “the true dragon” (Reality / Thusness)  - in Sesshin  is likened  to the ancient  s"
 ---
 05/12/2024
 

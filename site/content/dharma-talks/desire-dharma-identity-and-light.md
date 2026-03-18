@@ -1,11 +1,13 @@
 ---
 title: "Desire, Dharma, Identity, and Light"
-speaker: ""
+speaker: "daigan-lueck"
 talk_date: "12/28/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/desire-dharma-identity-and-light"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/E8YGJTG2-cMfXcsXK.html"
+description: "12/28/2008, Daigan Lueck dharma talk at Green Gulch Farm."
 ---
 12/28/2008
 

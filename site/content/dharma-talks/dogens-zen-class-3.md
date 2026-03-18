@@ -1,11 +1,13 @@
 ---
 title: "Dogen's Zen - Class #3"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/06/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/dogens-zen-class-3"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/NNJg8Hbe-cMfXcsXK.html"
+description: "2/6/2013, Ryushin Paul Haller, dharma talk at Tassajara."
 ---
 02/06/2013
 

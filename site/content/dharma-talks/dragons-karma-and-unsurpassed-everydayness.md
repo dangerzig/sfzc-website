@@ -1,11 +1,13 @@
 ---
 title: "Dragons, Karma and Unsurpassed Everydayness"
-speaker: ""
+speaker: "stephanie-blank"
 talk_date: "09/08/2024"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/dragons-karma-and-unsurpassed-everydayness"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/jyuK7UVV-cMfXcsXK.html"
+description: "09/08/2024, Stephanie Blank, dharma talk at Green Gulch Farm.This talk was given at Green Gulch Farm by Gyokuden Steph Blank. In the talk, Gyokuden invokes dragon energies and invites us to awaken together right now; heartbreak welcome, dharma companions manifest, failure being no obstacle to practi"
 ---
 09/08/2024
 

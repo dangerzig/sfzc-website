@@ -1,11 +1,13 @@
 ---
 title: "Don Quixote's Horse"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "09/10/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/don-quixotes-horse"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/I4ICgOky-cMfXcsXK.html"
+description: "9/10/2011, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 09/10/2011
 
