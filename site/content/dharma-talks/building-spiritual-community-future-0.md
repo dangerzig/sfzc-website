@@ -1,11 +1,13 @@
 ---
 title: "Building the Spiritual Community of the Future"
-speaker: ""
+speaker: "sozan-michael-mccord"
 talk_date: "05/01/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/building-spiritual-community-future-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/vOI9eUEi-cMfXcsXK.html"
+description: "05/01/2024, panel discussion at City Center.In this discussion, held in place of the regular Wednesday night dharma talk at Beginner's Mind Temple, Eli Brown-Stevenson leads a discussion featuring Community Village co-founders Caleb Tenenbaum, Nina Raddy, and Richard Bae; and, representing San Franc"
 ---
 05/01/2024
 

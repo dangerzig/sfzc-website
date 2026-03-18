@@ -1,11 +1,13 @@
 ---
 title: "Buddhist Storehouse Consciousness"
-speaker: ""
+speaker: "kyoshin-wendy-lewis"
 talk_date: "06/03/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/buddhist-storehouse-consciousness"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/qzoYRKSZ-cMfXcsXK.html"
+description: "6/3/2017, Kyoshin Wendy Lewis dharma talk at City Center."
 ---
 06/03/2017
 

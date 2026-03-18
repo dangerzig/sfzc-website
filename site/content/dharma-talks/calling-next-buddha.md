@@ -1,11 +1,13 @@
 ---
 title: "Calling in the Next Buddha"
-speaker: ""
+speaker: "dojin-sarah-emerson"
 talk_date: "05/19/2022"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/calling-next-buddha"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/55ZC4rOR-cMfXcsXK.html"
+description: "05/19/2022, Dojin Sarah Emerson, dharma talk at Tassajara."
 ---
 05/19/2022
 

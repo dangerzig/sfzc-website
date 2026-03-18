@@ -1,11 +1,13 @@
 ---
 title: "Ceremony"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "04/13/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/ceremony"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/JChy0CEk-cMfXcsXK.html"
+description: "4/13/2008, Eijun Linda Ruth Cutts dharma talk at Green Gulch Farm."
 ---
 04/13/2008
 

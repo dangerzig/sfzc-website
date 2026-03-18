@@ -1,11 +1,13 @@
 ---
 title: "Buddha and Ancestors"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "11/21/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/buddha-and-ancestors"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/h4CF9k6C-cMfXcsXK.html"
+description: "11/21/2010, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 11/21/2010
 

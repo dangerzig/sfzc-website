@@ -1,11 +1,13 @@
 ---
 title: "Clearing the Mind"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "09/15/2024"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/clearing-mind-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/LoDtSpKB-cMfXcsXK.html"
+description: "09/15/2024, Jiryu Rutschman-Byler, dharma talk at Green Gulch Farm.In this talk given at Green Gulch Farm, Abiding Abbott Jiryu Rutschman-Byler continues to explore four core elements of zazen practice: low belly, upright spine, clear mind, and wide-open welcoming. He focuses in particular on the pr"
 ---
 09/15/2024
 

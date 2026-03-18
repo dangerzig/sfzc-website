@@ -1,11 +1,13 @@
 ---
 title: "The Cloudless Sky of Buddha Nature"
-speaker: ""
+speaker: "kokyo-henkel"
 talk_date: "09/06/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/cloudless-sky-buddha-nature"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/r9cYnIRC-cMfXcsXK.html"
+description: "9/6/2011, Kokyo Henkel dharma talk at Tassajara."
 ---
 09/06/2011
 

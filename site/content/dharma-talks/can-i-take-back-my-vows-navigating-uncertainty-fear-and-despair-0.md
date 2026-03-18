@@ -1,11 +1,13 @@
 ---
 title: "Can I Take Back My Vows? — Navigating Uncertainty, Fear and Despair"
-speaker: ""
+speaker: "mushim-patricia-ikeda"
 talk_date: "06/08/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/can-i-take-back-my-vows-navigating-uncertainty-fear-and-despair-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/8vqZt7wd-cMfXcsXK.html"
+description: "06/08/2024, Mushim Patricia Ikeda, dharma talk at City Center.In this talk, given at Beginner's Mind Temple, San Francisco Zen Center, Muslim Ikeda examines the question, How can Zen practice be of benefit to more people during what many are calling \"unprecedented times\"? In mid-2024 the news is f"
 ---
 06/08/2024
 

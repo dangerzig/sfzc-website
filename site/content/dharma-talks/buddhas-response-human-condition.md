@@ -1,11 +1,13 @@
 ---
 title: "Buddha's Response to the Human Condition"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "07/19/2008"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/buddhas-response-human-condition"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/hJix0XAy-cMfXcsXK.html"
+description: "7/19/2008, Shosan Victoria Austin dharma talk at City Center."
 ---
 07/19/2008
 

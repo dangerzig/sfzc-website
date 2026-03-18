@@ -1,11 +1,13 @@
 ---
 title: "Cartwheels"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "09/14/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/cartwheels"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/D7okcMS8-cMfXcsXK.html"
+description: "9/14/2011, Zenshin Greg Fain dharma talk at City Center."
 ---
 09/14/2011
 

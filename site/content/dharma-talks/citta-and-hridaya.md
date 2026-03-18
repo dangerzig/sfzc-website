@@ -1,11 +1,12 @@
 ---
 title: "Citta and Hridaya"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "11/19/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/citta-and-hridaya"
+centers:
+  - "Tassajara"
+description: "11/19/2015, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 No video provider was found to handle the given URL. See [the documentation](https://www.drupal.org/node/2842927) for more information.
 

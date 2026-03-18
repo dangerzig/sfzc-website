@@ -1,11 +1,13 @@
 ---
 title: "Changing The System"
-speaker: ""
+speaker: "taigen-dan-leighton"
 talk_date: "08/17/2016"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/changing-system"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/oQ5utrEo-cMfXcsXK.html"
+description: "8/17/2016, Taigen Dan Leighton dharma talk at City Center."
 ---
 08/17/2016
 

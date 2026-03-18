@@ -1,11 +1,13 @@
 ---
 title: "Ceasefire"
-speaker: ""
+speaker: "shogen-jody-greene"
 talk_date: "02/10/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/ceasefire-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/iaSdJgHS-cMfXcsXK.html"
+description: "02/10/2024, Shogen Jody Greene, dharma talk at City Center.This talk was given at Beginner's Mind Temple by Shogen Jody Greene. While Dōgen Zenji once described 'shikantaza' (just sitting) as “the dharma gate of repose and bliss,” our teachers have also reminded us of the ways in which working with "
 ---
 02/10/2024
 

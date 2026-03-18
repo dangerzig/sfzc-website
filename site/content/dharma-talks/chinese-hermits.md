@@ -1,11 +1,13 @@
 ---
 title: "Chinese Hermits"
-speaker: ""
+speaker: "bill-porter"
 talk_date: "06/11/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/chinese-hermits"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/oJ9sHfUe-cMfXcsXK.html"
+description: "6/11/2015, Bill Porter dharma talk at Tassajara."
 ---
 06/11/2015
 
