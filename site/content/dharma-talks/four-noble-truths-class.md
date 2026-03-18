@@ -1,11 +1,13 @@
 ---
 title: "Four Noble Truths Class"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "10/07/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/four-noble-truths-class"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/5wF9B8RM-cMfXcsXK.html"
+description: "10/7/2018, Furyu Schroeder dharma talk at Tassajara."
 ---
 10/07/2018
 

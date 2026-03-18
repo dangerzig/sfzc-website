@@ -1,11 +1,13 @@
 ---
 title: "Graduating from Cancer Treatment"
-speaker: ""
+speaker: "shokan-jordan-thorn"
 talk_date: "03/31/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/graduating-cancer-treatment"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/7a1Uym4Q-cMfXcsXK.html"
+description: "3/31/2018, Shokan Jordan Thorn dharma talk at City Center."
 ---
 03/31/2018
 

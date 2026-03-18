@@ -1,11 +1,13 @@
 ---
 title: "Five Ranks Class Number 2"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "01/22/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/five-ranks-class-number-2"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/RYsZVMwE-cMfXcsXK.html"
+description: "1/22/2014, Sojun Mel Weitsman dharma talk at Tassajara."
 ---
 01/22/2014
 

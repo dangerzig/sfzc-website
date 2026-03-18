@@ -1,11 +1,13 @@
 ---
 title: "The Harmony of Gradual and Sudden Enlightenment"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "06/12/2011"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/harmony-gradual-and-sudden-enlightenment"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/it5WToP2-cMfXcsXK.html"
+description: "6/12/2011, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 06/12/2011
 

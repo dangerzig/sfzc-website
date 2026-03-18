@@ -1,11 +1,13 @@
 ---
 title: "Fully Live This Altered Life"
-speaker: ""
+speaker: "leo-babauta"
 talk_date: "03/14/2020"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/fully-live-altered-life"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/9yucM4MX-cMfXcsXK.html"
+description: "03/14/2020, Leo Babauta and Susan O'Connell, dharma talk at City Center."
 ---
 03/14/2020
 

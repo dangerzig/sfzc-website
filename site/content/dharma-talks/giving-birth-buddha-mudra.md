@@ -1,11 +1,13 @@
 ---
 title: "Giving Birth to Buddha Mudra"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "10/25/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/giving-birth-buddha-mudra"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/qMwNJwew-cMfXcsXK.html"
+description: "10/25/2015, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 10/25/2015
 

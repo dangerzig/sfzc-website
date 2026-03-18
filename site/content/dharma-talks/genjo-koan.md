@@ -1,11 +1,13 @@
 ---
 title: "On Genjo Koan"
-speaker: ""
+speaker: "korin-charlie-pokorny"
 talk_date: "09/08/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/genjo-koan"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/MsxBoMMY-cMfXcsXK.html"
+description: "9/8/2010, Charlie Pokorny dharma talk at Green Gulch Farm."
 ---
 09/08/2010
 

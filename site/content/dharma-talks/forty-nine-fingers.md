@@ -1,11 +1,13 @@
 ---
 title: "Forty-nine Fingers"
-speaker: ""
+speaker: "dairyu-michael-wenger"
 talk_date: "08/10/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/forty-nine-fingers"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/WtJBtm4J-cMfXcsXK.html"
+description: "8/10/2011, Michael Wenger dharma talk at City Center."
 ---
 08/10/2011
 

@@ -1,11 +1,13 @@
 ---
 title: "Grasping At Things Is Surely Delusion"
-speaker: ""
+speaker: "keiryu-lien-shutt"
 talk_date: "11/25/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/grasping-things-surely-delusion"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/CoYGR9vH-cMfXcsXK.html"
+description: "11/25/2017, Keiryu Lien Shutt dharma talk at City Center."
 ---
 11/25/2017
 

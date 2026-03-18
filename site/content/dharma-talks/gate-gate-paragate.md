@@ -1,11 +1,13 @@
 ---
 title: "Gate Gate Paragate"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "07/28/2009"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/gate-gate-paragate"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/aXI1AZ3m-cMfXcsXK.html"
+description: "7/28/2009, Eijun Linda Ruth Cutts dharma talk at Tassajara."
 ---
 07/28/2009
 

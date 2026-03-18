@@ -1,11 +1,13 @@
 ---
 title: "Fukanzazengi Class Part 2"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "05/11/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/fukanzazengi-class-part-2"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/GtPcfKtx-cMfXcsXK.html"
+description: "5/11/2015, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 05/11/2015
 

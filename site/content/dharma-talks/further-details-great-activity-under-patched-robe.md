@@ -1,11 +1,13 @@
 ---
 title: "Further Details on the Great Activity Under the Patched Robe"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "10/28/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/further-details-great-activity-under-patched-robe"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/33KjX7U9-cMfXcsXK.html"
+description: "10/28/2010, Tenshin Reb Anderson dharma talk at Tassajara."
 ---
 10/28/2010
 

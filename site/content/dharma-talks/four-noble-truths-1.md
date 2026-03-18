@@ -1,11 +1,13 @@
 ---
 title: "The Four Noble Truths"
-speaker: ""
+speaker: "gil-fronsdal"
 talk_date: "05/21/2014"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/four-noble-truths-1"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/TzD8v6NH-cMfXcsXK.html"
+description: "5/21/2014, Gil Fronsdale dharma talk at City Center."
 ---
 05/21/2014
 

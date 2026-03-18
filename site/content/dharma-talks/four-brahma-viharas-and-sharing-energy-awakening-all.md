@@ -1,11 +1,13 @@
 ---
 title: "Four Brahma Viharas and Sharing of Energy for the Awakening of All"
-speaker: ""
+speaker: "dr-t-ariyaratne"
 talk_date: "10/21/2009"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/four-brahma-viharas-and-sharing-energy-awakening-all"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/GmKUQr4X-cMfXcsXK.html"
+description: "10/21/2009, Dr. A.T. Ariyaratne dharma talk at Green Gulch Farm."
 ---
 10/21/2009
 

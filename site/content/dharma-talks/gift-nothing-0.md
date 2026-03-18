@@ -1,11 +1,13 @@
 ---
 title: "The Gift of Nothing"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "12/16/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/gift-nothing-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/Y6RcEG8Z-cMfXcsXK.html"
+description: "12/16/2017, Furyu Schroeder dharma talk at City Center."
 ---
 12/16/2017
 

@@ -1,11 +1,13 @@
 ---
 title: "The Four Horses"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "02/09/2014"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/four-horses"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/P8NIbLwQ-cMfXcsXK.html"
+description: "2/9/2014, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 02/09/2014
 

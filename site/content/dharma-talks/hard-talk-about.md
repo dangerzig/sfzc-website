@@ -1,11 +1,13 @@
 ---
 title: "This Is Hard to Talk About"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "11/20/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/hard-talk-about"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/GyQ2SMj6-cMfXcsXK.html"
+description: "11/20/2014, Eijun Linda Ruth Cutts dharma talk at Tassajara."
 ---
 11/20/2014
 

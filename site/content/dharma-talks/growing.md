@@ -1,11 +1,13 @@
 ---
 title: "Growing Up"
-speaker: ""
+speaker: "hozan-alan-senauke"
 talk_date: "08/01/2009"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/growing"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/NoDmYwUd-cMfXcsXK.html"
+description: "8/1/2009, Hozan Alan Senauke dharma talk at City Center."
 ---
 08/01/2009
 

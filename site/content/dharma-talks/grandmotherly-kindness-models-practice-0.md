@@ -2,10 +2,12 @@
 title: "Grandmotherly Kindness: Models for Practice"
 speaker: "shosan-victoria-austin"
 talk_date: "06/29/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/grandmotherly-kindness-models-practice-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/1rslEDUN-cMfXcsXK.html"
+description: "06/29/2024, Shosan Victoria Austin, dharma talk at City Center.This talk was given by Shosan Victoria Austin at one of Beginner’s Mind Temple’s pop-up events at Unity Church on Page St in San Francisco. Sōtō Zen teaches that compassion underlies wisdom, and wisdom underlies compassion. When we take "
 ---
 06/29/2024
 

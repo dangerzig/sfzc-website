@@ -1,11 +1,13 @@
 ---
 title: "The Heart of Generosity"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "08/27/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/heart-generosity"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/4y1LOt3j-cMfXcsXK.html"
+description: "8/27/2014, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 08/27/2014
 

@@ -1,11 +1,13 @@
 ---
 title: "Hanging from a Tree by your Teeth"
-speaker: ""
+speaker: "anshi-zachary-smith"
 talk_date: "08/02/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/hanging-tree-your-teeth"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/jFtbj0El-cMfXcsXK.html"
+description: "8/2/2017, Anshi Zachary Smith dharma talk at City Center."
 ---
 08/02/2017
 

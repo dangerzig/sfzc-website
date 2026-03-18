@@ -1,11 +1,13 @@
 ---
 title: "Four Dharma Seals"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "10/16/2011"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/four-dharma-seals"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/633EtVvj-cMfXcsXK.html"
+description: "10/16/2011, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 10/16/2011
 

@@ -1,11 +1,13 @@
 ---
 title: "Grandmotherly Mind"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/26/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/grandmotherly-mind"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/6zr4s5HU-cMfXcsXK.html"
+description: "2/26/2014, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 02/26/2014
 

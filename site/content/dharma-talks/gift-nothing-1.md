@@ -1,11 +1,13 @@
 ---
 title: "The Gift of Nothing"
-speaker: ""
+speaker: "zesho-susan-oconnell"
 talk_date: "12/15/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/gift-nothing-1"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/qGGrAagM-cMfXcsXK.html"
+description: "12/15/2012, Zesho Susan O'Connell dharma talk at City Center."
 ---
 12/15/2012
 

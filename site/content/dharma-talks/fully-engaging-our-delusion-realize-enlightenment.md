@@ -1,11 +1,13 @@
 ---
 title: "Fully Engaging Our Delusion to Realize Enlightenment"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "07/10/2011"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/fully-engaging-our-delusion-realize-enlightenment"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/MOJ9YTFY-cMfXcsXK.html"
+description: "7/10/2011, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 07/10/2011
 

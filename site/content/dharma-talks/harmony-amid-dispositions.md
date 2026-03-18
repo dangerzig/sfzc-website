@@ -1,11 +1,13 @@
 ---
 title: "Harmony Amid Dispositions"
-speaker: ""
+speaker: "shinki-mark-lancaster"
 talk_date: "10/06/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/harmony-amid-dispositions"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/SfhgejXf-cMfXcsXK.html"
+description: "10/6/2012, Mark Lancaster dharma talk at City Center."
 ---
 10/06/2012
 

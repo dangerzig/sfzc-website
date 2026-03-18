@@ -1,11 +1,13 @@
 ---
 title: "Harold and the Purple Crayon"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "07/06/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/harold-and-purple-crayon"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/qbVeY9E2-cMfXcsXK.html"
+description: "7/6/2013, Furyu Schroeder dharma talk at Tassajara."
 ---
 07/06/2013
 

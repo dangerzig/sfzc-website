@@ -1,11 +1,13 @@
 ---
 title: "Gardens of Awakening — Mitsue Nagase and Kazuaki Tanahashi"
-speaker: ""
+speaker: "kazuaki-tanahashi"
 talk_date: "05/29/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/gardens-awakening-mitsue-nagase-and-kazuaki-tanahashi"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/zJYMAsHV-cMfXcsXK.html"
+description: "05/29/2024, Kazuaki Tanahashi, Mitsue Nagase, dharma talk at City Center.In this discussion, held in the conference center at Beginner's Mind Temple, Mitsue Nagase and Kaz Tanahashi discuss their new book “Gardens of Awakening: A Guide to the Aesthetics, History, and Spirituality of Kyoto's Zen Land"
 ---
 05/29/2024
 

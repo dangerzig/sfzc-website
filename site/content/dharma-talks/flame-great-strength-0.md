@@ -1,11 +1,13 @@
 ---
 title: "Flame of Great Strength"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "04/13/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/flame-great-strength-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/f5fdnBOq-cMfXcsXK.html"
+description: "04/13/2024, Shosan Victoria Austin, dharma talk at City Center.Zen forms work both in clear and hidden ways. In this interactive lecture, given at Beginner's Mind Temple, Shosan Victoria Austin discusses the ancient chants, called dharanis, which sound like magic spells. At a deeper level, they func"
 ---
 04/13/2024
 

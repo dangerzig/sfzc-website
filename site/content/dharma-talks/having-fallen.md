@@ -1,11 +1,13 @@
 ---
 title: "Having Fallen"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "11/25/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/having-fallen"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/pz1agBFF-cMfXcsXK.html"
+description: "11/25/2012, Steve Weintraub dharma talk at Green Gulch Farm."
 ---
 11/25/2012
 

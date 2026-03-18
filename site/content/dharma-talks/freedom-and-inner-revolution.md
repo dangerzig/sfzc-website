@@ -1,11 +1,13 @@
 ---
 title: "Freedom and the Inner Revolution"
-speaker: ""
+speaker: "yo-jeremy-levie"
 talk_date: "07/05/2015"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/freedom-and-inner-revolution"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/o4MA8bX5-cMfXcsXK.html"
+description: "07/05/2015, Jeremy Levie, dharma talk at Green Gulch Farm."
 ---
 07/05/2015
 

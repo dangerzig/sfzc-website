@@ -2,10 +2,12 @@
 title: "Generous Mountains"
 speaker: ""
 talk_date: "03/15/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/generous-mountains"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/D7r7UR19-cMfXcsXK.html"
+description: "3/15/2008, Myogen Steve Stucky dharma talk at Green Gulch Farm."
 ---
 03/15/2008
 
