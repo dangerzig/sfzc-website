@@ -1,11 +1,13 @@
 ---
 title: "November Sesshin, day five talk"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "11/19/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/november-sesshin-day-five-talk"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/JgNVjWaG-cMfXcsXK.html"
+description: "11/19/2018, Furyu Schroeder dharma talk at Tassajara."
 ---
 11/19/2018
 

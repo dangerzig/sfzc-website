@@ -1,11 +1,13 @@
 ---
 title: "Paris: The Benefit of Zen"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "11/14/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/paris-benefit-zen"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/x2AcsOTS-cMfXcsXK.html"
+description: "11/14/2015, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 11/14/2015
 

@@ -1,11 +1,13 @@
 ---
 title: "The Power of Precepts"
-speaker: ""
+speaker: "onryu-mary-stares"
 talk_date: "02/03/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/power-precepts-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/qTrK91do-cMfXcsXK.html"
+description: "02/03/2024, Onryu Mary Stares, dharma talk at City Center.In this talk, given at Beginner's Mind Temple, Onryu Mary Stares explores the current City Center Practice Period theme of the Bodhisattva precepts, describing her personal experiences of taking refuge and encouraging this vibrant practice."
 ---
 02/03/2024
 

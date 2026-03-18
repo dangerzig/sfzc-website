@@ -1,11 +1,13 @@
 ---
 title: "Peter Pan Attends Sesshin"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "11/21/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/peter-pan-attends-sesshin"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/DX4ChmnW-cMfXcsXK.html"
+description: "11/21/2014, Eijun Linda Ruth Cutts dharma talk at Tassajara."
 ---
 11/21/2014
 

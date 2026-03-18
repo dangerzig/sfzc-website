@@ -1,11 +1,13 @@
 ---
 title: "Peace Bell: From Conflict to Connection"
-speaker: ""
+speaker: "jisan-tova-green"
 talk_date: "08/26/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/peace-bell-conflict-connection"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/JP7lj0p6-cMfXcsXK.html"
+description: "8/26/2012, Jisan Tova Green dharma talk at Green Gulch Farm."
 ---
 08/26/2012
 

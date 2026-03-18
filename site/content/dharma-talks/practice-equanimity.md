@@ -1,11 +1,13 @@
 ---
 title: "The Practice of Equanimity"
-speaker: ""
+speaker: "zesho-susan-oconnell"
 talk_date: "04/18/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/practice-equanimity"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/W7mvJKwg-cMfXcsXK.html"
+description: "04/18/2018, Susan O'Connell, dharma talk at City Center."
 ---
 04/18/2018
 

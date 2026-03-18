@@ -1,11 +1,13 @@
 ---
 title: "Ocean Samadhi"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "01/28/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/ocean-samadhi"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/qhYypAvY-cMfXcsXK.html"
+description: "1/28/2014, Sojun Mel Weitsman dharma talk at Tassajara."
 ---
 01/28/2014
 

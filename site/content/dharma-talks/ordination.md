@@ -1,11 +1,13 @@
 ---
 title: "Ordination"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "04/18/2009"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/ordination"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/Qd5PkMwp-cMfXcsXK.html"
+description: "4/18/2009, Ryushin Paul Haller dharma talk at City Center."
 ---
 04/18/2009
 

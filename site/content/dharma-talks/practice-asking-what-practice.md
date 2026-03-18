@@ -1,11 +1,13 @@
 ---
 title: "The Practice of Asking: What is Practice?"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "03/20/2011"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/practice-asking-what-practice"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/hXgA19lL-cMfXcsXK.html"
+description: "3/20/2011, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 03/20/2011
 

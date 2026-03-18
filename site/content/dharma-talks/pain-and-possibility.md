@@ -1,11 +1,13 @@
 ---
 title: "Pain and Possibility"
-speaker: ""
+speaker: "marc-lesser"
 talk_date: "06/16/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/pain-and-possibility"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/QgoQIttR-cMfXcsXK.html"
+description: "6/16/2018, Marc Lesser dharma talk at City Center."
 ---
 06/16/2018
 

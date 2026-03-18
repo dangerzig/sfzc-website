@@ -1,11 +1,13 @@
 ---
 title: "Old Pond"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "06/02/2019"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/old-pond"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/CTlCbVnY-cMfXcsXK.html"
+description: "06/02/2019, Fu Schroeder, dharma talk at Green Gulch Farm."
 ---
 06/02/2019
 

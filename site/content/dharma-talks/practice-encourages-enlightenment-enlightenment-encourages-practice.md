@@ -1,11 +1,13 @@
 ---
 title: "Practice Encourages Enlightenment, Enlightenment Encourages Practice"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "07/27/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/practice-encourages-enlightenment-enlightenment-encourages-practice"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/cHtb4lUh-cMfXcsXK.html"
+description: "7/27/2016, Sojun Mel Weitsman dharma talk at Tassajara."
 ---
 07/27/2016
 

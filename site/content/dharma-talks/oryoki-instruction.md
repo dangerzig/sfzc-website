@@ -1,11 +1,13 @@
 ---
 title: "Oryoki Instruction"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "11/08/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/oryoki-instruction"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/DkMBagei-cMfXcsXK.html"
+description: "11/8/2016, Eijun Linda Ruth Cutts dharma talk at Tassajara."
 ---
 11/08/2016
 

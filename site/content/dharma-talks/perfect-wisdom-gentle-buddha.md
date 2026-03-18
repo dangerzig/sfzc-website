@@ -1,11 +1,13 @@
 ---
 title: "Perfect Wisdom of Gentle Buddha"
-speaker: ""
+speaker: "sonja-gardenswartz"
 talk_date: "09/05/2009"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/perfect-wisdom-gentle-buddha"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/5G3TKcwN-cMfXcsXK.html"
+description: "9/5/2009, Sonja Gardenswartz dharma talk at Tassajara."
 ---
 09/05/2009
 

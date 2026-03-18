@@ -1,11 +1,13 @@
 ---
 title: "The Perfection of Zazen -- Dhyana Paramita"
-speaker: ""
+speaker: "shokan-jordan-thorn"
 talk_date: "06/11/2008"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/perfection-zazen-dhyana-paramita"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/UoIEi0ID-cMfXcsXK.html"
+description: "6/11/2008, Shokan Jordan Thorn dharma talk at City Center."
 ---
 06/11/2008
 

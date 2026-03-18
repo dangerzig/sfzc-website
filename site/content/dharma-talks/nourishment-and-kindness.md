@@ -1,11 +1,13 @@
 ---
 title: "Nourishment and Kindness"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "03/12/2008"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/nourishment-and-kindness"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/O3ERVF0d-cMfXcsXK.html"
+description: "3/12/2008, Shosan Victoria Austin dharma talk at City Center."
 ---
 03/12/2008
 

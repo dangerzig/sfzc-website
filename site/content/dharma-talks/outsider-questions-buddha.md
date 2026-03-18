@@ -1,11 +1,13 @@
 ---
 title: "An Outsider Questions the Buddha"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "12/13/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/outsider-questions-buddha"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/76T4OBfg-cMfXcsXK.html"
+description: "12/13/2016, Eijun Linda Ruth Cutts dharma talk at Tassajara."
 ---
 12/13/2016
 

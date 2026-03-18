@@ -1,11 +1,13 @@
 ---
 title: "Path To Wholeness"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "06/09/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/path-wholeness-1"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/CupwwSvP-cMfXcsXK.html"
+description: "6/9/2018, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 06/09/2018
 

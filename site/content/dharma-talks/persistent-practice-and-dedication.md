@@ -1,11 +1,13 @@
 ---
 title: "Persistent Practice and Dedication"
-speaker: ""
+speaker: "gyo-ji-arlene-lueck"
 talk_date: "07/18/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/persistent-practice-and-dedication"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/9wAVQorG-cMfXcsXK.html"
+description: "7/18/2018, Arlene Lueck dharma talk at City Center."
 ---
 07/18/2018
 

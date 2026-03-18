@@ -1,11 +1,13 @@
 ---
 title: "One Mind Like Water"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "03/02/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/one-mind-water"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/f6hOk8BA-cMfXcsXK.html"
+description: "3/2/2012, Eijun Linda Cutts dharma talk at Tassajara."
 ---
 03/02/2012
 

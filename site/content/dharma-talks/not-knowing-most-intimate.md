@@ -1,11 +1,13 @@
 ---
 title: "Not Knowing Is Most Intimate"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "03/22/2014"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/not-knowing-most-intimate"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/rFhFiMO9-cMfXcsXK.html"
+description: "3/22/2014, Rinso Ed Sattizahn dharma talk at City Center."
 ---
 03/22/2014
 

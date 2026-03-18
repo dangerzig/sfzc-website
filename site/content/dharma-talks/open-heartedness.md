@@ -1,11 +1,13 @@
 ---
 title: "Open-Heartedness"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "08/15/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/open-heartedness"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/g9X41XQo-cMfXcsXK.html"
+description: "8/15/2012, Leslie James dharma talk at Tassajara."
 ---
 08/15/2012
 

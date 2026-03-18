@@ -1,11 +1,13 @@
 ---
 title: "Out of the Darkness"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "12/27/2014"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/out-darkness"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/EwhFMMoC-cMfXcsXK.html"
+description: "12/27/2014, Ryushin Paul Haller dharma talk at City Center."
 ---
 12/27/2014
 

@@ -1,11 +1,13 @@
 ---
 title: "The Old Lady Steals Zhaozhao's Bamboo Shoots"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "03/08/2015"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/old-lady-steals-zhaozhaos-bamboo-shoots-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/ysPPuZMe-cMfXcsXK.html"
+description: "3/8/2015, Furyu Schroeder, dharma talk at Green Gulch Farm."
 ---
 03/08/2015
 

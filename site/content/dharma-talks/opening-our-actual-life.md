@@ -1,11 +1,13 @@
 ---
 title: "Opening to our Actual Life"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "08/02/2009"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/opening-our-actual-life"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/WTwPRrvv-cMfXcsXK.html"
+description: "8/2/2009, Jiryu Rutschman-Byler, dharma talk at Green Gulch Farm."
 ---
 08/02/2009
 

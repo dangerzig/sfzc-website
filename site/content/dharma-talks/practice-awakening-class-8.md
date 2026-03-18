@@ -1,11 +1,13 @@
 ---
 title: "The Practice of Awakening - Class 8"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "11/15/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/practice-awakening-class-8"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/nIWPmsXl-cMfXcsXK.html"
+description: "11/15/2011, Ryushin Paul Haller dharma talk at City Center."
 ---
 11/15/2011
 

@@ -1,11 +1,13 @@
 ---
 title: "Perfecting Patience, Perfecting Love"
-speaker: ""
+speaker: "abbot-tenzen-david-zimmerman"
 talk_date: "02/14/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/perfecting-patience-perfecting-love"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/OziVrgam-cMfXcsXK.html"
+description: "2/14/2018, Tenzen David Zimmerman dharma talk at City Center."
 ---
 02/14/2018
 

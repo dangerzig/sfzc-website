@@ -1,11 +1,13 @@
 ---
 title: "Not Knowing Is Most Intimate"
-speaker: ""
+speaker: "teah-strozer"
 talk_date: "05/31/2025"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/not-knowing-most-intimate-2"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/SXGckyly-cMfXcsXK.html"
+description: "05/31/2025, Teah Strozer, dharma talk at City Center.Teah Strozer explores the ways that our assumptions and fixed ideas about people or situations can blind us to change and to what’s actually in front of us."
 ---
 05/31/2025
 

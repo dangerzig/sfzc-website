@@ -1,11 +1,13 @@
 ---
 title: "Poetry"
-speaker: ""
+speaker: "zoketsu-norman-fischer"
 talk_date: "07/02/2017"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/poetry"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/mZgsOsIO-cMfXcsXK.html"
+description: "7/2/2017, Zoketsu Norman Fischer dharma talk at Green Gulch Farm."
 ---
 07/02/2017
 

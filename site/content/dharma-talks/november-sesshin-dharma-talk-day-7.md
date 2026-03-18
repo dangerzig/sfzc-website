@@ -1,11 +1,13 @@
 ---
 title: "November Sesshin Dharma Talk Day 7"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "11/21/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/november-sesshin-dharma-talk-day-7"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/QNJYfGYQ-cMfXcsXK.html"
+description: "11/21/2017, Tenshin Reb Anderson dharma talk at Tassajara."
 ---
 11/21/2017
 

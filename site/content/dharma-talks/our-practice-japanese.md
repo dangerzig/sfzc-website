@@ -1,11 +1,13 @@
 ---
 title: "Our Practice Is Japanese"
-speaker: ""
+speaker: "zoketsu-norman-fischer"
 talk_date: "11/08/2009"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/our-practice-japanese"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/FxFjcrJP-cMfXcsXK.html"
+description: "11/8/2009, Zoketsu Norman Fischer dharma talk at Green Gulch Farm."
 ---
 11/08/2009
 

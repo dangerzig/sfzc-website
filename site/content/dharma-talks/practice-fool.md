@@ -1,11 +1,13 @@
 ---
 title: "Practice Like a Fool"
-speaker: ""
+speaker: "gendo-lucy-xiao-xuandao"
 talk_date: "04/23/2014"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/practice-fool"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/htUG2kkl-cMfXcsXK.html"
+description: "4/23/2014, Gendo Lucy Xiao dharma talk at City Center."
 ---
 04/23/2014
 

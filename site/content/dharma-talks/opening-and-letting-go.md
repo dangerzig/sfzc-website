@@ -1,11 +1,13 @@
 ---
 title: "Opening Up and Letting Go"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "02/11/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/opening-and-letting-go"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/hce6vtab-cMfXcsXK.html"
+description: "2/11/2014, Sojun Mel Weitsman dharma talk at Tassajara."
 ---
 02/11/2014
 
