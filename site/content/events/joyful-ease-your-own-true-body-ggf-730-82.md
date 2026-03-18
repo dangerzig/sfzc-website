@@ -4,7 +4,7 @@ event_date: "Jul 30, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "patricia-sullivan"
 centers:
   - "Green Gulch Farm"
 aliases:

@@ -4,7 +4,7 @@ event_date: "May 9, 2026"
 end_date: ""
 event_type: "Lecture"
 format: "online"
-teacher: ""
+teacher: "rinso-ed-sattizahn"
 centers:
   - "City Center"
 aliases:

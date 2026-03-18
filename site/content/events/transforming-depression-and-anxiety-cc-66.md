@@ -4,7 +4,7 @@ event_date: "June 6, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "jisho-lisa-beth-hoffman"
 centers:
   - "City Center"
 aliases:

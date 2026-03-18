@@ -4,7 +4,7 @@ event_date: "Aug 11, 2026"
 end_date: ""
 event_type: "Workshop"
 format: "online"
-teacher: ""
+teacher: "lee-klinger-lesser"
 centers:
   - "Tassajara"
 aliases:

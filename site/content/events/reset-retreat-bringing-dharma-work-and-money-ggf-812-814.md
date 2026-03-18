@@ -4,7 +4,7 @@ event_date: "Aug 12, 2026"
 end_date: ""
 event_type: "Retreat"
 format: "online"
-teacher: ""
+teacher: "spencer-sherman"
 centers:
   - "Green Gulch Farm"
 aliases:

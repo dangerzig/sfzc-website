@@ -4,7 +4,7 @@ event_date: "September 26, 2026"
 end_date: ""
 event_type: "Sitting"
 format: "online"
-teacher: ""
+teacher: "kokyo-henkel"
 centers:
   - "Green Gulch Farm"
 aliases:

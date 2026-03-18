@@ -4,7 +4,7 @@ event_date: "May 19, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "fletcher-tucker"
 centers:
   - "Tassajara"
 aliases:

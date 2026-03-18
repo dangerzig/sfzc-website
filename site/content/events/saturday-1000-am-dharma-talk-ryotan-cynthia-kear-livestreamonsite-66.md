@@ -4,7 +4,7 @@ event_date: "June 6, 2026"
 end_date: ""
 event_type: "Lecture"
 format: "online"
-teacher: ""
+teacher: "ryotan-cynthia-kear"
 centers:
   - "City Center"
 aliases:

@@ -4,7 +4,7 @@ event_date: "May 2, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "edward-espe-brown"
 centers:
   - "Tassajara"
 aliases:

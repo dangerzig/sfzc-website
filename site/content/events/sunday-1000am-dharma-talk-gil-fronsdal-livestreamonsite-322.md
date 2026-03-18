@@ -4,7 +4,7 @@ event_date: "March 22, 2026"
 end_date: ""
 event_type: "Lecture"
 format: "hybrid"
-teacher: ""
+teacher: "gil-fronsdal"
 centers:
   - "Green Gulch Farm"
 aliases:

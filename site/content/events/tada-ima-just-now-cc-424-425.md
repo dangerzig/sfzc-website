@@ -4,7 +4,7 @@ event_date: "April 24, 2026"
 end_date: ""
 event_type: ""
 format: "in-person"
-teacher: ""
+teacher: "mayako-okura"
 centers:
   - "City Center"
 aliases:

@@ -4,7 +4,7 @@ event_date: "Sep 1, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "cynthia-cummins"
 centers:
   - "Tassajara"
 aliases:

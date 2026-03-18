@@ -4,7 +4,7 @@ event_date: "July 12, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "meiya-wender-0"
 centers:
   - "Green Gulch Farm"
 aliases:

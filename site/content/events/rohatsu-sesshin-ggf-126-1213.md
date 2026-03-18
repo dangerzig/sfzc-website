@@ -4,7 +4,7 @@ event_date: "Dec 6, 2026"
 end_date: ""
 event_type: "Sesshin"
 format: "in-person"
-teacher: ""
+teacher: "abbot-jiryu-rutschman-byler"
 centers:
   - "City Center"
 aliases:

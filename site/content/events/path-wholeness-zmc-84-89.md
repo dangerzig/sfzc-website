@@ -4,7 +4,7 @@ event_date: "Aug 4, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "ryushin-paul-haller"
 centers:
   - "Tassajara"
 aliases:

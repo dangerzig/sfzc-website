@@ -4,7 +4,7 @@ event_date: "Aug 5, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "abbot-tenzen-david-zimmerman"
 centers:
   - "Green Gulch Farm"
 aliases:

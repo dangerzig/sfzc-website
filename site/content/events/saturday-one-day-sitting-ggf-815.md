@@ -4,7 +4,7 @@ event_date: "August 15, 2026"
 end_date: ""
 event_type: "Sitting"
 format: "online"
-teacher: ""
+teacher: "sessei-meg-mcneil-levie"
 centers:
   - "Green Gulch Farm"
 aliases:

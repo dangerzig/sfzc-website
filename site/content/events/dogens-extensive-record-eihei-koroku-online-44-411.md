@@ -4,7 +4,7 @@ event_date: "Apr 4, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "taigen-dan-leighton"
 centers:
   - "Online"
 aliases:

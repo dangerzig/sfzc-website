@@ -4,7 +4,7 @@ event_date: "May 13, 2026"
 end_date: ""
 event_type: "Sitting"
 format: "online"
-teacher: ""
+teacher: "abbot-jiryu-rutschman-byler"
 centers:
   - "Tassajara"
 aliases:

@@ -4,7 +4,7 @@ event_date: "Jul 16, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "sozan-michael-mccord"
 centers:
   - "Tassajara"
 aliases:

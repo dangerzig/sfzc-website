@@ -4,7 +4,7 @@ event_date: "May 26, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "onryu-mary-stares"
 centers:
   - "Tassajara"
 aliases:

@@ -4,7 +4,7 @@ event_date: "Apr 27, 2026"
 end_date: ""
 event_type: "Practice Period"
 format: "online"
-teacher: ""
+teacher: "gendo-lucy-xiao-xuandao"
 centers:
   - "City Center"
 aliases:

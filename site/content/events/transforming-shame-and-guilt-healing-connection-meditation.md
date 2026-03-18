@@ -4,7 +4,7 @@ event_date: "April 19, 2026"
 end_date: ""
 event_type: "Retreat"
 format: "online"
-teacher: ""
+teacher: "koshin-steven-tierney"
 centers:
   - "Green Gulch Farm"
 aliases:

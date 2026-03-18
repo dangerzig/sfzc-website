@@ -4,7 +4,7 @@ event_date: "May 16, 2026"
 end_date: ""
 event_type: "Lecture"
 format: "online"
-teacher: ""
+teacher: "ryushin-paul-haller"
 centers:
   - "City Center"
 aliases:

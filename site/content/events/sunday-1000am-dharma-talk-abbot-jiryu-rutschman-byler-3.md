@@ -4,7 +4,7 @@ event_date: "April 5, 2026"
 end_date: ""
 event_type: "Lecture"
 format: "hybrid"
-teacher: ""
+teacher: "abbot-jiryu-rutschman-byler"
 centers:
   - "Green Gulch Farm"
 aliases:

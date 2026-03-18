@@ -4,7 +4,7 @@ event_date: "Apr 2, 2026"
 end_date: ""
 event_type: "Retreat"
 format: "online"
-teacher: ""
+teacher: "dr-liping-zhu-daom-lac"
 centers:
   - "City Center"
 aliases:

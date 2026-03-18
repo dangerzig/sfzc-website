@@ -4,7 +4,7 @@ event_date: "Jul 15, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "gengyoku-tim-wicks"
 centers:
   - "Tassajara"
 aliases:

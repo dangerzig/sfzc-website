@@ -4,7 +4,7 @@ event_date: "May 16, 2026"
 end_date: ""
 event_type: "Sitting"
 format: "online"
-teacher: ""
+teacher: "kodo-conlin"
 centers:
   - "Online"
 aliases:

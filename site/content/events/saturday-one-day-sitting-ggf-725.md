@@ -4,7 +4,7 @@ event_date: "July 25, 2026"
 end_date: ""
 event_type: "Sitting"
 format: "online"
-teacher: ""
+teacher: "eijun-linda-cutts"
 centers:
   - "Green Gulch Farm"
 aliases:

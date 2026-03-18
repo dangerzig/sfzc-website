@@ -4,7 +4,7 @@ event_date: "May 27, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "zac-denning"
 centers:
   - "Green Gulch Farm"
 aliases:

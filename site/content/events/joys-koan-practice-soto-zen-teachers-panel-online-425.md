@@ -4,7 +4,7 @@ event_date: "April 25, 2026"
 end_date: ""
 event_type: ""
 format: "hybrid"
-teacher: ""
+teacher: "kokyo-henkel"
 centers:
   - "Green Gulch Farm"
 aliases:

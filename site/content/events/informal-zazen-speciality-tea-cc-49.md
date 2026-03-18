@@ -4,7 +4,7 @@ event_date: "April 9, 2026"
 end_date: ""
 event_type: "Sitting"
 format: "in-person"
-teacher: ""
+teacher: "roger-hillyard"
 centers:
   - "City Center"
 aliases:

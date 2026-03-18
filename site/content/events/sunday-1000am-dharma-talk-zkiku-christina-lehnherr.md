@@ -4,7 +4,7 @@ event_date: "April 26, 2026"
 end_date: ""
 event_type: "Lecture"
 format: "hybrid"
-teacher: ""
+teacher: "kiku-christina-lehnherr"
 centers:
   - "Green Gulch Farm"
 aliases:

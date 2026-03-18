@@ -4,7 +4,7 @@ event_date: "June 22, 2026"
 end_date: ""
 event_type: "Sitting"
 format: "online"
-teacher: ""
+teacher: "guo-gu"
 centers:
   - "Green Gulch Farm"
 aliases:

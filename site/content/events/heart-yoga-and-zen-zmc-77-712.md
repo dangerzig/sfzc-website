@@ -4,7 +4,7 @@ event_date: "Jul 7, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "simon-moyes"
 centers:
   - "Tassajara"
 aliases:

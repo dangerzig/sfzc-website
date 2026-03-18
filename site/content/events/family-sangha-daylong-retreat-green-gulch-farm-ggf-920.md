@@ -4,7 +4,7 @@ event_date: "September 20, 2026"
 end_date: ""
 event_type: "Retreat"
 format: "online"
-teacher: ""
+teacher: "meikyo-chelsea-true"
 centers:
   - "Green Gulch Farm"
 aliases:

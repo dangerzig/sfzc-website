@@ -4,7 +4,7 @@ event_date: "June 26, 2026"
 end_date: ""
 event_type: ""
 format: "in-person"
-teacher: ""
+teacher: "so-eli-brown-stevenson"
 centers:
   - "City Center"
 aliases:

@@ -4,7 +4,7 @@ event_date: "Apr 12, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "pamela-weiss"
 centers:
   - "Online"
 aliases:

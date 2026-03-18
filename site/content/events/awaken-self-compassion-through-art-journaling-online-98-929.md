@@ -4,7 +4,7 @@ event_date: "Sep 8, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "lea-seigen-shinraku"
 centers:
   - "Online"
 aliases:

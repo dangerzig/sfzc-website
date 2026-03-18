@@ -4,7 +4,7 @@ event_date: "Jun 30, 2026"
 end_date: ""
 event_type: "Retreat"
 format: "online"
-teacher: ""
+teacher: "abbot-doshin-mako-voelkel"
 centers:
   - "Tassajara"
 aliases:

@@ -4,7 +4,7 @@ event_date: "Apr 28, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "diane-renshaw"
 centers:
   - "Tassajara"
 aliases:

@@ -4,7 +4,7 @@ event_date: "May 3, 2026"
 end_date: ""
 event_type: "Sitting"
 format: "online"
-teacher: ""
+teacher: "doshin-dan-gudgel"
 centers:
   - "City Center"
 aliases:

@@ -4,7 +4,7 @@ event_date: "May 28, 2026"
 end_date: ""
 event_type: "Sesshin"
 format: "online"
-teacher: ""
+teacher: "gendo-lucy-xiao-xuandao"
 centers:
   - "City Center"
 aliases:

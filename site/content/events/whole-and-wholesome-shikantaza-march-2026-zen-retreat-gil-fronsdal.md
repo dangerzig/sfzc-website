@@ -4,7 +4,7 @@ event_date: "Mar 21, 2026"
 end_date: ""
 event_type: "Retreat"
 format: "online"
-teacher: ""
+teacher: "gil-fronsdal"
 centers:
   - "Green Gulch Farm"
 aliases:
