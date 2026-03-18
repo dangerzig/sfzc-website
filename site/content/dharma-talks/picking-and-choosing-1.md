@@ -1,11 +1,13 @@
 ---
 title: "Picking And Choosing"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "04/24/2016"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/picking-and-choosing-1"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/JjF0IwV6-cMfXcsXK.html"
+description: "4/24/2016, Rinso Ed Sattizahn dharma talk at Green Gulch Farm."
 ---
 04/24/2016
 

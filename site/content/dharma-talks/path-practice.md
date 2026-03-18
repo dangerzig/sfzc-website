@@ -1,11 +1,13 @@
 ---
 title: "The Path of Practice"
-speaker: ""
+speaker: "shokan-jordan-thorn"
 talk_date: "06/13/2009"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/path-practice"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/86zl0N0J-cMfXcsXK.html"
+description: "6/13/2009, Shokan Jordan Thorn dharma talk at City Center."
 ---
 06/13/2009
 

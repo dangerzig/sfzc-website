@@ -1,11 +1,13 @@
 ---
 title: "The Practice of Generosity"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "05/04/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/practice-generosity-1"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/t17rvgFI-cMfXcsXK.html"
+description: "5/4/2011, Christina Lehnherr dharma talk at Tassajara."
 ---
 05/04/2011
 

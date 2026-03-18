@@ -1,11 +1,13 @@
 ---
 title: "The Practice of Oryoki"
-speaker: ""
+speaker: "onryu-mary-stares"
 talk_date: "03/18/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/practice-oryoki"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/mixmFBPg-cMfXcsXK.html"
+description: "3/18/2017, Onryu Mary Stares dharma talk at City Center."
 ---
 03/18/2017
 

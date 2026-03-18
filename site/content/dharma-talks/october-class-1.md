@@ -1,11 +1,13 @@
 ---
 title: "October Class 1"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "10/03/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/october-class-1"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/WKTt5bRs-cMfXcsXK.html"
+description: "10/3/2017, Tenshin Reb Anderson dharma talk at Tassajara."
 ---
 10/03/2017
 

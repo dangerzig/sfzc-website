@@ -1,11 +1,13 @@
 ---
 title: "Not What, But How: The Inquiring Mind at Work"
-speaker: ""
+speaker: "abbot-tenzen-david-zimmerman"
 talk_date: "06/27/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/not-what-how-inquiring-mind-work"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/hMwUR6eB-cMfXcsXK.html"
+description: "6/27/2012, Tenzen David Zimmerman dharma talk at City Center."
 ---
 06/27/2012
 

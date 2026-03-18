@@ -1,11 +1,13 @@
 ---
 title: "The One Perfect Teaching That Frees Us"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "02/04/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/one-perfect-teaching-frees-us-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/LU0ZzlOY-cMfXcsXK.html"
+description: "2/4/2017, Jiryu Rutschman dharma talk at City Center."
 ---
 02/04/2017
 

@@ -1,11 +1,13 @@
 ---
 title: "Only Buddha and Buddha"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "05/08/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/only-buddha-and-buddha-0"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/25yY2pKb-cMfXcsXK.html"
+description: "5/8/2010, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 05/08/2010
 

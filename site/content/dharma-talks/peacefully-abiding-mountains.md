@@ -1,11 +1,13 @@
 ---
 title: "Peacefully Abiding in the Mountains"
-speaker: ""
+speaker: "abbot-tenzen-david-zimmerman"
 talk_date: "10/03/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/peacefully-abiding-mountains"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/zu3WrXkS-cMfXcsXK.html"
+description: "10/03/2019, Tenzen David Zimmerman, dharma talk at Tassajara."
 ---
 10/03/2019
 

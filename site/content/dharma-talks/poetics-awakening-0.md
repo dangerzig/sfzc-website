@@ -1,11 +1,13 @@
 ---
 title: "The Poetics of Awakening"
-speaker: ""
+speaker: "naomi-shihab-nye"
 talk_date: "05/29/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/poetics-awakening-0"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/4zXc1Nhc-cMfXcsXK.html"
+description: "5/29/2010, Naomi Shihab Nye, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 05/29/2010
 

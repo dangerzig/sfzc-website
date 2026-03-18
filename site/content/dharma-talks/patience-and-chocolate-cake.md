@@ -1,11 +1,13 @@
 ---
 title: "Patience and Chocolate Cake"
-speaker: ""
+speaker: "zesho-susan-oconnell"
 talk_date: "08/24/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/patience-and-chocolate-cake"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/bvZNIxuA-cMfXcsXK.html"
+description: "08/24/2019, Zesho Susan O'Connell, dharma talk at City Center."
 ---
 08/24/2019
 

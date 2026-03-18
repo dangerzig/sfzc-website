@@ -1,11 +1,13 @@
 ---
 title: "The Practice of Aging"
-speaker: ""
+speaker: "susan-moon"
 talk_date: "11/28/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/practice-aging"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/ukHvLJqG-cMfXcsXK.html"
+description: "11/28/2010, Sue Moon dharma talk at Green Gulch Farm."
 ---
 11/28/2010
 

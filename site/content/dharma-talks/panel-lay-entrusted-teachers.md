@@ -1,11 +1,13 @@
 ---
 title: "Panel: Lay-Entrusted Teachers"
-speaker: ""
+speaker: "panel-discussion"
 talk_date: "02/20/2013"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/panel-lay-entrusted-teachers"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/4MsIFz9b-cMfXcsXK.html"
+description: "2/20/2013, Panel dharma talk at City Center."
 ---
 02/20/2013
 

@@ -1,11 +1,13 @@
 ---
 title: "Ordinary Mind is the Way"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "06/21/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/ordinary-mind-way"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/GVqaBLZe-cMfXcsXK.html"
+description: "6/21/2017, Rinso Ed Sattizahn dharma talk at Tassajara."
 ---
 06/21/2017
 

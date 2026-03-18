@@ -1,11 +1,13 @@
 ---
 title: "Our Daily Practice With Human Suffering and Psychological Trauma"
-speaker: ""
+speaker: "yuki-kobiyama"
 talk_date: "06/26/2022"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/our-daily-practice-human-suffering-and-psychological-trauma"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/s9VgSVA8-cMfXcsXK.html"
+description: "06/26/2022, Yuki Kobiyama, dharma talk at Green Gulch Farm. Recalling recent tragic events from Ukraine to Buffalo to Laguna Woods to Uvalde, and reflecting on the deep heart break, violence, hatred, and ignorance in our world, Rev. Kobiyama discusses how our daily practice and Buddhist teachings re"
 ---
 06/26/2022
 

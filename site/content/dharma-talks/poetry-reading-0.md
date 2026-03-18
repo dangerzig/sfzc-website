@@ -1,11 +1,13 @@
 ---
 title: "Poetry Reading"
-speaker: ""
+speaker: "jane-hirshfield"
 talk_date: "08/11/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/poetry-reading-0"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/eCAAKTwg-cMfXcsXK.html"
+description: "8/11/2011, Jane Hirshfield dharma talk at Tassajara."
 ---
 08/11/2011
 

@@ -1,11 +1,13 @@
 ---
 title: "Out Of Compassion For The Many I Take My Rest"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "11/13/2022"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/out-compassion-many-i-take-my-rest"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/GBVvlhZD-cMfXcsXK.html"
+description: "11/13/2022, Eijun Linda Cutts, dharma talk at Green Gulch Farm. Reflections on the importance of rest and relaxation to wholeheartedly express our practice life."
 ---
 11/13/2022
 

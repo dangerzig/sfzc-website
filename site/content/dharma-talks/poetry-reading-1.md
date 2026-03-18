@@ -1,11 +1,13 @@
 ---
 title: "Poetry Reading"
-speaker: ""
+speaker: "naomi-shihab-nye"
 talk_date: "06/06/2009"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/poetry-reading-1"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/9mVn5BzX-cMfXcsXK.html"
+description: "6/6/2009, Naomi Shihab Nye dharma talk at Tassajara."
 ---
 06/06/2009
 

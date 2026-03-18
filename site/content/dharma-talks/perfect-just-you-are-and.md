@@ -1,11 +1,13 @@
 ---
 title: "Perfect Just As you Are, And..."
-speaker: ""
+speaker: "korin-charlie-pokorny"
 talk_date: "08/31/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/perfect-just-you-are-and"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/kMVnEwBT-cMfXcsXK.html"
+description: "08/31/2019, Korin Charlie Pokorny, dharma talk at City Center."
 ---
 08/31/2019
 

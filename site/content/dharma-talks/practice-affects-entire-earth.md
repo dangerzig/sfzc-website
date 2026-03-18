@@ -1,11 +1,13 @@
 ---
 title: "Practice Affects the Entire Earth"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "08/03/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/practice-affects-entire-earth"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/Bn5VrjPs-cMfXcsXK.html"
+description: "8/3/2008, Christina Lehnherr dharma talk at Green Gulch Farm."
 ---
 08/03/2008
 

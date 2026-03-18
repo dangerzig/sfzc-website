@@ -1,11 +1,13 @@
 ---
 title: "Pang Family Stories"
-speaker: ""
+speaker: "zoketsu-norman-fischer"
 talk_date: "06/02/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/pang-family-stories"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/IjPHBCVR-cMfXcsXK.html"
+description: "6/2/2018, Zoketsu Norman Fischer dharma talk at City Center."
 ---
 06/02/2018
 

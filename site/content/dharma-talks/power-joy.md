@@ -1,11 +1,13 @@
 ---
 title: "The Power of Joy"
-speaker: ""
+speaker: "zesho-susan-oconnell"
 talk_date: "09/30/2023"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/power-joy"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/VyB6QxpV-cMfXcsXK.html"
+description: "09/30/2023, Zesho Susan O'Connell, dharma talk at City Center. In this talk from Beginner's Mind Temple, Susan O’Connell discusses how the joy of practice can support us when, as always seems to be the case, “there’s a lot going on.” Susan teaches that not resisting the present moment can open space"
 ---
 09/30/2023
 

@@ -1,11 +1,13 @@
 ---
 title: "The Pivotal Activity Of All Buddhas, Part Two"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "07/17/2016"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/pivotal-activity-all-buddhas-part-two"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/89DUOVBY-cMfXcsXK.html"
+description: "7/17/2016, Tenshin Reb Anderson, dharma talk at Green Gulch Farm."
 ---
 07/17/2016
 

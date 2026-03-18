@@ -1,11 +1,13 @@
 ---
 title: "The Practice and Manifestation of Beneficial Action"
-speaker: ""
+speaker: "roger-hillyard"
 talk_date: "09/13/2023"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/practice-and-manifestation-beneficial-action-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/5Z2ut0Ym-cMfXcsXK.html"
+description: "09/13/2023, Roger Hillyard, dharma talk at City Center.In this talk from Beginner's Mind Temple, Roger Hillyard explores the Boddhisattva's Four Methods of Guidance - a fascicle from Dogen Zenji's Shobogenzo on how to help all beings move toward awakening. Roger brings this practice into our modern "
 ---
 09/13/2023
 

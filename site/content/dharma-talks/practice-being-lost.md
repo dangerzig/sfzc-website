@@ -1,11 +1,13 @@
 ---
 title: "The Practice of Being Lost"
-speaker: ""
+speaker: "daiyu-judith-randall"
 talk_date: "05/28/2014"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/practice-being-lost"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/8OLMYu0s-cMfXcsXK.html"
+description: "5/28/2014, Judith Randall, dharma talk at City Center."
 ---
 05/28/2014
 

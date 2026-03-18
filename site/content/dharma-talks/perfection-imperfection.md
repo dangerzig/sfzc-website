@@ -1,11 +1,13 @@
 ---
 title: "Perfection in Imperfection"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "03/20/2016"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/perfection-imperfection"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/aNOm68Jk-cMfXcsXK.html"
+description: "3/20/2016, Steve Weintraub dharma talk at Green Gulch Farm."
 ---
 03/20/2016
 
