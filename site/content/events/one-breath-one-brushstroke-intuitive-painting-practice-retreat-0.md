@@ -4,7 +4,7 @@ event_date: "Nov 18, 2026"
 end_date: ""
 event_type: "Retreat"
 format: "online"
-teacher: ""
+teacher: "maria-freebairn-smith"
 centers:
   - "Green Gulch Farm"
 aliases:

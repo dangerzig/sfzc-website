@@ -4,7 +4,7 @@ event_date: "March 18, 2026"
 end_date: ""
 event_type: "Lecture"
 format: "online"
-teacher: ""
+teacher: "doshin-patti-mitchell"
 centers:
   - "City Center"
 aliases:

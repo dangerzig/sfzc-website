@@ -4,7 +4,7 @@ event_date: "April 4, 2026"
 end_date: ""
 event_type: "Lecture"
 format: "online"
-teacher: ""
+teacher: "marc-lesser"
 centers:
   - "City Center"
 aliases:

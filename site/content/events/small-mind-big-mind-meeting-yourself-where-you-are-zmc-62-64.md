@@ -4,7 +4,7 @@ event_date: "Jun 2, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "elena-ansui-brower"
 centers:
   - "Tassajara"
 aliases:

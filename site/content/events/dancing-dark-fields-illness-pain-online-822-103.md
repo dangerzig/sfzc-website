@@ -4,7 +4,7 @@ event_date: "Aug 22, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "zenshin-florence-caplow"
 centers:
   - "Online"
 aliases:

@@ -4,7 +4,7 @@ event_date: "May 10, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "shokuchi-deirdre-carrigan-0"
 centers:
   - "Online"
 aliases:

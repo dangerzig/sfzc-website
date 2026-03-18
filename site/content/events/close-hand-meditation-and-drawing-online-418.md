@@ -4,7 +4,7 @@ event_date: "April 18, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "sam-mcwilliams"
 centers:
   - "Online"
 aliases:

@@ -4,7 +4,7 @@ event_date: "April 1, 2026"
 end_date: ""
 event_type: "Lecture"
 format: "online"
-teacher: ""
+teacher: "roger-hillyard"
 centers:
   - "City Center"
 aliases:

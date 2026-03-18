@@ -4,7 +4,7 @@ event_date: "May 30, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "ariel-johnson"
 centers:
   - "Tassajara"
 aliases:

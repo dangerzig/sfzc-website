@@ -4,7 +4,7 @@ event_date: "Aug 27, 2026"
 end_date: ""
 event_type: "Retreat"
 format: "online"
-teacher: ""
+teacher: "ryuko-laura-burges"
 centers:
   - "Tassajara"
 aliases:

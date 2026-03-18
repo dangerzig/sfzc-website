@@ -4,7 +4,7 @@ event_date: "April 11, 2026"
 end_date: ""
 event_type: "Lecture"
 format: "online"
-teacher: ""
+teacher: "hondo-dave-rutschman"
 centers:
   - "City Center"
 aliases:

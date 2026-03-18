@@ -4,7 +4,7 @@ event_date: "November 1, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "jennifer-block"
 centers:
   - "Green Gulch Farm"
 aliases:

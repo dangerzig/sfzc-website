@@ -4,7 +4,7 @@ event_date: "Apr 29, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "christy-brown"
 centers:
   - "Tassajara"
 aliases:

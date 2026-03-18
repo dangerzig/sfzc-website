@@ -4,7 +4,7 @@ event_date: "Apr 25, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "shundo-david-haye"
 centers:
   - "Online"
 aliases:

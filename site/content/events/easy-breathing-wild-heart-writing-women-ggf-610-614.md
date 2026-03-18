@@ -4,7 +4,7 @@ event_date: "Jun 10, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "cynthia-cummins"
 centers:
   - "Green Gulch Farm"
 aliases:

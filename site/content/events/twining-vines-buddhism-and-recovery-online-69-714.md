@@ -4,7 +4,7 @@ event_date: "Jun 9, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "kirk-phillips"
 centers:
   - "Online"
 aliases:

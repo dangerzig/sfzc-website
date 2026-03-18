@@ -4,7 +4,7 @@ event_date: "Mar 22, 2026"
 end_date: ""
 event_type: "Sesshin"
 format: "online"
-teacher: ""
+teacher: "kiku-christina-lehnherr"
 centers:
   - "City Center"
 aliases:

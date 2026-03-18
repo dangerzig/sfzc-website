@@ -4,7 +4,7 @@ event_date: "Oct 1, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "christy-brown"
 centers:
   - "Green Gulch Farm"
 aliases:

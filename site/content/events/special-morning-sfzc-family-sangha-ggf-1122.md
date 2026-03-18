@@ -4,7 +4,7 @@ event_date: "November 22, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "meikyo-chelsea-true"
 centers:
   - "Green Gulch Farm"
 aliases:

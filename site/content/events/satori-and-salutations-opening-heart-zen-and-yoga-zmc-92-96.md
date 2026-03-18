@@ -4,7 +4,7 @@ event_date: "Sep 2, 2026"
 end_date: ""
 event_type: ""
 format: "online"
-teacher: ""
+teacher: "abbot-doshin-mako-voelkel"
 centers:
   - "Tassajara"
 aliases:

@@ -4,7 +4,7 @@ event_date: "Jun 17, 2026"
 end_date: ""
 event_type: "Retreat"
 format: "online"
-teacher: ""
+teacher: "gendo-lucy-xiao-xuandao"
 centers:
   - "Tassajara"
 aliases:
