@@ -1,0 +1,20 @@
+---
+title: "Buddha's Birthday"
+speaker: ""
+talk_date: "04/04/2009"
+centers:
+  - "City Center"
+aliases:
+  - "/teachings/dharma-talks/buddhas-birthday"
+---
+04/04/2009
+
+4/4/2009, Zesho Susan O'Connell dharma talk at City Center.
+
+Hosted at:
+
+[City Center](/locations/city-center)
+
+Featuring:
+
+[Zesho Susan O’Connell](/teachers/zesho-susan-oconnell)
