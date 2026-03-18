@@ -1,11 +1,13 @@
 ---
 title: "Whole-Hearted Gratitude Practice"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "11/22/2015"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/whole-hearted-gratitude-practice"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/KvEh1mk8-cMfXcsXK.html"
+description: "11/22/2015, Eijun Linda Cutts, dharma talk at Green Gulch Farm."
 ---
 11/22/2015
 

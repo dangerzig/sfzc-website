@@ -1,11 +1,13 @@
 ---
 title: "The Worldview of Zen and the Lotus Sutra"
-speaker: ""
+speaker: "taigen-dan-leighton"
 talk_date: "05/19/2007"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/worldview-zen-and-lotus-sutra"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/JrymPsu1-cMfXcsXK.html"
+description: "5/19/2007, Taigen Dan Leighton dharma talk at City Center."
 ---
 05/19/2007
 

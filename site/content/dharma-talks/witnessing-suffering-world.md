@@ -1,11 +1,13 @@
 ---
 title: "Witnessing the Suffering of the World"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "03/11/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/witnessing-suffering-world"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/ZWWmcCDN-cMfXcsXK.html"
+description: "3/11/2012, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 03/11/2012
 

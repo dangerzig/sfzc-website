@@ -1,11 +1,13 @@
 ---
 title: "Wise Person Training"
-speaker: ""
+speaker: "sonja-gardenswartz"
 talk_date: "07/01/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/wise-person-training"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/i5ggxlIn-cMfXcsXK.html"
+description: "7/1/2018, Sonja Gardenswartz dharma talk at Green Gulch Farm."
 ---
 07/01/2018
 

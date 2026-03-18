@@ -1,11 +1,13 @@
 ---
 title: "Whatever Leads to Joy"
-speaker: ""
+speaker: "jisan-tova-green"
 talk_date: "11/16/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/whatever-leads-joy"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/Tb8hjKo3-cMfXcsXK.html"
+description: "11/16/2011, Jisan Tova Green dharma talk at City Center."
 ---
 11/16/2011
 

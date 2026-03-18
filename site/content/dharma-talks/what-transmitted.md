@@ -1,11 +1,13 @@
 ---
 title: "What Is Transmitted?"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "07/15/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/what-transmitted"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/w64No6zv-cMfXcsXK.html"
+description: "7/15/2012, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 07/15/2012
 

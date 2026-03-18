@@ -1,11 +1,13 @@
 ---
 title: "What works?"
-speaker: ""
+speaker: "rev-dr-daijaku-judith-kinst"
 talk_date: "05/21/2016"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/what-works"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/Ws58koR4-cMfXcsXK.html"
+description: "5/21/2016, Daijaku Judith Kinst dharma talk at City Center."
 ---
 05/21/2016
 

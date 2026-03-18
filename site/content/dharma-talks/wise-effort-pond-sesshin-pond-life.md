@@ -1,11 +1,13 @@
 ---
 title: "Wise Effort in the Pond of Sesshin (The Pond of Life)"
-speaker: ""
+speaker: "keiryu-lien-shutt"
 talk_date: "06/07/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/wise-effort-pond-sesshin-pond-life"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/MbDMW9nn-cMfXcsXK.html"
+description: "06/07/2018, Keiryu Liên Shutt, dharma talk at City Center."
 ---
 06/07/2018
 

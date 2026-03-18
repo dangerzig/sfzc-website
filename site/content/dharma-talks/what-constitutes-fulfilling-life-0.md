@@ -1,11 +1,13 @@
 ---
 title: "What Constitutes A Fulfilling Life?"
-speaker: ""
+speaker: "abbot-tenzen-david-zimmerman"
 talk_date: "04/03/2021"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/what-constitutes-fulfilling-life-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/K5i1KLKl-cMfXcsXK.html"
+description: "Reflections of the past year of the pandemic as an intense period of practice.What has this \"collective practice period\" awakened in you? Perhaps disrupted our sense of self. How has the \"Teacher of the Coronavirus\" revealed something deeper of you? Is there a new sense of connectedness? What ab"
 ---
 04/03/2021
 

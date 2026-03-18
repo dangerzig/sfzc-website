@@ -1,11 +1,13 @@
 ---
 title: "Work as Practice"
-speaker: ""
+speaker: "jisan-tova-green"
 talk_date: "09/01/2021"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/work-practice-0"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/3fUQfPMM-cMfXcsXK.html"
+description: "09/01/2021, Jisan Tova Green, dharma talk at Tassajara."
 ---
 09/01/2021
 

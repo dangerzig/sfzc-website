@@ -1,11 +1,13 @@
 ---
 title: "We are Here"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "04/05/2020"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/we-are-here"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/DVWsu0QE-cMfXcsXK.html"
+description: "04/05/2020, Steve Weintraub, dharma talk at Green Gulch Farm."
 ---
 04/05/2020
 

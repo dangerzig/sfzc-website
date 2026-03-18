@@ -1,11 +1,13 @@
 ---
 title: "Who Are They?"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "11/20/2016"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/who-are-they"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/wfHS2qh7-cMfXcsXK.html"
+description: "11/20/2016, Furyu Schroeder dharma talk at Green Gulch Farm."
 ---
 11/20/2016
 

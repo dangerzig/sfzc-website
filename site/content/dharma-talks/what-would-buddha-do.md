@@ -1,11 +1,13 @@
 ---
 title: "What Would Buddha Do?"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "04/19/2020"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/what-would-buddha-do"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/eDfvrf6d-cMfXcsXK.html"
+description: "04/19/2020, Furyu Schroeder, dharma talk at Green Gulch Farm."
 ---
 04/19/2020
 

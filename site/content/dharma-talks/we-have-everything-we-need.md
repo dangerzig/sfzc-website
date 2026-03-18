@@ -1,11 +1,13 @@
 ---
 title: "We Have Everything We Need"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "06/30/2007"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/we-have-everything-we-need"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/6QdXfirz-cMfXcsXK.html"
+description: "6/30/2007, Steve Weintraub dharma talk at City Center."
 ---
 06/30/2007
 

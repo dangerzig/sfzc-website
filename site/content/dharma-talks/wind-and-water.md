@@ -1,11 +1,13 @@
 ---
 title: "Wind and Water"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "10/30/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/wind-and-water"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/5qu685kW-cMfXcsXK.html"
+description: "10/30/2015, Leslie James dharma talk at Tassajara."
 ---
 10/30/2015
 

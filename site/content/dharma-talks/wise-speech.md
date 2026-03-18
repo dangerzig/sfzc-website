@@ -1,11 +1,13 @@
 ---
 title: "Wise Speech"
-speaker: ""
+speaker: "shahara-godfrey"
 talk_date: "08/04/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/wise-speech"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/294Ms3TP-cMfXcsXK.html"
+description: "8/4/2010, Shahara Godfrey dharma talk at City Center."
 ---
 08/04/2010
 

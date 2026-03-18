@@ -1,11 +1,13 @@
 ---
 title: "The Way of Tenderness"
-speaker: ""
+speaker: "zenju-earthlyn-manuel-osho"
 talk_date: "04/25/2015"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/way-tenderness"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/RtAQD7rI-cMfXcsXK.html"
+description: "4/25/2015, Zenju Earthlyn Manuel dharma talk at City Center."
 ---
 04/25/2015
 

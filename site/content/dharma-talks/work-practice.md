@@ -1,11 +1,13 @@
 ---
 title: "Work Practice"
-speaker: ""
+speaker: "daiyu-judith-randall"
 talk_date: "09/21/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/work-practice"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/bSOJ7QKG-cMfXcsXK.html"
+description: "9/21/2010, Judith Randall dharma talk at Tassajara."
 ---
 09/21/2010
 

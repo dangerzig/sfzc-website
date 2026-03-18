@@ -1,11 +1,13 @@
 ---
 title: "Weather Report"
-speaker: ""
+speaker: "myogan-djinn-gallagher"
 talk_date: "09/02/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/weather-report"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/txSlAbDY-cMfXcsXK.html"
+description: "9/2/2017, Myogan Djinn Gallagher dharma talk at Tassajara."
 ---
 09/02/2017
 

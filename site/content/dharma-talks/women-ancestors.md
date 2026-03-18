@@ -1,11 +1,13 @@
 ---
 title: "Women Ancestors"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "08/12/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/women-ancestors"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/JEiZ9r1B-cMfXcsXK.html"
+description: "8/12/2017, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 08/12/2017
 

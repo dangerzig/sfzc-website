@@ -1,11 +1,13 @@
 ---
 title: "Without Hindrance, There Is No Fear"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/23/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/without-hindrance-there-no-fear"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/TY1AAVJU-cMfXcsXK.html"
+description: "02/23/2019, Ryushin Paul Haller, dharma talk at City Center."
 ---
 02/23/2019
 

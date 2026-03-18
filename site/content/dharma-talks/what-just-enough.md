@@ -1,11 +1,13 @@
 ---
 title: "What is Just Enough?"
-speaker: ""
+speaker: "dianne-riggs"
 talk_date: "07/17/2016"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/what-just-enough"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/zjiNCHUd-cMfXcsXK.html"
+description: "7/17/2016, Dianne Rigg dharma talk at City Center."
 ---
 07/17/2016
 

@@ -1,11 +1,13 @@
 ---
 title: "Who Blanche Was For Me"
-speaker: ""
+speaker: "zenki-mary-mocine"
 talk_date: "05/14/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/who-blanche-was-me"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/eI3SyJwD-cMfXcsXK.html"
+description: "5/14/2016, Mary Mocine dharma talk at Tassajara."
 ---
 05/14/2016
 

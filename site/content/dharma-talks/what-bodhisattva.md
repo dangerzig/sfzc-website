@@ -1,11 +1,13 @@
 ---
 title: "What is a Bodhisattva?"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "10/25/2014"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/what-bodhisattva"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/0UrUseGw-cMfXcsXK.html"
+description: "10/25/2014, Rinso Ed Sattizahn dharma talk at City Center."
 ---
 10/25/2014
 

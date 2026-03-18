@@ -1,11 +1,13 @@
 ---
 title: "What Happened to the War?"
-speaker: ""
+speaker: "zesho-susan-oconnell"
 talk_date: "05/18/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/what-happened-war"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/JoDBjmkU-cMfXcsXK.html"
+description: "5/18/2016, Zesho Susan O'Connell, dharma talk at Tassajara."
 ---
 05/18/2016
 

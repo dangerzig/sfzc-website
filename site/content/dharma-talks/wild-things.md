@@ -1,11 +1,13 @@
 ---
 title: "Wild Things"
-speaker: ""
+speaker: "shinchi-linda-galijan"
 talk_date: "01/02/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/wild-things"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/pke23Z9D-cMfXcsXK.html"
+description: "1/2/2010, Linda Galijan dharma talk at City Center."
 ---
 01/02/2010
 

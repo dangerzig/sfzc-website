@@ -1,11 +1,13 @@
 ---
 title: "Wishing for a Better World"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "03/27/2011"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/wishing-better-world"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/zI2qWCeY-cMfXcsXK.html"
+description: "3/27/2011, Jiryu Rutschman-Byler dharma talk at Green Gulch Farm."
 ---
 03/27/2011
 

@@ -1,11 +1,13 @@
 ---
 title: "Wholeheartedness"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "09/09/2007"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/wholeheartedness-1"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/PHpEXLYb-cMfXcsXK.html"
+description: "9/9/2007, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 09/09/2007
 

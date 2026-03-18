@@ -1,11 +1,13 @@
 ---
 title: "Who is the Teacher, Meeting Oneself"
-speaker: ""
+speaker: "edward-espe-brown"
 talk_date: "12/30/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/who-teacher-meeting-oneself"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/ZXlxYGPd-cMfXcsXK.html"
+description: "12/30/2017, Edward Espe Brown dharma talk at City Center."
 ---
 12/30/2017
 

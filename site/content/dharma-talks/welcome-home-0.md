@@ -1,11 +1,13 @@
 ---
 title: "Welcome Home"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "11/08/2015"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/welcome-home-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/Yc76GRUV-cMfXcsXK.html"
+description: "11/08/2015, Fu Schroeder, dharma talk at Green Gulch Farm."
 ---
 11/08/2015
 

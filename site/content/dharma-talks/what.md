@@ -1,11 +1,13 @@
 ---
 title: "What Is This?"
-speaker: ""
+speaker: "abbot-doshin-mako-voelkel"
 talk_date: "06/28/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/what"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/1Okds8dx-cMfXcsXK.html"
+description: "6/28/2014, Mako Voelkel dharma talk at Tassajara."
 ---
 06/28/2014
 

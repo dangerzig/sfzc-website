@@ -1,11 +1,13 @@
 ---
 title: "Wooden Men Sing with Dancing Stone Women"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "01/17/2016"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/wooden-men-sing-dancing-stone-women"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/ejrSkcBC-cMfXcsXK.html"
+description: "1/17/2016, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 01/17/2016
 
