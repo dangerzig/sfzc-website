@@ -1,11 +1,13 @@
 ---
 title: "The Evanescence Of Things"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "04/14/2021"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/evanescence-things-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/pqwMyLxl-cMfXcsXK.html"
+description: "Rinso Ed Sattizahn shares a teaching on impermanence. Suffering the results of our karma. What do we do? To fight when necessary and give in when we have no choice. Stability in the midst of change comes from staying awake in the movement of reality in this very moment. Practice is the way to fully "
 ---
 04/14/2021
 

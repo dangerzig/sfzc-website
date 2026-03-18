@@ -1,11 +1,13 @@
 ---
 title: "First the Questions, then the Lecture"
-speaker: ""
+speaker: "lou-hartman"
 talk_date: "01/03/2008"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/first-questions-then-lecture"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/QoeOUEUH-cMfXcsXK.html"
+description: "1/3/2008, Lou Hartman dharma talk at City Center."
 ---
 01/03/2008
 

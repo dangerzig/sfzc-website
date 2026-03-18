@@ -1,11 +1,13 @@
 ---
 title: "The Five Buddha Families"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/18/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/five-buddha-families"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/e7xy9ypO-cMfXcsXK.html"
+description: "2/18/2012, Ryushin Paul Haller dharma talk at City Center."
 ---
 02/18/2012
 

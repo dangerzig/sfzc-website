@@ -1,11 +1,13 @@
 ---
 title: "Exploring Conditions and Consequences of Ethical Beliefs"
-speaker: ""
+speaker: "abbot-doshin-mako-voelkel"
 talk_date: "01/27/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/exploring-conditions-and-consequences-ethical-beliefs"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/eeTMCSm9-cMfXcsXK.html"
+description: "In this talk, given during the first one-day sitting of the winter 2024 practice period, Abiding Abbot Dōshin Mako Voelkel discusses the sources and outcomes of the many different places and ways we construct our individual ethical frameworks. This talk was recorded during the January one-day sittin"
 ---
 01/27/2024
 

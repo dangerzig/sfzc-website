@@ -1,11 +1,13 @@
 ---
 title: "Finding Freedom Within Limitations"
-speaker: ""
+speaker: "hakusho-johan-ostlund"
 talk_date: "04/10/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/finding-freedom-within-limitations"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/8uGIgtHX-cMfXcsXK.html"
+description: "04/10/2019, Hakusho Ostlund dharma talk at City Center."
 ---
 04/10/2019
 

@@ -1,11 +1,13 @@
 ---
 title: "The Energy for Your True Intention"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "06/13/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/energy-your-true-intention"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/0lkA2nCz-cMfXcsXK.html"
+description: "6/13/2012, Shosan Victoria Austin dharma talk at City Center."
 ---
 06/13/2012
 

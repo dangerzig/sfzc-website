@@ -1,11 +1,13 @@
 ---
 title: "The End of the World"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "03/04/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/end-world-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/cwNGGCB2-cMfXcsXK.html"
+description: "3/4/2018, Furyu Schroeder dharma talk at Green Gulch Farm."
 ---
 03/04/2018
 

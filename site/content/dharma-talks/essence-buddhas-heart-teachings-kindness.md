@@ -1,11 +1,13 @@
 ---
 title: "The Essence of Buddha's Heart Teachings: Kindness"
-speaker: ""
+speaker: "abbot-tenzen-david-zimmerman"
 talk_date: "05/08/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/essence-buddhas-heart-teachings-kindness"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/xnXsvJNz-cMfXcsXK.html"
+description: "05/08/2019, Tenzen David Zimmerman dharma talk at City Center."
 ---
 05/08/2019
 

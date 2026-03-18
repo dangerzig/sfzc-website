@@ -1,11 +1,13 @@
 ---
 title: "Encouraging Words for Summer Practice"
-speaker: ""
+speaker: "arobin-orden"
 talk_date: "04/15/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/encouraging-words-summer-practice"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/HUF4rjgq-cMfXcsXK.html"
+description: "4/15/2017, ARobin Orden dharma talk at Tassajara."
 ---
 04/15/2017
 

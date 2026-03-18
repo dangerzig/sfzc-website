@@ -1,11 +1,13 @@
 ---
 title: "Embodying Race, Love & Liberation"
-speaker: ""
+speaker: "rev-angel-kyodo-williams"
 talk_date: "07/25/2020"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/embodying-race-love-liberation"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/q5ggZ8uh-cMfXcsXK.html"
+description: "07/25/2020, Rev. angel Kyodo williams and Abbess Fu Schroeder, dharma talk at City Center."
 ---
 07/25/2020
 

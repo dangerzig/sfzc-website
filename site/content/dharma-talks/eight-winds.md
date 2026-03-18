@@ -1,11 +1,13 @@
 ---
 title: "Eight Winds"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "12/05/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/eight-winds"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/QvX2kNWf-cMfXcsXK.html"
+description: "12/5/2012, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 12/05/2012
 

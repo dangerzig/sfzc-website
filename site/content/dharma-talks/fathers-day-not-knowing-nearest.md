@@ -1,11 +1,13 @@
 ---
 title: "Fathers Day - Not Knowing Is Nearest"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "06/19/2011"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/fathers-day-not-knowing-nearest"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/iHwKcOx8-cMfXcsXK.html"
+description: "6/19/2011, Christina Lehnherr dharma talk at Green Gulch Farm."
 ---
 06/19/2011
 

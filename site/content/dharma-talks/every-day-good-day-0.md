@@ -1,11 +1,13 @@
 ---
 title: "Every Day Is A Good Day"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "03/08/2020"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/every-day-good-day-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/u0S1BAw0-cMfXcsXK.html"
+description: "03/08/2020, Eijun Linda Cutts, dharma talk at Green Gulch Farm."
 ---
 03/08/2020
 

@@ -1,11 +1,13 @@
 ---
 title: "A Father's Day Talk"
-speaker: ""
+speaker: "sessei-meg-mcneil-levie"
 talk_date: "06/21/2015"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/fathers-day-talk"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/l8JvO1QP-cMfXcsXK.html"
+description: "06/21/2015, Sessei Meg Levie, dharma talk at Green Gulch Farm."
 ---
 06/21/2015
 

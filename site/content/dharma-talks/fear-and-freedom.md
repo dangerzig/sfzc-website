@@ -1,11 +1,13 @@
 ---
 title: "Fear and Freedom"
-speaker: ""
+speaker: "kathy-early"
 talk_date: "08/14/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/fear-and-freedom"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/4dZQipvJ-cMfXcsXK.html"
+description: "8/14/2010, Kathy Early dharma talk at Tassajara."
 ---
 08/14/2010
 

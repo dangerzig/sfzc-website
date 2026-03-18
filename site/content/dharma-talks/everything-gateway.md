@@ -1,11 +1,13 @@
 ---
 title: "Everything Is A Gateway"
-speaker: ""
+speaker: "zenju-earthlyn-manuel-osho"
 talk_date: "11/11/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/everything-gateway"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/izmyh5BX-cMfXcsXK.html"
+description: "11/11/2018, Zenju Earthlyn Manuel, dharma talk at Green Gulch Farm."
 ---
 11/11/2018
 

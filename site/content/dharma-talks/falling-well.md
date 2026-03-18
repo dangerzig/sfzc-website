@@ -1,11 +1,13 @@
 ---
 title: "Falling into the Well"
-speaker: ""
+speaker: "chikudo-catherine-spaeth"
 talk_date: "03/24/2021"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/falling-well"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/eDdM6seX-cMfXcsXK.html"
+description: "The well of the ego and breaking through karma. Intergenerational trauma and suffering. What are we passing down?03/24/2021, Chikudo Catherine Spaeth, dharma talk at City Center."
 ---
 03/24/2021
 

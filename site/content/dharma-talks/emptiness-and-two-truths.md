@@ -1,11 +1,13 @@
 ---
 title: "Emptiness and the Two Truths"
-speaker: ""
+speaker: "korin-charlie-pokorny"
 talk_date: "07/24/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/emptiness-and-two-truths"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/LgdsYuhr-cMfXcsXK.html"
+description: "7/24/2012, Charlie Pokorny dharma talk at Tassajara."
 ---
 07/24/2012
 

@@ -1,11 +1,13 @@
 ---
 title: "Fate is Kind"
-speaker: ""
+speaker: "jisan-anna-thorn"
 talk_date: "09/25/2016"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/fate-kind"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/3Yb7Qnzx-cMfXcsXK.html"
+description: "9/25/2016, Anna Thorn dharma talk at Green Gulch Farm."
 ---
 09/25/2016
 

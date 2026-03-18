@@ -1,11 +1,13 @@
 ---
 title: "Experiencing"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "01/31/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/experiencing"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/6ZMnLkur-cMfXcsXK.html"
+description: "1/31/2018, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 01/31/2018
 

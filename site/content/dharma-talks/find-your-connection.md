@@ -1,11 +1,13 @@
 ---
 title: "Find Your Connection"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "04/09/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/find-your-connection"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/JiYhb83C-cMfXcsXK.html"
+description: "4/9/2018, Leslie James dharma talk at Tassajara."
 ---
 04/09/2018
 

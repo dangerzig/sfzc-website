@@ -1,11 +1,13 @@
 ---
 title: "Everyday Life at Tassajara"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "05/08/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/everyday-life-tassajara"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/mb8PIT7W-cMfXcsXK.html"
+description: "5/8/2013, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 05/08/2013
 
