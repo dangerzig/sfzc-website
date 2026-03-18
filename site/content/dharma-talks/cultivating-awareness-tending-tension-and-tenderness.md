@@ -1,11 +1,13 @@
 ---
 title: "Cultivating Awareness—Tending, Tension and Tenderness"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "07/09/2022"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/cultivating-awareness-tending-tension-and-tenderness"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/ZyKwYNSL-cMfXcsXK.html"
+description: "07/09/2022, Ryushin Paul Haller, dharma talk at City Center."
 ---
 07/09/2022
 

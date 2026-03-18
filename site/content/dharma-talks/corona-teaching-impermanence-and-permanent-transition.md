@@ -1,11 +1,13 @@
 ---
 title: "Corona – Teaching of Impermanence and Permanent Transition"
-speaker: ""
+speaker: "jisan-anna-thorn"
 talk_date: "09/07/2021"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/corona-teaching-impermanence-and-permanent-transition"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/sMIT9ZnF-cMfXcsXK.html"
+description: "09/07/2021, Jisan Anna Thorn, dharma talk at Tassajara."
 ---
 09/07/2021
 

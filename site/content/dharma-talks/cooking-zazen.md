@@ -1,11 +1,13 @@
 ---
 title: "Cooking with Zazen"
-speaker: ""
+speaker: "shokan-jordan-thorn"
 talk_date: "03/24/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/cooking-zazen"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/pxJOZ08k-cMfXcsXK.html"
+description: "3/24/2012, Shokan Jordan Thorn dharma talk at City Center."
 ---
 03/24/2012
 

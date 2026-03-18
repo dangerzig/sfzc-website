@@ -1,11 +1,13 @@
 ---
 title: "Customs"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "09/07/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/customs"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/whsRF5K8-cMfXcsXK.html"
+description: "09/07/2019, Sojun Mel Weitsman, dharma talk at Tassajara."
 ---
 09/07/2019
 

@@ -1,11 +1,13 @@
 ---
 title: "The Craft of Zen"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "06/22/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/craft-zen"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/XlCDOPX6-cMfXcsXK.html"
+description: "6/22/2011, Leslie James dharma talk at Tassajara."
 ---
 06/22/2011
 

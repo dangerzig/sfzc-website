@@ -1,11 +1,13 @@
 ---
 title: "Compassion Is No Separation"
-speaker: ""
+speaker: "pico-iyer"
 talk_date: "07/07/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/compassion-no-separation"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/BgJDQNNZ-cMfXcsXK.html"
+description: "7/7/2018, Pico Iyer and Furyu Schroeder dharma talk at Tassajara."
 ---
 07/07/2018
 

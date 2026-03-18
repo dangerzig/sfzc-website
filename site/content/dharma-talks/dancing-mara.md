@@ -1,11 +1,13 @@
 ---
 title: "Dancing with Mara"
-speaker: ""
+speaker: "shinki-mark-lancaster"
 talk_date: "10/19/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/dancing-mara"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/vpiE1PqN-cMfXcsXK.html"
+description: "10/19/2011, Mark Lancaster dharma talk at City Center."
 ---
 10/19/2011
 

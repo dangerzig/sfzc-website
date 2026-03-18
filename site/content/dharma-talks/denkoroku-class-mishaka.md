@@ -1,11 +1,13 @@
 ---
 title: "Denkoroku Class - Mishaka"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "10/05/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/denkoroku-class-mishaka"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/If79P41Q-cMfXcsXK.html"
+description: "10/5/2011, Myogen Steve Stucky,Sojun Mel Weitsman dharma talk at Tassajara."
 ---
 10/05/2011
 

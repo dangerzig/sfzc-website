@@ -1,11 +1,13 @@
 ---
 title: "Compassionate Inquiry"
-speaker: ""
+speaker: "ango-sara-tashker"
 talk_date: "02/10/2019"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/compassionate-inquiry"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/9TrjWfcK-cMfXcsXK.html"
+description: "02/10/2019, Ango Sara Tashker, dharma talk at Green Gulch Farm."
 ---
 02/10/2019
 

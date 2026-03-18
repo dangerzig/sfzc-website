@@ -1,11 +1,13 @@
 ---
 title: "The Creative Expedient of Liberating Narrative"
-speaker: ""
+speaker: "paula-arai"
 talk_date: "11/16/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/creative-expedient-liberating-narrative-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/q8Qcipj5-cMfXcsXK.html"
+description: "11/16/2024, Paula Arai, dharma talk at City Center.This dharma talk by visiting teacher Paula Arai at Beginner’s Mind Temple explores Buddhism from a woman’s perspective, focusing on the liberating power of storytelling in sutras. Combining rigorous research and an embodied approach, Arai humanizes "
 ---
 11/16/2024
 

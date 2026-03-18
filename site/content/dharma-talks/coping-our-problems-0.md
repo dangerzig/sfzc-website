@@ -1,11 +1,13 @@
 ---
 title: "Coping With Our Problems"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "06/11/2023"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/coping-our-problems-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/PXFdoKRa-cMfXcsXK.html"
+description: "06/11/2023, Jiryu Rutschman-Byler, dharma talk at Green Gulch Farm.Jiryu shares teachings on continuously welcoming our problems as our practice, by exploring Suzuki Roshi’s comment that “if your everyday life is not based on this kind of spirit of repeating it forever, you cannot cope with the prob"
 ---
 06/11/2023
 

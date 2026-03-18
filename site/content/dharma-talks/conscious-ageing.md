@@ -1,11 +1,13 @@
 ---
 title: "Conscious Ageing"
-speaker: ""
+speaker: "zesho-susan-oconnell"
 talk_date: "12/30/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/conscious-ageing"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/2RyGUuRo-cMfXcsXK.html"
+description: "12/30/2018, Zesho Susan O'Connell, dharma talk at Green Gulch Farm."
 ---
 12/30/2018
 

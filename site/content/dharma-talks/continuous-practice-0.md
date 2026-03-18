@@ -1,11 +1,13 @@
 ---
 title: "Continuous Practice"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "01/24/2015"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/continuous-practice-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/ziAkG4Qp-cMfXcsXK.html"
+description: "1/24/2015, Ryushin Paul Haller dharma talk at City Center."
 ---
 01/24/2015
 

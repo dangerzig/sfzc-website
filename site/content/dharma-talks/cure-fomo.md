@@ -1,11 +1,13 @@
 ---
 title: "A Cure for F.O.M.O."
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "06/06/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/cure-fomo"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/5BIVNslH-cMfXcsXK.html"
+description: "6/6/2015, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 06/06/2015
 

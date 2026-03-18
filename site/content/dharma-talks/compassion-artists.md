@@ -1,11 +1,13 @@
 ---
 title: "Compassion Artists"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "08/10/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/compassion-artists"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/ULohszNV-cMfXcsXK.html"
+description: "8/10/2011, Tenshin Reb Anderson dharma talk at Tassajara."
 ---
 08/10/2011
 

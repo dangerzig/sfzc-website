@@ -1,11 +1,13 @@
 ---
 title: "Confidence"
-speaker: ""
+speaker: "marc-lesser"
 talk_date: "05/28/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/confidence"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/2yplUiur-cMfXcsXK.html"
+description: "5/28/2011, Marc Lesser dharma talk at City Center."
 ---
 05/28/2011
 

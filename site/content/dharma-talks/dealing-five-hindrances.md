@@ -1,11 +1,13 @@
 ---
 title: "Dealing with the Five Hindrances"
-speaker: ""
+speaker: "zoketsu-norman-fischer"
 talk_date: "04/28/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/dealing-five-hindrances"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/yeCCEhbD-cMfXcsXK.html"
+description: "4/28/2012, Zoketsu Norman Fischer dharma talk at City Center."
 ---
 04/28/2012
 

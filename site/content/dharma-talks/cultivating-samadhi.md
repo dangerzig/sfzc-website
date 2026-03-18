@@ -1,11 +1,13 @@
 ---
 title: "Cultivating Samadhi"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "03/03/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/cultivating-samadhi"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/ZqoTa3P4-cMfXcsXK.html"
+description: "3/3/2010, Ryushin Paul Haller dharma talk at City Center."
 ---
 03/03/2010
 

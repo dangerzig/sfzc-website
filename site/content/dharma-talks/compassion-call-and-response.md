@@ -1,11 +1,13 @@
 ---
 title: "Compassion Call and Response"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "08/18/2013"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/compassion-call-and-response"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/jlIsxjDb-cMfXcsXK.html"
+description: "8/18/2013, Eijun Linda Ruth Cutts dharma talk at Green Gulch Farm."
 ---
 08/18/2013
 

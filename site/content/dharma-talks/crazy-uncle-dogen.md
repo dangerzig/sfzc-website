@@ -1,11 +1,13 @@
 ---
 title: "Crazy Uncle Dogen"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "06/12/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/crazy-uncle-dogen"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/koQrDI8h-cMfXcsXK.html"
+description: "6/12/2013, Leslie James dharma talk at Tassajara."
 ---
 06/12/2013
 

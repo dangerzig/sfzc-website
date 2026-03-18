@@ -1,11 +1,13 @@
 ---
 title: "The Courage to Continue"
-speaker: ""
+speaker: "zenju-earthlyn-manuel-osho"
 talk_date: "02/06/2016"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/courage-continue"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/38cLwxuH-cMfXcsXK.html"
+description: "2/6/2016, Zenju Earthlyn Manuel dharma talk at City Center."
 ---
 02/06/2016
 

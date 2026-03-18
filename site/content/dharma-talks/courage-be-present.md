@@ -1,11 +1,13 @@
 ---
 title: "The Courage To Be Present"
-speaker: ""
+speaker: "jisan-tova-green"
 talk_date: "02/24/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/courage-be-present"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/eDDemH2n-cMfXcsXK.html"
+description: "2/24/2018, Jisan Tova Green dharma talk at City Center."
 ---
 02/24/2018
 

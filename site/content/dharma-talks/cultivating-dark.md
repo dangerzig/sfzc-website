@@ -1,11 +1,13 @@
 ---
 title: "Cultivating the Dark"
-speaker: ""
+speaker: "ango-sara-tashker"
 talk_date: "12/17/2017"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/cultivating-dark"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/SNqYmFls-cMfXcsXK.html"
+description: "12/17/2017, Sara Tashker dharma talk at Green Gulch Farm."
 ---
 12/17/2017
 

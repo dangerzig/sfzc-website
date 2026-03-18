@@ -1,11 +1,13 @@
 ---
 title: "Creating Sanctuary in our Everyday Activity"
-speaker: ""
+speaker: "thiemo-blank"
 talk_date: "12/20/2020"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/creating-sanctuary-our-everyday-activity-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/muqkPJy2-cMfXcsXK.html"
+description: "Reflections on how our everday activity can \"build the sanctuary\" that the koan speaks of (Case 4, Book of Serenity).12/20/2020 Thiemo Blank, dharma talk at Green Gulch Farm."
 ---
 12/20/2020
 

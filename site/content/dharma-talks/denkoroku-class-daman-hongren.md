@@ -1,11 +1,13 @@
 ---
 title: "Denkoroku Class - Daman Hongren"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "11/08/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/denkoroku-class-daman-hongren"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/rkGE789r-cMfXcsXK.html"
+description: "11/8/2011, Sojun Mel Weitsman dharma talk at Tassajara."
 ---
 11/08/2011
 
