@@ -1,11 +1,13 @@
 ---
 title: "Finding and Being Refuge"
-speaker: ""
+speaker: "shoho-kuebast"
 talk_date: "03/31/2024"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/finding-and-being-refuge-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/8Ip0mer3-cMfXcsXK.html"
+description: "03/31/2024, Shoho Kuebast, dharma talk at Green Gulch Farm.In this talk, Shoho Kuebast is reflecting on how taking refuge can be taken as a daily practice. It seems to go hand in hand with the understanding of all things as impermanent and that of our unchanging, ever-loving Buddha Nature. Since Dog"
 ---
 03/31/2024
 

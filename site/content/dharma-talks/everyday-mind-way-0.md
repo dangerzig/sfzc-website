@@ -1,11 +1,13 @@
 ---
 title: "Everyday Mind Is The Way"
-speaker: ""
+speaker: "zoketsu-norman-fischer"
 talk_date: "04/28/2024"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/everyday-mind-way-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/MYEquIX6-cMfXcsXK.html"
+description: "04/28/2024, Zoketsu Norman Fischer, dharma talk at Green Gulch Farm.In this talk Zoketsu discusses case 19 of Mumonkan, Nanchuan’s Everyday Mind. Our practice is very plain and ordinary, and yet, the plain and ordinary world is also vast and wide, and when we practice zazen regularly we can begin to"
 ---
 04/28/2024
 

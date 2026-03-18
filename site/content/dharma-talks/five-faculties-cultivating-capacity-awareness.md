@@ -1,11 +1,13 @@
 ---
 title: "The Five Faculties - Cultivating the Capacity for Awareness"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/10/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/five-faculties-cultivating-capacity-awareness"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/301O50IV-cMfXcsXK.html"
+description: "2/10/2010, Ryushin Paul Haller dharma talk at City Center."
 ---
 02/10/2010
 

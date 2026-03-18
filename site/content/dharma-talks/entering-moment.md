@@ -1,11 +1,13 @@
 ---
 title: "Entering the Moment"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "10/05/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/entering-moment"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/nL7ZwUFb-cMfXcsXK.html"
+description: "10/5/2011, Ryushin Paul Haller dharma talk at City Center."
 ---
 10/05/2011
 

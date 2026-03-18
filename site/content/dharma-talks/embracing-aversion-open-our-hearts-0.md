@@ -1,11 +1,13 @@
 ---
 title: "Embracing Aversion to Open Our Hearts"
-speaker: ""
+speaker: "heather-shoren-iarusso"
 talk_date: "04/26/2023"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/embracing-aversion-open-our-hearts-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/nrQMH8hJ-cMfXcsXK.html"
+description: "04/26/2023, Heather Shoren Iarusso, dharma talk at City Center.Heather Shoren Iarusso, in this talk from Beginner's Mind Temple, examines aversion, one of the mental afflictions the Buddha calls The Five Hindrances, which hinder our ability to experience calm and insight on and off the meditation cu"
 ---
 04/26/2023
 

@@ -1,11 +1,13 @@
 ---
 title: "A Final Polishing of the Tile"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "12/13/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/final-polishing-tile"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/xg4kwnr6-cMfXcsXK.html"
+description: "12/13/2010, Tenshin Reb Anderson dharma talk at Tassajara."
 ---
 12/13/2010
 

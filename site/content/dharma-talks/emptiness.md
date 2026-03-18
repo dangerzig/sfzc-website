@@ -1,11 +1,13 @@
 ---
 title: "Emptiness"
-speaker: ""
+speaker: "kyoshin-wendy-lewis"
 talk_date: "09/22/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/emptiness"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/ZstuuJ9S-cMfXcsXK.html"
+description: "9/22/2014, Kyoshin Wendy Lewis dharma talk at Tassajara."
 ---
 09/22/2014
 

@@ -1,11 +1,13 @@
 ---
 title: "Entering The Blue Dragon’s Cave"
-speaker: ""
+speaker: "abbot-tenzen-david-zimmerman"
 talk_date: "10/26/2022"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/entering-blue-dragons-cave"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/5aMYedDi-cMfXcsXK.html"
+description: "10/26/2022, Tenzen David Zimmerman, dharma talk at City Center. As part of the exploration of koans from the Blue Cliff Record, Abbot David unpacks Case 3, “Master Ma is Unwell”. In the midst of life’s vicissitudes ─ whether we're encountering health or sickness, joy or sorrow, birth or death ─ how "
 ---
 10/26/2022
 

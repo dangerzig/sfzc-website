@@ -1,11 +1,13 @@
 ---
 title: "Everything Leans"
-speaker: ""
+speaker: "teah-strozer"
 talk_date: "03/09/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/everything-leans"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/K0X72SuD-cMfXcsXK.html"
+description: "In this talk, given at Beginner's Mind Temple, Teah Strozer reminds us everyone is enough — you, yourself, are perfect just as you are, even if, as Shunryu Suzuki Roshi said, we can also ‘use a little improvement.' In the talk, Teah shares stories about dependent arising and its relevance for today."
 ---
 03/09/2024
 

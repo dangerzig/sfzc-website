@@ -1,11 +1,13 @@
 ---
 title: "The Five Gifts"
-speaker: ""
+speaker: "zenju-earthlyn-manuel-osho"
 talk_date: "05/15/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/five-gifts"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/HglHvDaq-cMfXcsXK.html"
+description: "5/15/2014, Zenju Earthlyn Manuel dharma talk at Tassajara."
 ---
 05/15/2014
 

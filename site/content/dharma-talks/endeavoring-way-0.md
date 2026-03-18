@@ -1,11 +1,13 @@
 ---
 title: "Endeavoring on the Way"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "03/01/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/endeavoring-way-0"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/ZJr5NXkC-cMfXcsXK.html"
+description: "3/1/2011, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 03/01/2011
 

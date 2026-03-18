@@ -1,11 +1,13 @@
 ---
 title: "The First Thing You Do When You Wake Up"
-speaker: ""
+speaker: "zenju-earthlyn-manuel-osho"
 talk_date: "02/19/2014"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/first-thing-you-do-when-you-wake"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/qdNKOU1b-cMfXcsXK.html"
+description: "2/19/2014, Zenju Earthlyn Manuel dharma talk at City Center."
 ---
 02/19/2014
 

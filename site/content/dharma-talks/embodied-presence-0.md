@@ -1,11 +1,13 @@
 ---
 title: "Embodied Presence"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "04/14/2024"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/embodied-presence-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/kOyoYtXt-cMfXcsXK.html"
+description: "04/14/2024, Jiryu Rutschman-Byler, dharma talk at Green Gulch Farm.In this talk, Jiryu suggests that by reflecting on the potential of Artificial Intelligence in Buddhism, in the form, for example, of the Suzuki Roshi chatbot, we can be led to renew our commitment to embodied presence, which is the "
 ---
 04/14/2024
 

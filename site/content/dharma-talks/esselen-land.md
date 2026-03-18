@@ -1,11 +1,13 @@
 ---
 title: "This is Esselen Land"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "05/11/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/esselen-land"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/nBouCViG-cMfXcsXK.html"
+description: "05/11/2019, Zenshin Greg Fain, dharma talk at Tassajara."
 ---
 05/11/2019
 

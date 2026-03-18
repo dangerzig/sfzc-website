@@ -1,11 +1,13 @@
 ---
 title: "Famous"
-speaker: ""
+speaker: "shokan-jordan-thorn"
 talk_date: "03/06/2011"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/famous"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/xekEsMH8-cMfXcsXK.html"
+description: "3/6/2011, Shokan Jordan Thorn dharma talk at Green Gulch Farm."
 ---
 03/06/2011
 

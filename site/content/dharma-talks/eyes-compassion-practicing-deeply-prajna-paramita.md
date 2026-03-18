@@ -1,11 +1,13 @@
 ---
 title: "Eyes of Compassion Practicing Deeply Prajna Paramita"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "03/11/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/eyes-compassion-practicing-deeply-prajna-paramita"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/MXvY4JnH-cMfXcsXK.html"
+description: "3/11/2018, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 03/11/2018
 

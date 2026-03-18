@@ -1,11 +1,13 @@
 ---
 title: "El Camino Tassajara (Kanzeon Llega en Puro Spanglish)"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "11/01/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/el-camino-tassajara-kanzeon-llega-en-puro-spanglish"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/QGixUOHz-cMfXcsXK.html"
+description: "11/1/2018, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 11/01/2018
 

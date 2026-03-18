@@ -1,11 +1,13 @@
 ---
 title: "Expanding Into the Completeness of Our Self"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "08/24/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/expanding-completeness-our-self"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/Hs1AEI98-cMfXcsXK.html"
+description: "8/24/2014, Leslie James dharma talk at Tassajara."
 ---
 08/24/2014
 

@@ -1,11 +1,13 @@
 ---
 title: "Eyes of Compassion"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "03/22/2009"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/eyes-compassion"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/o1LKiKq8-cMfXcsXK.html"
+description: "3/22/2009, Eijun Linda Ruth Cutts dharma talk at Green Gulch Farm."
 ---
 03/22/2009
 

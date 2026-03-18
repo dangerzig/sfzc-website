@@ -1,11 +1,13 @@
 ---
 title: "Fearlessness, Love and Bodhisattva Vow"
-speaker: ""
+speaker: "dojin-sarah-emerson"
 talk_date: "06/23/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/fearlessness-love-and-bodhisattva-vow"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/kp7myNaW-cMfXcsXK.html"
+description: "6/23/2018, Dojin Sarah Emerson dharma talk at Tassajara."
 ---
 06/23/2018
 

@@ -1,11 +1,13 @@
 ---
 title: "Father's Day Dharma Stories"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "06/16/2019"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/fathers-day-dharma-stories"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/HwDCPho8-cMfXcsXK.html"
+description: "06/16/2019, Tenshin Reb Anderson, dharma talk at Green Gulch Farm."
 ---
 06/16/2019
 

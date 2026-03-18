@@ -1,11 +1,13 @@
 ---
 title: "Faith in Practice: Commentary on the Eihei Koso Hotsuganmon"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "11/15/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/faith-practice-commentary-eihei-koso-hotsuganmon"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/XPw9xzKN-cMfXcsXK.html"
+description: "11/15/2011, Sojun Mel Weitsman dharma talk at Tassajara."
 ---
 11/15/2011
 

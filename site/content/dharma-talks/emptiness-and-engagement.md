@@ -1,11 +1,13 @@
 ---
 title: "Emptiness and Engagement"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "12/04/2016"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/emptiness-and-engagement"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/Yqs1ELQq-cMfXcsXK.html"
+description: "12/4/2016, Jiryu Rutschman dharma talk at Green Gulch Farm."
 ---
 12/04/2016
 

@@ -1,11 +1,13 @@
 ---
 title: "Entering the Ocean of Reality"
-speaker: ""
+speaker: "bernd-bender"
 talk_date: "04/27/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/entering-ocean-reality"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/zfDRZV5c-cMfXcsXK.html"
+description: "4/27/2011, Bernd Bender dharma talk at City Center."
 ---
 04/27/2011
 

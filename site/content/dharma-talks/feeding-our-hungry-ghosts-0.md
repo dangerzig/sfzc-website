@@ -1,11 +1,13 @@
 ---
 title: "Feeding Our Hungry Ghosts"
-speaker: ""
-talk_date: "October 30, 2024"
-centers:
-  - "City Center"
+speaker: "jisan-tova-green"
+talk_date: "10/30/2024"
 aliases:
   - "/teachings/dharma-talks/feeding-our-hungry-ghosts-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/QWNdFt6K-cMfXcsXK.html"
+description: "10/30/2024, Jisan Tova Green, dharma talk at City Center.In this talk, given at Beginner's Mind Temple, Jisan Tova Green describes the Sejiki Ceremony, in which hungry ghosts are cajoled and offered food, including the sweet dew of the Dharma. She likens this to the experience many of us have when w"
 ---
 10/30/2024
 

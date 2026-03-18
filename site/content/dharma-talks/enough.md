@@ -1,11 +1,13 @@
 ---
 title: "Is This Enough?"
-speaker: ""
+speaker: "sarah-weintraub"
 talk_date: "07/07/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/enough"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/2u1VmCsq-cMfXcsXK.html"
+description: "7/7/2010, Sarah Weintraub dharma talk at Green Gulch Farm."
 ---
 07/07/2010
 

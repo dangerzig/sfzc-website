@@ -1,11 +1,13 @@
 ---
 title: "Fear and Courage"
-speaker: ""
+speaker: "bert-dyer"
 talk_date: "11/21/2013"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/fear-and-courage"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/ZdFnzV6g-cMfXcsXK.html"
+description: "11/21/2013, Bert Dyer dharma talk at Green Gulch Farm."
 ---
 11/21/2013
 

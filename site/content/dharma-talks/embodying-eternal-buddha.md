@@ -1,11 +1,13 @@
 ---
 title: "Embodying the Eternal Buddha"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "09/29/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/embodying-eternal-buddha"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/fWw0mhQt-cMfXcsXK.html"
+description: "9/29/2008, Eijin Eijun Linda Ruth Cutts dharma talk at Green Gulch Farm."
 ---
 09/29/2008
 

@@ -1,11 +1,13 @@
 ---
 title: "Embracing Zen with Change"
-speaker: ""
+speaker: "so-eli-brown-stevenson"
 talk_date: "02/07/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/embracing-zen-change"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/T7StSr7M-cMfXcsXK.html"
+description: "In this talk, given at Beginner's Mind Temple, Rev. Eli explores how Zen practice, particularly the precepts, can be supportive when going through major life change—especially when dealing with loss of identity, decision making, and working with an inner critic. Through personal anecdotes and philos"
 ---
 02/07/2024
 

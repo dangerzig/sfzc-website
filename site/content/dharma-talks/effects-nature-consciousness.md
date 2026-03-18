@@ -1,11 +1,13 @@
 ---
 title: "The Effects of Nature on Consciousness"
-speaker: ""
+speaker: "zenju-earthlyn-manuel-osho"
 talk_date: "02/25/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/effects-nature-consciousness"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/jS6BmESS-cMfXcsXK.html"
+description: "2/25/2018, Zenju Earthlyn Manuel dharma talk at Green Gulch Farm."
 ---
 02/25/2018
 

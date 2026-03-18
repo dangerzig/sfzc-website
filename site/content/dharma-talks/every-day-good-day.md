@@ -1,11 +1,13 @@
 ---
 title: "Every Day Is a Good Day"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "03/24/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/every-day-good-day"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/vjIoV4eK-cMfXcsXK.html"
+description: "3/24/2011, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 03/24/2011
 

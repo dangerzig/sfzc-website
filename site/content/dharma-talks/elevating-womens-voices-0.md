@@ -1,11 +1,13 @@
 ---
 title: "Elevating Women's Voices"
-speaker: ""
+speaker: "jisan-tova-green"
 talk_date: "04/10/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/elevating-womens-voices-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/Ws0VF7iJ-cMfXcsXK.html"
+description: "04/10/2024, Jisan Tova Green, dharma talk at City Center.In this talk, given at Beginner's Mind Temple, Jisan Tova Green speaks of her recent visit to Montana de Silencio, a Suzuki Roshi lineage Zen Center in Medellin, Colombia, where the late Blanche Hartman's name is mentioned daily as \"our first"
 ---
 04/10/2024
 

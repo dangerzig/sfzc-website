@@ -1,11 +1,13 @@
 ---
 title: "Falling Down and Getting Up"
-speaker: ""
+speaker: "dairyu-michael-wenger"
 talk_date: "06/22/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/falling-down-and-getting-0"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/Ir4t6RBc-cMfXcsXK.html"
+description: "6/22/2010, Michael Wenger dharma talk at Tassajara."
 ---
 06/22/2010
 

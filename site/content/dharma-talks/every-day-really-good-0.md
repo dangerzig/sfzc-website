@@ -1,11 +1,13 @@
 ---
 title: "Is Every Day REALLY Good?"
-speaker: ""
+speaker: "anshi-zachary-smith"
 talk_date: "01/10/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/every-day-really-good-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/fu7MPA7I-cMfXcsXK.html"
+description: "01/10/2024, Anshi Zachary Smith, dharma talk at City Center.In this talk, from Beginner's Mind Temple, Zachary discusses an often-used koan (teaching story): Yúnmén’s “Every day is a good day.” Zen, a Mahayana Buddhist school that theoretically eschews lists, dualities, categories of experience and "
 ---
 01/10/2024
 

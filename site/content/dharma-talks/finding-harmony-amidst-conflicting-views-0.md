@@ -1,11 +1,13 @@
 ---
 title: "Finding Harmony Amidst Conflicting Views"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "04/11/2021"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/finding-harmony-amidst-conflicting-views-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/l4FIPC3O-cMfXcsXK.html"
+description: "Tenshin Roshi teaches on finding peace and harmony in the midst of deeply conflicting views.04/11/2021, Tenshin Reb Anderson, dharma talk at Green Gulch Farm."
 ---
 04/11/2021
 
