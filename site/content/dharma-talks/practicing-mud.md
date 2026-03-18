@@ -1,11 +1,13 @@
 ---
 title: "Practicing in the Mud"
-speaker: ""
+speaker: "zesho-susan-oconnell"
 talk_date: "09/04/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/practicing-mud"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/0NRhzXIp-cMfXcsXK.html"
+description: "9/4/2010, Zesho Susan O'Connell dharma talk at City Center."
 ---
 09/04/2010
 

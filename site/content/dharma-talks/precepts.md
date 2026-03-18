@@ -1,11 +1,13 @@
 ---
 title: "The Precepts"
-speaker: ""
+speaker: "keiryu-lien-shutt"
 talk_date: "09/19/2015"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/precepts"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/ZoVYMhSD-cMfXcsXK.html"
+description: "9/19/2015, Keiryu Lien Shutt, dharma talk at City Center."
 ---
 09/19/2015
 

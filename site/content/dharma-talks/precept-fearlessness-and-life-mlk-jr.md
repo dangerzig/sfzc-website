@@ -1,11 +1,13 @@
 ---
 title: "The Precept of Fearlessness and the Life of MLK, Jr."
-speaker: ""
+speaker: "sozan-michael-mccord"
 talk_date: "01/18/2023"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/precept-fearlessness-and-life-mlk-jr"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/bGeLQhg3-cMfXcsXK.html"
+description: "01/18/2023, Sozan Michael McCord, dharma talk at City Center. Living life like we have infinite social capital, like a generous benefactor to all those around us, allows a great freedom of spirit. When we realize that promoting and worrying about the self is a small minded path that leads to sufferi"
 ---
 01/18/2023
 

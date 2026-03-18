@@ -1,11 +1,13 @@
 ---
 title: "Pratityasamutpada"
-speaker: ""
+speaker: "dario-girolami"
 talk_date: "07/17/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/pratityasamutpada"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/GtRcb6Ra-cMfXcsXK.html"
+description: "7/17/2014, Dario Girolami dharma talk at Tassajara."
 ---
 07/17/2014
 

@@ -1,11 +1,13 @@
 ---
 title: "The Quarrel at Kosambi"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "11/11/2012"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/quarrel-kosambi"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/1lF81AuK-cMfXcsXK.html"
+description: "11/11/2012, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 11/11/2012
 

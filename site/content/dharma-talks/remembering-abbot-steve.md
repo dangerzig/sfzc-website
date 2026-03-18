@@ -1,11 +1,13 @@
 ---
 title: "Remembering Abbot Steve"
-speaker: ""
+speaker: "onryu-mary-stares"
 talk_date: "02/05/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/remembering-abbot-steve"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/RA1lJnJm-cMfXcsXK.html"
+description: "2/5/2015, Onryu Mary Stares dharma talk at Tassajara."
 ---
 02/05/2015
 

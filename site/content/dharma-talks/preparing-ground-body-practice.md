@@ -1,11 +1,13 @@
 ---
 title: "Preparing the Ground of Body Practice"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "01/25/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/preparing-ground-body-practice"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/GURwdVMZ-cMfXcsXK.html"
+description: "1/25/2012, Shosan Victoria Austin dharma talk at City Center."
 ---
 01/25/2012
 

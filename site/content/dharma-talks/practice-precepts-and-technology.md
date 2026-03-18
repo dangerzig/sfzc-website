@@ -1,11 +1,13 @@
 ---
 title: "Practice, Precepts, and Technology"
-speaker: ""
+speaker: "do-robert-thomas"
 talk_date: "01/31/2015"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/practice-precepts-and-technology"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/m7ZGpJG0-cMfXcsXK.html"
+description: "1/31/2015, Do-on Robert Thomas, dharma talk at City Center."
 ---
 01/31/2015
 

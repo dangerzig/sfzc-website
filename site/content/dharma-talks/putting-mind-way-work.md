@@ -1,11 +1,13 @@
 ---
 title: "Putting the Mind of the Way to Work"
-speaker: ""
+speaker: "zesho-susan-oconnell"
 talk_date: "04/25/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/putting-mind-way-work"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/jI28R8Ig-cMfXcsXK.html"
+description: "4/25/2012, Zesho Susan O'Connell dharma talk at City Center."
 ---
 04/25/2012
 

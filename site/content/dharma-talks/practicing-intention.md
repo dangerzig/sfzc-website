@@ -1,11 +1,13 @@
 ---
 title: "Practicing with Intention"
-speaker: ""
+speaker: "dr-liping-zhu-daom-lac"
 talk_date: "07/31/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/practicing-intention"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/HWD4Aosa-cMfXcsXK.html"
+description: "7/31/2010, Liping Zhu dharma talk at City Center."
 ---
 07/31/2010
 

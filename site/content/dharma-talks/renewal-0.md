@@ -1,11 +1,13 @@
 ---
 title: "Renewal"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "01/04/2025"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/renewal-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/PIl0Apdz-cMfXcsXK.html"
+description: "01/04/2025, Shosan Victoria Austin, dharma talk at City Center.Shosan Victoria Austin asks: How does Zen training help us find a sense of refreshment in ordinary, simple activities?"
 ---
 01/04/2025
 

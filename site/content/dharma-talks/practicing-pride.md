@@ -1,11 +1,13 @@
 ---
 title: "Practicing with Pride"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "06/29/2014"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/practicing-pride"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/I39ozBzs-cMfXcsXK.html"
+description: "6/29/2014, Eijun Linda Ruth Cutts dharma talk at Green Gulch Farm."
 ---
 06/29/2014
 

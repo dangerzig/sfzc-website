@@ -1,11 +1,13 @@
 ---
 title: "The Pure Land Of Sesshin"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/27/2020"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/pure-land-sesshin"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/t5CcLRMB-cMfXcsXK.html"
+description: "02/27/2020, Ryushin Paul Haller, dharma talk at Tassajara."
 ---
 02/27/2020
 

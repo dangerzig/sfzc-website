@@ -1,11 +1,13 @@
 ---
 title: "Remembering Suzuki Roshi Q&A"
-speaker: ""
+speaker: "sojun-mel-weitsman"
 talk_date: "05/24/2009"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/remembering-suzuki-roshi-qa"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/jtAUZnsL-cMfXcsXK.html"
+description: "5/24/2009, Sojun Mel Weitsman, Lew Richmond, and Yvonne Rand question-and-answer post-dharma-talk at Green Gulch Farm."
 ---
 05/24/2009
 

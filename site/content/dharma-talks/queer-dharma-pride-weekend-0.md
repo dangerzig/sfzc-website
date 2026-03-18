@@ -1,11 +1,13 @@
 ---
 title: "Queer Dharma for Pride Weekend"
-speaker: "jerry-falwell"
+speaker: "wakoh-shannon-hickey"
 talk_date: "06/24/2023"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/queer-dharma-pride-weekend-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/gErSAEqc-cMfXcsXK.html"
+description: "Rev. Dr. Wakoh Shannon Hickey, BCC, in this dharma talk from Beginner’s Mind Temple, describes a 1984 encounter with Jerry Falwell and the Moral Majority that provoked a crisis leading her to come out as lesbian, to enter the path of Zen, and to study the question of how to assert one’s dignity and "
 ---
 06/24/2023
 

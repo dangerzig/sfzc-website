@@ -1,11 +1,13 @@
 ---
 title: "The Real Legacy of Hakuin's Rinzai Zen"
-speaker: ""
+speaker: "rev-dr-masaki-matsubara"
 talk_date: "10/20/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/real-legacy-hakuins-rinzai-zen"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/yRBeCP8W-cMfXcsXK.html"
+description: "10/20/2018, Masaki Matsubara dharma talk at City Center."
 ---
 10/20/2018
 

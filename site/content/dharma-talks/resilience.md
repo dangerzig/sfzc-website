@@ -1,11 +1,13 @@
 ---
 title: "Resilience"
-speaker: ""
+speaker: "marc-lesser"
 talk_date: "03/27/2016"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/resilience"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/QlvQKYyn-cMfXcsXK.html"
+description: "3/27/2016, Marc Lesser, dharma talk at Green Gulch Farm."
 ---
 03/27/2016
 

@@ -1,11 +1,13 @@
 ---
 title: "Rethinking, 'Sudden Enlightenment'"
-speaker: ""
+speaker: "sokaku-kathie-fischer"
 talk_date: "02/02/2020"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/rethinking-sudden-enlightenment"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/yHxRvrey-cMfXcsXK.html"
+description: "02/02/2020, Kathie Fischer, dharma talk at Green Gulch Farm."
 ---
 02/02/2020
 

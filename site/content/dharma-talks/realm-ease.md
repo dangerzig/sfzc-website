@@ -1,11 +1,13 @@
 ---
 title: "The Realm of Ease"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "04/27/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/realm-ease"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/wLdPBhVw-cMfXcsXK.html"
+description: "4/27/2012, Leslie James dharma talk at Tassajara."
 ---
 04/27/2012
 

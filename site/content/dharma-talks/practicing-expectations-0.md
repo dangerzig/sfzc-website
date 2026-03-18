@@ -1,11 +1,13 @@
 ---
 title: "Practicing With Expectations"
-speaker: ""
+speaker: "so-eli-brown-stevenson"
 talk_date: "05/08/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/practicing-expectations-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/wX9TDW9i-cMfXcsXK.html"
+description: "05/08/2024, Eli Brown-Stevenson, dharma talk at City Center.In this talk, given at Beginner's Mind Temple, Eli Brown-Stevenson describes how to find practical application of Buddhist teachings by bringing inquiry and curiosity to the expectations we hold in formal practice as well as the practice of"
 ---
 05/08/2024
 

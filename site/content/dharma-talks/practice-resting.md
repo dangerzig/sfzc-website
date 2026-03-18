@@ -1,11 +1,13 @@
 ---
 title: "The Practice of Resting"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "04/27/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/practice-resting"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/CkqCH4nW-cMfXcsXK.html"
+description: "4/27/2013, Kiku Christina Lehnherr dharma talk at Tassajara."
 ---
 04/27/2013
 

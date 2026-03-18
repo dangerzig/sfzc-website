@@ -1,11 +1,13 @@
 ---
 title: "The Precept of Cherishing Life"
-speaker: ""
+speaker: "sozan-michael-mccord"
 talk_date: "09/16/2023"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/precept-cherishing-life-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/IQcRQXlM-cMfXcsXK.html"
+description: "09/16/2023, Sozan Michael McCord, dharma talk at City Center.In this talk from Beginner's Mind Temple, Sozan Michael McCord explores how each of the precepts come with an intention of living so as to avoid ending up in a place to potentially break the precept.  The vow to not kill has an intention t"
 ---
 09/16/2023
 

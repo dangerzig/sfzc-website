@@ -1,11 +1,13 @@
 ---
 title: "Rediscovering The Mind and Body"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/25/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/rediscovering-mind-and-body"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/ApVuAbqX-cMfXcsXK.html"
+description: "2/25/2018, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 02/25/2018
 

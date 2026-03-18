@@ -1,11 +1,13 @@
 ---
 title: "Remembering Ani Trime Lhamo"
-speaker: ""
+speaker: "onryu-mary-stares"
 talk_date: "06/29/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/remembering-ani-trime-lhamo"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/jaPLUMFV-cMfXcsXK.html"
+description: "06/29/2019, Onryu Mary Stares, dharma talk at City Center."
 ---
 06/29/2019
 

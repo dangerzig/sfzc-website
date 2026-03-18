@@ -1,11 +1,13 @@
 ---
 title: "Renunciation and All-Inclusion - Kanno-Doko"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/23/2020"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/renunciation-and-all-inclusion-kanno-doko"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/mEgxSMRg-cMfXcsXK.html"
+description: "02/23/2020, Ryushin Paul Haller, dharma talk at Tassajara."
 ---
 02/23/2020
 

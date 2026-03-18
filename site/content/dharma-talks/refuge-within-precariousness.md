@@ -1,11 +1,13 @@
 ---
 title: "Refuge Within Precariousness"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "08/13/2017"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/refuge-within-precariousness"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/8X0JGlXi-cMfXcsXK.html"
+description: "8/13/2017, Jiryu Rutschman dharma talk at Green Gulch Farm."
 ---
 08/13/2017
 

@@ -1,11 +1,13 @@
 ---
 title: "Praise and Blame"
-speaker: ""
+speaker: "dairyu-michael-wenger"
 talk_date: "12/13/2008"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/praise-and-blame"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/sSclbS5d-cMfXcsXK.html"
+description: "12/13/2008, Michael Wenger dharma talk at City Center."
 ---
 12/13/2008
 

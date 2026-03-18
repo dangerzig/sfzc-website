@@ -1,11 +1,13 @@
 ---
 title: "Resting: A Spiritual Practice"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "04/20/2024"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/resting-spiritual-practice"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/M2DDO6Jn-cMfXcsXK.html"
+description: "In this talk, given at Beginner's Mind Temple, Kiku Christina Lehnherr discusses the dharma implications and importance of rest. By being with and clearly seeing the true nature of our bodies and experience, we can allow the fundamental calm of the world to show us what true rest is. Modern culture "
 ---
 04/20/2024
 
