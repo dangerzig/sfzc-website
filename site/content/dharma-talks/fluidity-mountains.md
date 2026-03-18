@@ -1,11 +1,13 @@
 ---
 title: "Fluidity of Mountains"
-speaker: ""
+speaker: "jokai-carolyn-cavanagh"
 talk_date: "06/03/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/fluidity-mountains"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/m4fHAV9q-cMfXcsXK.html"
+description: "6/3/2017, Carolyn Cavanagh dharma talk at Tassajara."
 ---
 06/03/2017
 

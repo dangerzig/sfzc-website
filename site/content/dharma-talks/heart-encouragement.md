@@ -1,11 +1,13 @@
 ---
 title: "The Heart of Encouragement"
-speaker: ""
+speaker: "chosetsu-lauren-bouyea"
 talk_date: "11/07/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/heart-encouragement"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/nwrJfQst-cMfXcsXK.html"
+description: "11/7/2018, Cho Setsu Lauren Bouyea dharma talk at Tassajara."
 ---
 11/07/2018
 

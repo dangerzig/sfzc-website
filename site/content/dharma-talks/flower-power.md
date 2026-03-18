@@ -1,11 +1,13 @@
 ---
 title: "Flower Power"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "05/06/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/flower-power"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/DXfqe7Fs-cMfXcsXK.html"
+description: "5/6/2017, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 05/06/2017
 

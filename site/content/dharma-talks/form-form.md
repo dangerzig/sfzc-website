@@ -1,11 +1,13 @@
 ---
 title: "Form is Form"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "10/24/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/form-form"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/ZxJTVJVI-cMfXcsXK.html"
+description: "10/24/2015, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 10/24/2015
 

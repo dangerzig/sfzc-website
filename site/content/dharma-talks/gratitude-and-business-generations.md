@@ -2,10 +2,12 @@
 title: "Gratitude and the Business of Generations"
 speaker: ""
 talk_date: "05/09/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/gratitude-and-business-generations"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/ndATUbgc-cMfXcsXK.html"
+description: "5/9/2010, Myogen Steve Stucky dharma talk at Green Gulch Farm."
 ---
 05/09/2010
 

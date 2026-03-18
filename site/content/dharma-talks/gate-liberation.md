@@ -1,11 +1,13 @@
 ---
 title: "The Gate of Liberation"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "07/31/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/gate-liberation"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/ttqccMxO-cMfXcsXK.html"
+description: "7/31/2013, Leslie James dharma talk at Tassajara."
 ---
 07/31/2013
 

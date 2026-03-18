@@ -1,11 +1,13 @@
 ---
 title: "Generosity at Work"
-speaker: ""
+speaker: "shinchi-linda-galijan"
 talk_date: "04/21/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/generosity-work"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/4Gi8gd1p-cMfXcsXK.html"
+description: "4/21/2015, Linda Galijan dharma talk at Tassajara."
 ---
 04/21/2015
 

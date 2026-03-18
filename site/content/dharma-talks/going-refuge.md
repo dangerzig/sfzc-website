@@ -1,11 +1,13 @@
 ---
 title: "Going for Refuge"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "07/31/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/going-refuge"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/n5L3YvYJ-cMfXcsXK.html"
+description: "7/31/2010, Zenshin Greg Fain dharma talk at Tassajara."
 ---
 07/31/2010
 

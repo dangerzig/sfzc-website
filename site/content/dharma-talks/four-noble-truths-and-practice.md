@@ -1,11 +1,13 @@
 ---
 title: "The Four Noble Truths and Practice"
-speaker: ""
+speaker: "shinshu-roberts"
 talk_date: "05/31/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/four-noble-truths-and-practice"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/btKqPw95-cMfXcsXK.html"
+description: "5/31/2015, Shinshu Roberts dharma talk at Tassajara."
 ---
 05/31/2015
 

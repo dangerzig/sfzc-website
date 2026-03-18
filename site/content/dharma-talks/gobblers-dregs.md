@@ -1,11 +1,13 @@
 ---
 title: "Gobblers of Dregs"
-speaker: ""
+speaker: "edward-espe-brown"
 talk_date: "08/24/2017"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/gobblers-dregs"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/hWnKyMYq-cMfXcsXK.html"
+description: "8/24/2017, Edward Espe Brown dharma talk at Tassajara."
 ---
 08/24/2017
 

@@ -1,11 +1,13 @@
 ---
 title: "Full Spectrum Practice"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "04/24/2022"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/full-spectrum-practice-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/2cckFBue-cMfXcsXK.html"
+description: "04/24/2022, Steve Weintraub, dharma talk at Green Gulch Farm.Commenting on teachings from Suzuki Roshi and Dogen Zenji, Steve Weintraub presents the Zen understanding of \"everyday mind is the way\" or \"full spectrum practice\" - the way that our practice, and realization, arise in the context of o"
 ---
 04/24/2022
 

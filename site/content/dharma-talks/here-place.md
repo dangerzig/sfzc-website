@@ -1,11 +1,13 @@
 ---
 title: "Here Is the Place"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "06/10/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/here-place"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/3WptVVkh-cMfXcsXK.html"
+description: "6/10/2015, Leslie James dharma talk at Tassajara."
 ---
 06/10/2015
 

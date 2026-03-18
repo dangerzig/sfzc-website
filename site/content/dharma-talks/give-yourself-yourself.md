@@ -1,11 +1,13 @@
 ---
 title: "Give Yourself to Yourself"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "09/07/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/give-yourself-yourself"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/rzVFxQIq-cMfXcsXK.html"
+description: "9/7/2011, Leslie James dharma talk at Tassajara."
 ---
 09/07/2011
 

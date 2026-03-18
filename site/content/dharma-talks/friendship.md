@@ -1,11 +1,13 @@
 ---
 title: "Friendship"
-speaker: ""
+speaker: "zoketsu-norman-fischer"
 talk_date: "10/25/2015"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/friendship"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/WyjUBZ5e-cMfXcsXK.html"
+description: "10/25/2015, Zoketsu Norman Fischer, dharma talk at Green Gulch Farm."
 ---
 10/25/2015
 

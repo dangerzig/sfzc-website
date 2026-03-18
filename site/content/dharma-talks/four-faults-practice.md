@@ -1,11 +1,13 @@
 ---
 title: "Four Faults of Practice"
-speaker: ""
+speaker: "hakusho-johan-ostlund"
 talk_date: "05/13/2018"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/four-faults-practice"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/2LtqjWP7-cMfXcsXK.html"
+description: "5/13/2018, Hakusho Ostlund dharma talk at Green Gulch Farm."
 ---
 05/13/2018
 

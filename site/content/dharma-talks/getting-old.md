@@ -1,11 +1,13 @@
 ---
 title: "This Is Getting Old"
-speaker: ""
+speaker: "susan-moon"
 talk_date: "06/12/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/getting-old"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/c8f00V3W-cMfXcsXK.html"
+description: "6/12/2010, Susan Moon dharma talk at City Center."
 ---
 06/12/2010
 

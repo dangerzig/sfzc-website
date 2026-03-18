@@ -1,11 +1,13 @@
 ---
 title: "Foundation Teachings"
-speaker: ""
+speaker: "rita-gross"
 talk_date: "10/13/2012"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/foundation-teachings"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/WQ62onbp-cMfXcsXK.html"
+description: "10/13/2012, Rita Gross dharma talk at City Center."
 ---
 10/13/2012
 

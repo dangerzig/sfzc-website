@@ -2,10 +2,12 @@
 title: "Grateful For What Is"
 speaker: ""
 talk_date: "11/06/2016"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/grateful-what"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/7gHXB98E-cMfXcsXK.html"
+description: "11/6/2016, Gyokujun Teishin Layla Smith Bockhorst dharma talk at Green Gulch Farm."
 ---
 11/06/2016
 

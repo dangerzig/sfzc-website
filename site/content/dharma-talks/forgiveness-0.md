@@ -1,11 +1,13 @@
 ---
 title: "Forgiveness"
-speaker: ""
+speaker: "gyo-ji-arlene-lueck"
 talk_date: "07/12/2017"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/forgiveness-0"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/LX5gzoDS-cMfXcsXK.html"
+description: "7/12/2017, Arlene Lueck dharma talk at City Center."
 ---
 07/12/2017
 

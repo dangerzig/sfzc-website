@@ -1,11 +1,13 @@
 ---
 title: "Four Stories about Zhaozhou"
-speaker: ""
+speaker: "zoketsu-norman-fischer"
 talk_date: "08/11/2012"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/four-stories-about-zhaozhou"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/b3AyABQn-cMfXcsXK.html"
+description: "8/11/2012, Zoketsu Norman Fischer dharma talk at Tassajara."
 ---
 08/11/2012
 

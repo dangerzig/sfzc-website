@@ -1,11 +1,13 @@
 ---
 title: "Freeing All Living Beings: Conversations"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "07/21/2019"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/freeing-all-living-beings-conversations"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/fWVLwLCm-cMfXcsXK.html"
+description: "07/21/2019, Tenshin Reb Anderson, dharma talk at Green Gulch Farm."
 ---
 07/21/2019
 

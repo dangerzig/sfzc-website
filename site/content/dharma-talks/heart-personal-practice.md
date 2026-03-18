@@ -1,11 +1,13 @@
 ---
 title: "The Heart of Personal Practice"
-speaker: ""
+speaker: "shinki-mark-lancaster"
 talk_date: "08/28/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/heart-personal-practice"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/MgxxeqTZ-cMfXcsXK.html"
+description: "8/28/2010, Mark Lancaster dharma talk at City Center."
 ---
 08/28/2010
 

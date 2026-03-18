@@ -1,11 +1,13 @@
 ---
 title: "Four Treasure Seals"
-speaker: ""
+speaker: "gengo-akiba"
 talk_date: "05/05/2010"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/four-treasure-seals"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/iv257S6I-cMfXcsXK.html"
+description: "5/5/2010, Gengo Akiba dharma talk at Tassajara."
 ---
 05/05/2010
 

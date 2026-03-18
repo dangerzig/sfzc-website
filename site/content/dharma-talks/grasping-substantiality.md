@@ -1,11 +1,13 @@
 ---
 title: "Grasping at Substantiality"
-speaker: ""
+speaker: "kokyo-henkel"
 talk_date: "06/06/2010"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/grasping-substantiality"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/TpMkiwyW-cMfXcsXK.html"
+description: "6/6/2010, Kokyo Henkel dharma talk at Green Gulch Farm."
 ---
 06/06/2010
 

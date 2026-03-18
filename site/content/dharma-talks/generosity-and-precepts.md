@@ -1,11 +1,13 @@
 ---
 title: "Generosity and Precepts"
-speaker: ""
+speaker: "shokuchi-deirdre-carrigan-0"
 talk_date: "08/31/2014"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/generosity-and-precepts"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/dtWK0CRF-cMfXcsXK.html"
+description: "8/31/2014, Shokuchi Carrigan dharma talk at Green Gulch Farm."
 ---
 08/31/2014
 

@@ -1,11 +1,13 @@
 ---
 title: "Hearing the Dharma"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "11/20/2011"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/hearing-dharma"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/IkkbUuCo-cMfXcsXK.html"
+description: "11/20/2011, Eijun Linda Cutts dharma talk at Green Gulch Farm."
 ---
 11/20/2011
 

@@ -1,11 +1,13 @@
 ---
 title: "Giving, Receiving and Gratitude"
-speaker: ""
+speaker: "hozan-alan-senauke"
 talk_date: "11/30/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/giving-receiving-and-gratitude"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/My0hf2Tk-cMfXcsXK.html"
+description: "11/30/2008, Hozan Alan Senauke dharma talk at Green Gulch Farm."
 ---
 11/30/2008
 

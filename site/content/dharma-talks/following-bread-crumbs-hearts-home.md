@@ -1,11 +1,13 @@
 ---
 title: "Following Bread Crumbs to the Heart's Home"
-speaker: ""
+speaker: "shinchi-linda-galijan"
 talk_date: "09/02/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/following-bread-crumbs-hearts-home"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/kZmagtjr-cMfXcsXK.html"
+description: "9/2/2015, Linda Galijan, dharma talk at Tassajara."
 ---
 09/02/2015
 
