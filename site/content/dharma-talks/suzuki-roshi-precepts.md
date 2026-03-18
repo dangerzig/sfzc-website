@@ -1,11 +1,13 @@
 ---
 title: "Suzuki Roshi on Precepts"
-speaker: ""
+speaker: "abbot-jiryu-rutschman-byler"
 talk_date: "04/17/2022"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/suzuki-roshi-precepts"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/EuN8MgHc-cMfXcsXK.html"
+description: "04/17/2022, Jiryu Rutschman-Byler, dharma talk at Green Gulch Farm. Suzuki Roshi had an unusual perspective on the practice of the Bodhisattva's ethical precepts.  He emphasized zazen mind over rule-following, and saw precepts not as a mental moral code but as encouragements to touch and act from ou"
 ---
 04/17/2022
 

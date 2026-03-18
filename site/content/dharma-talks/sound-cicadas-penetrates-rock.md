@@ -1,11 +1,13 @@
 ---
 title: "The Sound of the Cicadas Penetrates the Rock"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/13/2019"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/sound-cicadas-penetrates-rock"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/rwz04crF-cMfXcsXK.html"
+description: "02/13/2019, Ryushin Paul Haller, dharma talk at City Center."
 ---
 02/13/2019
 

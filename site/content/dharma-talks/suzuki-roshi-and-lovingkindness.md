@@ -1,11 +1,13 @@
 ---
 title: "Suzuki Roshi and Lovingkindness"
-speaker: ""
+speaker: "horin-nancy-petrin"
 talk_date: "06/27/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/suzuki-roshi-and-lovingkindness"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/VWQv5AQw-cMfXcsXK.html"
+description: "6/27/2018, Nancy Petrin dharma talk at City Center."
 ---
 06/27/2018
 

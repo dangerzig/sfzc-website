@@ -1,11 +1,13 @@
 ---
 title: "Taking A Great Leap"
-speaker: ""
+speaker: "dairyu-michael-wenger"
 talk_date: "06/29/2011"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/taking-great-leap"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/dDaNy05o-cMfXcsXK.html"
+description: "6/29/2011, Michael Wenger dharma talk at City Center."
 ---
 06/29/2011
 

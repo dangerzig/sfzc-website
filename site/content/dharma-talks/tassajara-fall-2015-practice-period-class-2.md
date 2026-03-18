@@ -1,11 +1,13 @@
 ---
 title: "Tassajara Fall 2015 Practice Period Class 2"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "10/18/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/tassajara-fall-2015-practice-period-class-2"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/ypHy0LZ4-cMfXcsXK.html"
+description: "10/18/2015, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 10/18/2015
 

@@ -1,11 +1,13 @@
 ---
 title: "The Taproot of Soto Zen, Part 3: Just This Is It"
-speaker: ""
+speaker: "zenshin-greg-fain"
 talk_date: "08/18/2021"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/taproot-soto-zen-part-3-just-it"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/xCnwQrug-cMfXcsXK.html"
+description: "08/18/2021, Zenshin Greg Fain, dharma talk at Tassajara."
 ---
 08/18/2021
 

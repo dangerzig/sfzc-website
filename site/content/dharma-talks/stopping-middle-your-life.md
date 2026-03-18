@@ -1,11 +1,13 @@
 ---
 title: "Stopping in the Middle of Your Life"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "07/10/2010"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/stopping-middle-your-life"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/pydgegBu-cMfXcsXK.html"
+description: "7/10/2010, Ryushin Paul Haller dharma talk at City Center."
 ---
 07/10/2010
 

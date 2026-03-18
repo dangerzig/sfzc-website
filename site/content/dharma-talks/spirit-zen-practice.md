@@ -1,11 +1,13 @@
 ---
 title: "Spirit of Zen Practice"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "05/11/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/spirit-zen-practice"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/hoObfiFK-cMfXcsXK.html"
+description: "5/11/2008, Steve Weintraub dharma talk at Green Gulch Farm."
 ---
 05/11/2008
 

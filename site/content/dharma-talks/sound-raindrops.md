@@ -1,11 +1,13 @@
 ---
 title: "Sound of the Raindrops"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "03/25/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/sound-raindrops"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/PgGLFqdq-cMfXcsXK.html"
+description: "3/25/2011, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 03/25/2011
 

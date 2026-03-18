@@ -1,11 +1,13 @@
 ---
 title: "Sun Faced Buddha Moon Faced Buddha"
-speaker: ""
+speaker: "tenshin-reb-anderson"
 talk_date: "07/30/2017"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/sun-faced-buddha-moon-faced-buddha"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/RVNOmyuJ-cMfXcsXK.html"
+description: "7/30/2017, Tenshin Reb Anderson dharma talk at Green Gulch Farm."
 ---
 07/30/2017
 

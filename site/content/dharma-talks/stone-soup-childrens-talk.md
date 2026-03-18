@@ -1,11 +1,13 @@
 ---
 title: "Stone Soup (a childrens talk)"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "09/07/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/stone-soup-childrens-talk"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/6iwPzaua-cMfXcsXK.html"
+description: "9/7/2008, Eijun Linda Ruth Cutts dharma talk at Green Gulch Farm."
 ---
 09/07/2008
 

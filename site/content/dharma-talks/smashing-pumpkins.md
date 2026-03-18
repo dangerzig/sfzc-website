@@ -1,11 +1,13 @@
 ---
 title: "Smashing Pumpkins"
-speaker: ""
+speaker: "heather-shoren-iarusso"
 talk_date: "07/16/2020"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/smashing-pumpkins"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/bUEqZHJo-cMfXcsXK.html"
+description: "07/16/2020, Heather Shoren Iarusso, dharma talk at Tassajara."
 ---
 07/16/2020
 

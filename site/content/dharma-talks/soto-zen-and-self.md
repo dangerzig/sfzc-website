@@ -1,11 +1,13 @@
 ---
 title: "Soto Zen and the Self"
-speaker: ""
+speaker: "rev-dr-daijaku-judith-kinst"
 talk_date: "06/01/2015"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/soto-zen-and-self"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/T6eEjz5k-cMfXcsXK.html"
+description: "6/1/2015, Jaku Kinst dharma talk at Tassajara."
 ---
 06/01/2015
 

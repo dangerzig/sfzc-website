@@ -1,11 +1,13 @@
 ---
 title: "The Swift-Flowing Mindstream of Experience"
-speaker: ""
+speaker: "abbot-tenzen-david-zimmerman"
 talk_date: "02/12/2020"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/swift-flowing-mindstream-experience"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/VEPOMckg-cMfXcsXK.html"
+description: "02/12/2020, Tenzen David Zimmerman, dharma talk at City Center."
 ---
 02/12/2020
 

@@ -1,11 +1,13 @@
 ---
 title: "Taking Refuge in Buddha, My Own Material Body"
-speaker: ""
+speaker: "sokaku-kathie-fischer"
 talk_date: "01/24/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/taking-refuge-buddha-my-own-material-body"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/seLkT62d-cMfXcsXK.html"
+description: "01/24/2019, Kathie Fischer, dharma talk at Tassajara."
 ---
 01/24/2019
 

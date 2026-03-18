@@ -1,11 +1,13 @@
 ---
 title: "Talking Trash"
-speaker: ""
+speaker: "eijun-linda-cutts"
 talk_date: "09/05/2009"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/talking-trash"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/UYFDrME5-cMfXcsXK.html"
+description: "9/5/2009, Eijun Linda Ruth Cutts dharma talk at City Center."
 ---
 09/05/2009
 

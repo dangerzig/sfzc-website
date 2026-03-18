@@ -1,11 +1,13 @@
 ---
 title: "Studying the All-Interpenetrating Self"
-speaker: ""
+speaker: "rinso-ed-sattizahn"
 talk_date: "12/05/2018"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/studying-all-interpenetrating-self"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/lPExa7XU-cMfXcsXK.html"
+description: "12/05/2018, Rinso Ed Sattizahn, dharma talk at City Center."
 ---
 12/05/2018
 

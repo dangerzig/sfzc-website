@@ -1,11 +1,13 @@
 ---
 title: "Staying Close to the Three Bodies"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/02/2011"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/staying-close-three-bodies"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/zivwPIbt-cMfXcsXK.html"
+description: "2/2/2011, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 02/02/2011
 

@@ -1,11 +1,13 @@
 ---
 title: "Suffering and the End of Suffering"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "02/12/2023"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/suffering-and-end-suffering-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/w6cGls2G-cMfXcsXK.html"
+description: "02/12/2023, Fu Schroeder, dharma talk at Green Gulch Farm.Knowing the grief and despair that humans suffer in their lifetimes, the Buddha offered teachings to lessen the impact of those losses through practices based in compassion and wisdom. By coming to a greater understanding of the causes of suf"
 ---
 02/12/2023
 

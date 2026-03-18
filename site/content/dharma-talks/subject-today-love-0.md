@@ -1,11 +1,13 @@
 ---
 title: "The Subject Today Is Love"
-speaker: ""
+speaker: "kiku-christina-lehnherr"
 talk_date: "07/19/2020"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/subject-today-love-0"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/SPnrbExu-cMfXcsXK.html"
+description: "07/19/2020, Kiku Christina Lehnherr, dharma talk at Green Gulch Farm."
 ---
 07/19/2020
 

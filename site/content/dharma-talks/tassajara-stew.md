@@ -1,11 +1,13 @@
 ---
 title: "Tassajara Stew"
-speaker: ""
+speaker: "leslie-james"
 talk_date: "07/10/2013"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/tassajara-stew"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/LRU4V6Mm-cMfXcsXK.html"
+description: "7/10/2013, Leslie James dharma talk at Tassajara."
 ---
 07/10/2013
 

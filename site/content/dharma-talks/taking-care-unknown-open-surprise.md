@@ -1,11 +1,13 @@
 ---
 title: "Taking Care of the Unknown, Open to Surprise"
-speaker: ""
+speaker: "sonja-gardenswartz"
 talk_date: "09/03/2017"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/taking-care-unknown-open-surprise"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/DN36drUY-cMfXcsXK.html"
+description: "9/3/2017, Sonia Gardenswartz dharma talk at Green Gulch Farm."
 ---
 09/03/2017
 

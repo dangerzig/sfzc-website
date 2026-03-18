@@ -1,11 +1,13 @@
 ---
 title: "Supporting Awareness"
-speaker: ""
+speaker: "ryushin-paul-haller"
 talk_date: "02/17/2018"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/supporting-awareness"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/JKwvSxkX-cMfXcsXK.html"
+description: "2/17/2018, Ryushin Paul Haller dharma talk at Tassajara."
 ---
 02/17/2018
 

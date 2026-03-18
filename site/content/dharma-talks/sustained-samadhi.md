@@ -1,11 +1,13 @@
 ---
 title: "Sustained Samadhi"
-speaker: ""
+speaker: "furyu-nancy-schroeder"
 talk_date: "01/24/2016"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/sustained-samadhi"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/x3ik10A8-cMfXcsXK.html"
+description: "1/24/2016, Furyu Schroeder dharma talk at Tassajara."
 ---
 01/24/2016
 

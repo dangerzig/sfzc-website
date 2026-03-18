@@ -1,11 +1,13 @@
 ---
 title: "Standing Up Where You Fall"
-speaker: ""
+speaker: "steve-weintraub"
 talk_date: "11/16/2008"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/standing-where-you-fall"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/4stMkSCp-cMfXcsXK.html"
+description: "11/16/2008, Steve Weintraub dharma talk at Green Gulch Farm."
 ---
 11/16/2008
 

@@ -1,11 +1,13 @@
 ---
 title: "Taking Refuge In Sangha"
-speaker: ""
+speaker: "shinchi-linda-galijan"
 talk_date: "04/24/2014"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/taking-refuge-sangha-1"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/GUFJ4u6N-cMfXcsXK.html"
+description: "4/24/2014, Linda Galijan dharma talk at Tassajara."
 ---
 04/24/2014
 

@@ -1,11 +1,13 @@
 ---
 title: "Snow Globe Buddha Sitting Sesshin"
-speaker: ""
+speaker: "abbot-tenzen-david-zimmerman"
 talk_date: "10/23/2019"
-centers:
-  - "Tassajara"
 aliases:
   - "/teachings/dharma-talks/snow-globe-buddha-sitting-sesshin"
+centers:
+  - "Tassajara"
+video_url: "https://content.jwplatform.com/players/2XtkBEaE-cMfXcsXK.html"
+description: "10/23/2019, Tenzen David Zimmerman, dharma talk at Tassajara."
 ---
 10/23/2019
 

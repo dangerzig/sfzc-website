@@ -1,11 +1,13 @@
 ---
 title: "Suzuki Roshi’s Precepts"
-speaker: ""
+speaker: "ango-sara-tashker"
 talk_date: "12/19/2021"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/suzuki-roshis-precepts"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/53xmoJI9-cMfXcsXK.html"
+description: "A talk about some of Suzuki Roshi’s teachings on the Sixteen GreatBodhisattva Precepts. 12/19/2021, Ango Sara Tashker, dharma talk at Green Gulch Farm."
 ---
 12/19/2021
 

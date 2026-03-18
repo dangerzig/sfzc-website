@@ -1,11 +1,13 @@
 ---
 title: "A Special Dharma Talk from Hoitsu Suzuki Roshi"
-speaker: ""
+speaker: "hoitsu-suzuki-roshi"
 talk_date: "11/10/2020"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/special-dharma-talk-hoitsu-suzuki-roshi"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/yXFIdSbL-cMfXcsXK.html"
+description: "In his first ever Zoom talk, Hoitsu Suzuki Roshi speaks on zazen, Sandokai, and his father Shunryu Suzuki Roshi; Yuki Kobiyama translates."
 ---
 11/10/2020
 

@@ -1,11 +1,13 @@
 ---
 title: "Steadiness of Vow"
-speaker: ""
+speaker: "shosan-victoria-austin"
 talk_date: "05/23/2015"
-centers:
-  - "City Center"
 aliases:
   - "/teachings/dharma-talks/steadiness-vow"
+centers:
+  - "City Center"
+video_url: "https://content.jwplatform.com/players/mVKslSvP-cMfXcsXK.html"
+description: "5/23/2015, Shosan Victoria Austin dharma talk at City Center."
 ---
 05/23/2015
 

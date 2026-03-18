@@ -1,11 +1,13 @@
 ---
 title: "Suzuki Roshi's Fortieth Anniversary"
-speaker: ""
+speaker: "edward-espe-brown"
 talk_date: "12/04/2011"
-centers:
-  - "Green Gulch Farm"
 aliases:
   - "/teachings/dharma-talks/suzuki-roshis-fortieth-anniversary"
+centers:
+  - "Green Gulch Farm"
+video_url: "https://content.jwplatform.com/players/dIdr96Ot-cMfXcsXK.html"
+description: "12/4/2011, Edward Espe Brown dharma talk at Green Gulch Farm."
 ---
 12/04/2011
 
