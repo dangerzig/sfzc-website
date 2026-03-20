@@ -21,14 +21,14 @@ title = "San Francisco Zen Center"
     dharma-talks = "/dharma-talks/:slug/"
     events = "/events/:slug/"
 
-# Main navigation (simplified per Vanessa Aida proposal)
+# Main navigation (matches sfzc.org structure with shorter labels)
 [[menus.main]]
   name = "About"
   url = "/about/"
   weight = 10
 
 [[menus.main]]
-  name = "Mission"
+  name = "Mission & Vision"
   parent = "About"
   url = "/about/mission-and-vision/"
   weight = 1
@@ -40,74 +40,106 @@ title = "San Francisco Zen Center"
   weight = 2
 
 [[menus.main]]
+  name = "How We Operate"
+  parent = "About"
+  url = "/about/how-we-operate/"
+  weight = 3
+
+[[menus.main]]
   name = "Board"
   parent = "About"
   url = "/about/board-of-directors/"
-  weight = 3
+  weight = 4
 
 [[menus.main]]
   name = "Contact"
   parent = "About"
   url = "/about/contact/"
-  weight = 4
+  weight = 5
 
 [[menus.main]]
-  name = "Offerings"
+  name = "Calendar"
   url = "/events/"
   weight = 20
 
 [[menus.main]]
-  name = "Events"
-  parent = "Offerings"
+  name = "All Events"
+  parent = "Calendar"
   url = "/events/"
   weight = 1
 
 [[menus.main]]
-  name = "Dharma Talks"
-  parent = "Offerings"
-  url = "/dharma-talks/"
+  name = "New to Zen"
+  parent = "Calendar"
+  url = "/practice/new-to-zen/"
   weight = 2
 
 [[menus.main]]
-  name = "Teachers"
-  parent = "Offerings"
-  url = "/teachers/"
-  weight = 3
-
-[[menus.main]]
-  name = "New to Zen"
-  parent = "Offerings"
-  url = "/practice/new-to-zen/"
-  weight = 4
-
-[[menus.main]]
-  name = "Temples"
+  name = "Locations"
   url = "/practice-centers/"
   weight = 30
 
 [[menus.main]]
   name = "City Center"
-  parent = "Temples"
+  parent = "Locations"
   url = "/practice-centers/city-center/"
   weight = 1
 
 [[menus.main]]
   name = "Green Gulch Farm"
-  parent = "Temples"
+  parent = "Locations"
   url = "/practice-centers/green-gulch/"
   weight = 2
 
 [[menus.main]]
   name = "Tassajara"
-  parent = "Temples"
+  parent = "Locations"
   url = "/practice-centers/tassajara/"
   weight = 3
 
 [[menus.main]]
   name = "Online"
-  parent = "Temples"
+  parent = "Locations"
   url = "/practice-centers/online/"
   weight = 4
+
+[[menus.main]]
+  name = "Dharma Talks"
+  url = "/dharma-talks/"
+  weight = 40
+
+[[menus.main]]
+  name = "Talk Archive"
+  parent = "Dharma Talks"
+  url = "/dharma-talks/"
+  weight = 1
+
+[[menus.main]]
+  name = "Teachers"
+  parent = "Dharma Talks"
+  url = "/teachers/"
+  weight = 2
+
+[[menus.main]]
+  name = "SFZC Online"
+  url = "/practice-centers/online/"
+  weight = 50
+
+[[menus.main]]
+  name = "Giving"
+  url = "/giving/"
+  weight = 60
+
+[[menus.main]]
+  name = "Donate"
+  parent = "Giving"
+  url = "/giving/"
+  weight = 1
+
+[[menus.main]]
+  name = "News"
+  url = "/news/"
+  weight = 70
 
 # Utility menu
 [[menus.utility]]
