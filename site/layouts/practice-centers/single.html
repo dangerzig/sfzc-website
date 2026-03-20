@@ -11,7 +11,7 @@
     </div>
     {{ else }}
     <div class="bg-sfzc-cream rounded-lg p-8">
-      <h1 class="text-4xl font-bold text-sfzc-green mb-2">{{ .Title }}</h1>
+      <h1 class="text-4xl font-bold text-sfzc-red mb-2">{{ .Title }}</h1>
       {{ with .Params.tagline }}<p class="text-sfzc-brown text-lg">{{ . }}</p>{{ end }}
     </div>
     {{ end }}
@@ -22,13 +22,13 @@
   <div class="bg-sfzc-cream rounded-lg p-4 mb-8 flex flex-wrap gap-6 text-sm">
     {{ with .Params.address }}
     <div class="flex items-center gap-2">
-      <svg class="w-4 h-4 text-sfzc-green" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+      <svg class="w-4 h-4 text-sfzc-red" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
       <span>{{ . }}</span>
     </div>
     {{ end }}
     {{ with .Params.phone }}
     <div class="flex items-center gap-2">
-      <svg class="w-4 h-4 text-sfzc-green" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
+      <svg class="w-4 h-4 text-sfzc-red" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
       <span>{{ . }}</span>
     </div>
     {{ end }}
@@ -45,11 +45,11 @@
   <!-- Sub-pages (tiles) -->
   {{ with .Pages }}
   <section class="mb-12">
-    <h2 class="text-2xl font-bold text-sfzc-green mb-4">Explore {{ $.Title }}</h2>
+    <h2 class="text-2xl font-bold text-sfzc-red mb-4">Explore {{ $.Title }}</h2>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       {{ range . }}
       <a href="{{ .Permalink }}" class="block bg-white border border-gray-200 rounded-lg p-4 card-hover">
-        <h3 class="font-semibold text-sfzc-green">{{ .Title }}</h3>
+        <h3 class="font-semibold text-sfzc-red">{{ .Title }}</h3>
         {{ with .Description }}<p class="text-sm text-gray-500 mt-1">{{ . }}</p>{{ end }}
       </a>
       {{ end }}
@@ -62,14 +62,14 @@
   {{ $teachers := where (where site.RegularPages "Section" "teachers") ".Params.centers" "intersect" (slice $centerName) }}
   {{ with $teachers }}
   <section class="mb-12">
-    <h2 class="text-2xl font-bold text-sfzc-green mb-4">Teachers</h2>
+    <h2 class="text-2xl font-bold text-sfzc-red mb-4">Teachers</h2>
     <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
       {{ range first 8 . }}
         {{ partial "teacher-card.html" . }}
       {{ end }}
     </div>
     {{ if gt (len .) 8 }}
-    <p class="mt-4"><a href="{{ "teachers/" | absURL }}" class="text-sfzc-green hover:text-sfzc-green-light font-medium">View all teachers &rarr;</a></p>
+    <p class="mt-4"><a href="{{ "teachers/" | absURL }}" class="text-sfzc-red hover:text-sfzc-red-light font-medium">View all teachers &rarr;</a></p>
     {{ end }}
   </section>
   {{ end }}
@@ -78,13 +78,13 @@
   {{ $events := where (where site.RegularPages "Section" "events") ".Params.centers" "intersect" (slice $centerName) }}
   {{ with $events }}
   <section class="mb-12">
-    <h2 class="text-2xl font-bold text-sfzc-green mb-4">Upcoming Events</h2>
+    <h2 class="text-2xl font-bold text-sfzc-red mb-4">Upcoming Events</h2>
     <div class="space-y-3">
       {{ range first 5 . }}
         {{ partial "event-card.html" . }}
       {{ end }}
     </div>
-    <p class="mt-4"><a href="{{ "events/" | absURL }}" class="text-sfzc-green hover:text-sfzc-green-light font-medium">View all events &rarr;</a></p>
+    <p class="mt-4"><a href="{{ "events/" | absURL }}" class="text-sfzc-red hover:text-sfzc-red-light font-medium">View all events &rarr;</a></p>
   </section>
   {{ end }}
 
@@ -92,13 +92,13 @@
   {{ $talks := where (where site.RegularPages "Section" "dharma-talks") ".Params.centers" "intersect" (slice $centerName) }}
   {{ with $talks }}
   <section class="mb-12">
-    <h2 class="text-2xl font-bold text-sfzc-green mb-4">Recent Dharma Talks</h2>
+    <h2 class="text-2xl font-bold text-sfzc-red mb-4">Recent Dharma Talks</h2>
     <div class="space-y-3">
       {{ range first 5 . }}
         {{ partial "talk-card.html" . }}
       {{ end }}
     </div>
-    <p class="mt-4"><a href="{{ "dharma-talks/" | absURL }}" class="text-sfzc-green hover:text-sfzc-green-light font-medium">View all talks &rarr;</a></p>
+    <p class="mt-4"><a href="{{ "dharma-talks/" | absURL }}" class="text-sfzc-red hover:text-sfzc-red-light font-medium">View all talks &rarr;</a></p>
   </section>
   {{ end }}
 </article>

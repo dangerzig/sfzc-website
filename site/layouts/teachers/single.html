@@ -13,7 +13,7 @@
     </div>
     <!-- Info -->
     <div class="md:w-2/3">
-      <h1 class="text-3xl font-bold text-sfzc-green mb-2">{{ .Title }}</h1>
+      <h1 class="text-3xl font-bold text-sfzc-red mb-2">{{ .Title }}</h1>
       {{ with .Params.role }}<p class="text-lg text-sfzc-brown mb-2">{{ . }}</p>{{ end }}
       {{ with .Params.centers }}
       <div class="flex flex-wrap gap-2 mb-4">
@@ -45,7 +45,7 @@
   {{ $talks = where $talks ".Params.speaker" $teacherSlug }}
   {{ with $talks }}
   <section class="mb-12">
-    <h2 class="text-2xl font-bold text-sfzc-green mb-4">Dharma Talks</h2>
+    <h2 class="text-2xl font-bold text-sfzc-red mb-4">Dharma Talks</h2>
     <div class="space-y-3">
       {{ range first 10 . }}
         {{ partial "talk-card.html" . }}
@@ -53,7 +53,7 @@
     </div>
     {{ if gt (len .) 10 }}
     <p class="mt-4">
-      <a href="{{ "dharma-talks/" | absURL }}?speaker={{ $teacherSlug }}" class="text-sfzc-green hover:text-sfzc-green-light font-medium">
+      <a href="{{ "dharma-talks/" | absURL }}?speaker={{ $teacherSlug }}" class="text-sfzc-red hover:text-sfzc-red-light font-medium">
         View all {{ len . }} talks &rarr;
       </a>
     </p>
@@ -66,7 +66,7 @@
   {{ $events = where $events ".Params.teacher" $teacherSlug }}
   {{ with $events }}
   <section class="mb-12">
-    <h2 class="text-2xl font-bold text-sfzc-green mb-4">Upcoming Events</h2>
+    <h2 class="text-2xl font-bold text-sfzc-red mb-4">Upcoming Events</h2>
     <div class="space-y-3">
       {{ range first 5 . }}
         {{ partial "event-card.html" . }}

@@ -6,13 +6,13 @@
   <div class="flex items-start justify-between gap-4">
     <div class="flex-1">
       <h3 class="font-semibold">
-        <a href="{{ .Permalink }}" class="text-sfzc-green hover:text-sfzc-green-light">{{ .Title }}</a>
+        <a href="{{ .Permalink }}" class="text-sfzc-red hover:text-sfzc-red-light">{{ .Title }}</a>
       </h3>
       {{ with .Params.speaker }}
         {{ $teacher := site.GetPage (printf "/teachers/%s" .) }}
         {{ with $teacher }}
         <p class="text-sm text-gray-500 mt-1">
-          <a href="{{ .Permalink }}" class="hover:text-sfzc-green">{{ .Title }}</a>
+          <a href="{{ .Permalink }}" class="hover:text-sfzc-red">{{ .Title }}</a>
         </p>
         {{ end }}
       {{ end }}
@@ -22,7 +22,7 @@
       </div>
     </div>
     {{ with .Params.audio_url }}
-    <a href="{{ . }}" class="flex-shrink-0 text-sfzc-green hover:text-sfzc-green-light" title="Listen">
+    <a href="{{ . }}" class="flex-shrink-0 text-sfzc-red hover:text-sfzc-red-light" title="Listen">
       <svg class="w-8 h-8" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
     </a>
     {{ end }}
