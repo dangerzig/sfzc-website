@@ -12,7 +12,7 @@
       </a>
 
       <!-- Mobile menu button -->
-      <button id="mobile-menu-btn" class="lg:hidden p-2 text-gray-300 hover:text-white" aria-label="Toggle menu">
+      <button id="mobile-menu-btn" class="lg:hidden p-2 text-white hover:text-sfzc-gold" aria-label="Toggle menu">
         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
         </svg>
@@ -23,20 +23,20 @@
         {{ range .Site.Menus.main }}
           {{ if .HasChildren }}
           <div class="nav-item relative">
-            <a href="{{ .URL | absURL }}" class="px-3 py-2 text-sm font-medium text-gray-300 hover:text-white transition-colors" style="font-family: 'Cormorant SC', Georgia, serif; letter-spacing: 0.05em;">
+            <a href="{{ .URL | absURL }}" class="px-3 py-2 text-sm font-medium text-white hover:text-sfzc-gold transition-colors" style="font-family: 'Cormorant SC', Georgia, serif; letter-spacing: 0.05em;">
               {{ .Name }}
               <svg class="inline w-3 h-3 ml-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
             </a>
             <div class="nav-dropdown absolute top-full left-0 bg-sfzc-dark shadow-lg border border-gray-700 min-w-[200px] py-2" style="border-radius: 0 0 0.375rem 0.375rem;">
               {{ range .Children }}
-              <a href="{{ .URL | absURL }}" class="block px-4 py-2 text-sm text-gray-300 hover:bg-white/10 hover:text-white transition-colors">
+              <a href="{{ .URL | absURL }}" class="block px-4 py-2 text-sm text-gray-200 hover:bg-white/10 hover:text-sfzc-gold transition-colors">
                 {{ .Name }}
               </a>
               {{ end }}
             </div>
           </div>
           {{ else }}
-          <a href="{{ .URL | absURL }}" class="px-3 py-2 text-sm font-medium text-gray-300 hover:text-white transition-colors" style="font-family: 'Cormorant SC', Georgia, serif; letter-spacing: 0.05em;">
+          <a href="{{ .URL | absURL }}" class="px-3 py-2 text-sm font-medium text-white hover:text-sfzc-gold transition-colors" style="font-family: 'Cormorant SC', Georgia, serif; letter-spacing: 0.05em;">
             {{ .Name }}
           </a>
           {{ end }}

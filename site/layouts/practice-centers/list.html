@@ -14,8 +14,8 @@
       <div class="card-overlay-gradient"></div>
       <div class="card-content">
         <h3 class="text-2xl font-bold mb-1" style="font-family: 'Cormorant SC', Georgia, serif;">{{ .Title }}</h3>
-        {{ with .Params.tagline }}<p class="text-sm text-gray-200">{{ . }}</p>{{ end }}
-        {{ with .Params.address }}<p class="text-xs text-gray-300 mt-2">{{ . }}</p>{{ end }}
+        {{ with .Params.tagline }}<p class="text-sm text-white" style="text-shadow: 0 1px 3px rgba(0,0,0,0.5);">{{ . }}</p>{{ end }}
+        {{ with .Params.address }}<p class="text-xs text-white mt-2" style="text-shadow: 0 1px 3px rgba(0,0,0,0.5);">{{ . }}</p>{{ end }}
       </div>
     </a>
     {{ end }}
@@ -32,7 +32,7 @@
     <div class="hero-overlay"></div>
     <div class="hero-content max-w-7xl mx-auto">
       <h1 class="text-4xl md:text-5xl font-bold text-white mb-2">{{ $.Title }}</h1>
-      {{ with $.Params.tagline }}<p class="text-lg text-gray-200">{{ . }}</p>{{ end }}
+      {{ with $.Params.tagline }}<p class="text-lg text-white" style="text-shadow: 0 1px 3px rgba(0,0,0,0.5);">{{ . }}</p>{{ end }}
     </div>
   </section>
   {{ else }}
