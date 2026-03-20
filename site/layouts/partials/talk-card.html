@@ -6,13 +6,13 @@
   <div class="flex items-start justify-between gap-4">
     <div class="flex-1">
       <h3 class="font-semibold">
-        <a href="{{ .Permalink }}" class="text-sfzc-red hover:text-sfzc-red-light">{{ .Title }}</a>
+        <a href="{{ .Permalink }}" class="text-sfzc-dark hover:text-sfzc-gold">{{ .Title }}</a>
       </h3>
       {{ with .Params.speaker }}
         {{ $teacher := site.GetPage (printf "/teachers/%s" .) }}
         {{ with $teacher }}
         <p class="text-sm text-gray-500 mt-1">
-          <a href="{{ .Permalink }}" class="hover:text-sfzc-red">{{ .Title }}</a>
+          <a href="{{ .Permalink }}" class="hover:text-sfzc-gold">{{ .Title }}</a>
         </p>
         {{ end }}
       {{ end }}

@@ -1,12 +1,12 @@
 {{ define "main" }}
 <article class="max-w-4xl mx-auto px-4 py-8">
-  <h1 class="text-3xl font-bold text-sfzc-red mb-4">{{ .Title }}</h1>
+  <h1 class="text-3xl font-bold text-sfzc-dark mb-4">{{ .Title }}</h1>
 
   <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500 mb-6">
     {{ with .Params.speaker }}
       {{ $teacher := site.GetPage (printf "/teachers/%s" .) }}
       {{ with $teacher }}
-      <a href="{{ .Permalink }}" class="text-sfzc-red hover:text-sfzc-red-light font-medium">{{ .Title }}</a>
+      <a href="{{ .Permalink }}" class="text-sfzc-dark hover:text-sfzc-gold font-medium">{{ .Title }}</a>
       {{ end }}
     {{ end }}
     {{ with .Params.talk_date }}<span>{{ . }}</span>{{ end }}
@@ -53,7 +53,7 @@
     {{ end }}
     {{ with $moreTalks }}
     <section class="mt-12">
-      <h2 class="text-2xl font-bold text-sfzc-red mb-4">More Talks by This Speaker</h2>
+      <h2 class="text-2xl font-bold text-sfzc-dark mb-4">More Talks by This Speaker</h2>
       <div class="space-y-3">
         {{ range first 5 . }}
           {{ partial "talk-card.html" . }}

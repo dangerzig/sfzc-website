@@ -17,7 +17,7 @@
 
 <!-- Practice Centers: Photo-overlay cards -->
 <section class="max-w-7xl mx-auto px-4 py-16">
-  <h2 class="text-3xl font-bold text-sfzc-red mb-8 text-center">Our Practice Centers</h2>
+  <h2 class="text-3xl font-bold text-sfzc-dark mb-8 text-center">Our Practice Centers</h2>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
     {{ range (site.GetPage "/practice-centers").Pages }}
       {{ if ne .File.ContentBaseName "online" }}
@@ -51,7 +51,7 @@
 {{ with $events }}
 <section class="max-w-7xl mx-auto px-4 py-16">
   <div class="flex items-center justify-between mb-8">
-    <h2 class="text-3xl font-bold text-sfzc-red">Upcoming Events</h2>
+    <h2 class="text-3xl font-bold text-sfzc-dark">Upcoming Events</h2>
     <a href="{{ "events/" | absURL }}" class="btn btn-dark text-xs py-2 px-4">View All Events</a>
   </div>
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -68,7 +68,7 @@
 <section class="bg-sfzc-cream py-16">
   <div class="max-w-7xl mx-auto px-4">
     <div class="flex items-center justify-between mb-8">
-      <h2 class="text-3xl font-bold text-sfzc-red">Recent Dharma Talks</h2>
+      <h2 class="text-3xl font-bold text-sfzc-dark">Recent Dharma Talks</h2>
       <a href="{{ "dharma-talks/" | absURL }}" class="btn btn-dark text-xs py-2 px-4">View All Talks</a>
     </div>
     <div class="space-y-3">
