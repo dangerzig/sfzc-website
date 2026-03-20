@@ -2,7 +2,7 @@ name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main, design-v2-photo-forward]
   workflow_dispatch:
 
 permissions:
@@ -22,8 +22,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout main
         uses: actions/checkout@v4
+        with:
+          ref: main
+          path: main
+
+      - name: Checkout v2 branch
+        uses: actions/checkout@v4
+        with:
+          ref: design-v2-photo-forward
+          path: v2
+        continue-on-error: true
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -36,28 +46,60 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install dependencies
-        working-directory: ./site
-        run: npm ci
-
-      - name: Build Tailwind CSS
-        working-directory: ./site
-        run: npm run build:css
-
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
 
-      - name: Build Hugo
-        working-directory: ./site
+      # Build main site
+      - name: Install dependencies (main)
+        working-directory: ./main/site
+        run: npm ci
+
+      - name: Build Tailwind CSS (main)
+        working-directory: ./main/site
+        run: npm run build:css
+
+      - name: Build Hugo (main)
+        working-directory: ./main/site
         run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
         env:
           HUGO_ENV: production
 
+      # Build v2 site into /v2/ subdirectory
+      - name: Install dependencies (v2)
+        if: hashFiles('v2/site/package.json') != ''
+        working-directory: ./v2/site
+        run: npm ci
+        continue-on-error: true
+
+      - name: Build Tailwind CSS (v2)
+        if: hashFiles('v2/site/package.json') != ''
+        working-directory: ./v2/site
+        run: npm run build:css
+        continue-on-error: true
+
+      - name: Build Hugo (v2)
+        if: hashFiles('v2/site/hugo.toml') != ''
+        working-directory: ./v2/site
+        run: hugo --minify
+        env:
+          HUGO_ENV: production
+        continue-on-error: true
+
+      - name: Merge v2 into main output
+        run: |
+          if [ -d "v2/site/public" ]; then
+            mkdir -p main/site/public/v2
+            cp -r v2/site/public/* main/site/public/v2/
+            echo "V2 site merged into /v2/ subdirectory"
+          else
+            echo "No v2 build found, skipping"
+          fi
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./site/public
+          path: ./main/site/public
 
   deploy:
     environment:

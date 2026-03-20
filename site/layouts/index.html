@@ -1,52 +1,63 @@
 {{ define "main" }}
-<!-- Hero -->
-<section class="relative bg-sfzc-red text-white py-16 md:py-24">
-  <div class="absolute inset-0 bg-cover bg-center opacity-30" style="background-image: url('{{ "images/site/Main-Web-Banner-Hero-Image_1400x490_png.png" | absURL }}')"></div>
-  <div class="relative max-w-7xl mx-auto px-4 text-center">
-    <h1 class="text-4xl md:text-5xl font-bold mb-4">San Francisco Zen Center</h1>
-    <p class="text-xl text-red-200 mb-8 max-w-2xl mx-auto">
-      Founded in 1962, SFZC is one of the largest and most influential Zen communities in the West,
-      offering meditation practice, retreats, and teachings at three centers and online.
+<!-- Full-bleed Hero (photo-forward per Vanessa Aida's mockups) -->
+<section class="hero-fullbleed" style="min-height: 80vh;">
+  <img src="{{ "images/site/Main-Web-Banner-Hero-Image_1400x490_png.png" | absURL }}" alt="San Francisco Zen Center">
+  <div class="hero-overlay"></div>
+  <div class="hero-content max-w-7xl mx-auto">
+    <h1 class="text-4xl md:text-6xl font-bold text-white mb-4" style="font-family: 'Cormorant SC', Georgia, serif; letter-spacing: 0.08em;">San Francisco Zen Center</h1>
+    <p class="text-lg text-gray-200 mb-8 max-w-2xl" style="line-height: 1.7;">
+      Founded in 1962 by Shunryu Suzuki Roshi. Three practice centers and a growing online community dedicated to making Zen accessible to all.
     </p>
-    <div class="flex flex-wrap justify-center gap-4">
-      <a href="{{ "practice/new-to-zen/" | absURL }}" class="bg-sfzc-gold text-sfzc-red font-bold px-6 py-3 rounded-lg hover:bg-yellow-400 transition-colors">
-        New to Zen?
-      </a>
-      <a href="{{ "events/" | absURL }}" class="border-2 border-white text-white font-bold px-6 py-3 rounded-lg hover:bg-white/10 transition-colors">
-        View Events
-      </a>
+    <div class="flex flex-wrap gap-4">
+      <a href="{{ "practice/new-to-zen/" | absURL }}" class="btn btn-primary">New to Zen?</a>
+      <a href="{{ "events/" | absURL }}" class="btn btn-outline">View Events</a>
     </div>
   </div>
 </section>
 
-<!-- Practice Centers -->
-
-<section class="max-w-7xl mx-auto px-4 py-12">
-  <h2 class="text-2xl font-bold text-sfzc-red mb-6">Practice Centers</h2>
+<!-- Practice Centers: Photo-overlay cards -->
+<section class="max-w-7xl mx-auto px-4 py-16">
+  <h2 class="text-3xl font-bold text-sfzc-red mb-8 text-center">Our Practice Centers</h2>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
     {{ range (site.GetPage "/practice-centers").Pages }}
       {{ if ne .File.ContentBaseName "online" }}
-        {{ partial "center-card.html" . }}
+      <a href="{{ .Permalink }}" class="center-card-overlay block">
+        {{ with .Params.image }}
+        <img src="{{ . | absURL }}" alt="{{ $.Title }}">
+        {{ end }}
+        <div class="card-overlay-gradient"></div>
+        <div class="card-content">
+          <h3 class="text-2xl font-bold mb-1" style="font-family: 'Cormorant SC', Georgia, serif;">{{ .Title }}</h3>
+          {{ with .Params.tagline }}<p class="text-sm text-gray-200">{{ . }}</p>{{ end }}
+        </div>
+      </a>
       {{ end }}
     {{ end }}
   </div>
 </section>
 
+<!-- Mission statement (concise, per Vanessa's "clarity" objective) -->
+<section class="bg-sfzc-dark text-white py-16">
+  <div class="max-w-3xl mx-auto px-4 text-center">
+    <blockquote class="text-xl italic mb-4" style="line-height: 1.8; border: none; padding: 0; color: #ddd;">
+      "The true purpose is to see things as they are, to observe things as they are, and to let everything go as it goes."
+    </blockquote>
+    <cite class="text-sfzc-gold text-sm tracking-wide uppercase">Shunryu Suzuki Roshi, Zen Mind, Beginner's Mind</cite>
+  </div>
+</section>
+
 <!-- Upcoming Events -->
 {{ $events := where site.RegularPages "Section" "events" }}
-{{ $upcoming := $events }}
-{{ with $upcoming }}
-<section class="bg-sfzc-cream py-12">
-  <div class="max-w-7xl mx-auto px-4">
-    <div class="flex items-center justify-between mb-6">
-      <h2 class="text-2xl font-bold text-sfzc-red">Upcoming Events</h2>
-      <a href="{{ "events/" | absURL }}" class="text-sfzc-red hover:text-sfzc-red-light font-medium text-sm">View all &rarr;</a>
-    </div>
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-      {{ range first 6 . }}
-        {{ partial "event-card.html" . }}
-      {{ end }}
-    </div>
+{{ with $events }}
+<section class="max-w-7xl mx-auto px-4 py-16">
+  <div class="flex items-center justify-between mb-8">
+    <h2 class="text-3xl font-bold text-sfzc-red">Upcoming Events</h2>
+    <a href="{{ "events/" | absURL }}" class="btn btn-dark text-xs py-2 px-4">View All Events</a>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+    {{ range first 6 . }}
+      {{ partial "event-card.html" . }}
+    {{ end }}
   </div>
 </section>
 {{ end }}
@@ -54,34 +65,33 @@
 <!-- Recent Dharma Talks -->
 {{ $talks := where site.RegularPages "Section" "dharma-talks" }}
 {{ with $talks }}
-<section class="max-w-7xl mx-auto px-4 py-12">
-  <div class="flex items-center justify-between mb-6">
-    <h2 class="text-2xl font-bold text-sfzc-red">Recent Dharma Talks</h2>
-    <a href="{{ "dharma-talks/" | absURL }}" class="text-sfzc-red hover:text-sfzc-red-light font-medium text-sm">View all &rarr;</a>
-  </div>
-  <div class="space-y-3">
-    {{ range first 5 . }}
-      {{ partial "talk-card.html" . }}
-    {{ end }}
+<section class="bg-sfzc-cream py-16">
+  <div class="max-w-7xl mx-auto px-4">
+    <div class="flex items-center justify-between mb-8">
+      <h2 class="text-3xl font-bold text-sfzc-red">Recent Dharma Talks</h2>
+      <a href="{{ "dharma-talks/" | absURL }}" class="btn btn-dark text-xs py-2 px-4">View All Talks</a>
+    </div>
+    <div class="space-y-3">
+      {{ range first 5 . }}
+        {{ partial "talk-card.html" . }}
+      {{ end }}
+    </div>
   </div>
 </section>
 {{ end }}
 
-<!-- New to Zen CTA -->
-<section class="bg-sfzc-red text-white py-12">
-  <div class="max-w-3xl mx-auto px-4 text-center">
-    <h2 class="text-2xl font-bold mb-4">New to Zen Center?</h2>
-    <p class="text-red-200 mb-6">
+<!-- New to Zen CTA (photo-forward) -->
+<section class="hero-fullbleed" style="min-height: 50vh;">
+  <img src="{{ "images/site/Tassajara_0845_ZMC2018_MargoMoritz_zoomDetail.jpg" | absURL }}" alt="Meditation at Tassajara">
+  <div class="hero-overlay"></div>
+  <div class="hero-content max-w-3xl mx-auto text-center" style="padding-bottom: 4rem;">
+    <h2 class="text-3xl md:text-4xl font-bold text-white mb-4">Begin Your Practice</h2>
+    <p class="text-gray-200 mb-8 text-lg">
       Whether you have never meditated before or have years of practice, you are welcome here.
-      Learn how to get started with Zen practice at any of our centers or online.
     </p>
     <div class="flex flex-wrap justify-center gap-4">
-      <a href="{{ "practice/new-to-zen/" | absURL }}" class="bg-sfzc-gold text-sfzc-red font-bold px-6 py-3 rounded-lg hover:bg-yellow-400 transition-colors">
-        Getting Started
-      </a>
-      <a href="{{ "teachers/" | absURL }}" class="border-2 border-white text-white font-bold px-6 py-3 rounded-lg hover:bg-white/10 transition-colors">
-        Meet Our Teachers
-      </a>
+      <a href="{{ "practice/new-to-zen/" | absURL }}" class="btn btn-primary">Getting Started</a>
+      <a href="{{ "teachers/" | absURL }}" class="btn btn-outline">Meet Our Teachers</a>
     </div>
   </div>
 </section>

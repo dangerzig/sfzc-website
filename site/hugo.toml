@@ -21,55 +21,11 @@ title = "San Francisco Zen Center"
     dharma-talks = "/dharma-talks/:slug/"
     events = "/events/:slug/"
 
-# Main navigation menu
-[[menus.main]]
-  name = "Practice Centers"
-  url = "/practice-centers/"
-  weight = 10
-
-[[menus.main]]
-  name = "City Center"
-  parent = "Practice Centers"
-  url = "/practice-centers/city-center/"
-  weight = 1
-
-[[menus.main]]
-  name = "Green Gulch Farm"
-  parent = "Practice Centers"
-  url = "/practice-centers/green-gulch/"
-  weight = 2
-
-[[menus.main]]
-  name = "Tassajara"
-  parent = "Practice Centers"
-  url = "/practice-centers/tassajara/"
-  weight = 3
-
-[[menus.main]]
-  name = "Online"
-  parent = "Practice Centers"
-  url = "/practice-centers/online/"
-  weight = 4
-
-[[menus.main]]
-  name = "Events"
-  url = "/events/"
-  weight = 20
-
-[[menus.main]]
-  name = "Dharma Talks"
-  url = "/dharma-talks/"
-  weight = 30
-
-[[menus.main]]
-  name = "Teachers"
-  url = "/teachers/"
-  weight = 40
-
+# Main navigation (simplified per Vanessa Aida proposal)
 [[menus.main]]
   name = "About"
   url = "/about/"
-  weight = 50
+  weight = 10
 
 [[menus.main]]
   name = "Mission"
@@ -90,21 +46,68 @@ title = "San Francisco Zen Center"
   weight = 3
 
 [[menus.main]]
-  name = "How We Operate"
-  parent = "About"
-  url = "/about/how-we-operate/"
-  weight = 4
-
-[[menus.main]]
   name = "Contact"
   parent = "About"
   url = "/about/contact/"
-  weight = 5
+  weight = 4
 
 [[menus.main]]
-  name = "Giving"
-  url = "/giving/"
-  weight = 60
+  name = "Offerings"
+  url = "/events/"
+  weight = 20
+
+[[menus.main]]
+  name = "Events"
+  parent = "Offerings"
+  url = "/events/"
+  weight = 1
+
+[[menus.main]]
+  name = "Dharma Talks"
+  parent = "Offerings"
+  url = "/dharma-talks/"
+  weight = 2
+
+[[menus.main]]
+  name = "Teachers"
+  parent = "Offerings"
+  url = "/teachers/"
+  weight = 3
+
+[[menus.main]]
+  name = "New to Zen"
+  parent = "Offerings"
+  url = "/practice/new-to-zen/"
+  weight = 4
+
+[[menus.main]]
+  name = "Temples"
+  url = "/practice-centers/"
+  weight = 30
+
+[[menus.main]]
+  name = "City Center"
+  parent = "Temples"
+  url = "/practice-centers/city-center/"
+  weight = 1
+
+[[menus.main]]
+  name = "Green Gulch Farm"
+  parent = "Temples"
+  url = "/practice-centers/green-gulch/"
+  weight = 2
+
+[[menus.main]]
+  name = "Tassajara"
+  parent = "Temples"
+  url = "/practice-centers/tassajara/"
+  weight = 3
+
+[[menus.main]]
+  name = "Online"
+  parent = "Temples"
+  url = "/practice-centers/online/"
+  weight = 4
 
 # Utility menu
 [[menus.utility]]
