@@ -1,9 +1,17 @@
 @import "tailwindcss";
 
-/* SFZC custom colors */
+/* SFZC brand colors from official style guide */
 @theme {
-  --color-sfzc-green: #2d5016;
-  --color-sfzc-green-light: #4a7c28;
+  /* Primary brand color: Zen Center Red (Pantone 188) */
+  --color-sfzc-red: #77180C;
+  --color-sfzc-red-light: #8E2E1F;
+
+  /* Per-center accent colors */
+  --color-sfzc-cc-blue: #1A63A1;       /* City Center (Pantone 301) */
+  --color-sfzc-gg-green: #55763F;      /* Green Gulch (Pantone 363) */
+  --color-sfzc-tassajara: #644B25;     /* Tassajara (Pantone 1405) */
+
+  /* Supporting colors */
   --color-sfzc-gold: #c9a227;
   --color-sfzc-cream: #f5f0e8;
   --color-sfzc-brown: #5c4033;
@@ -11,14 +19,15 @@
   --color-sfzc-sage: #9caf88;
 }
 
-/* Typography */
+/* Typography: Cormorant Garamond (Bembo equivalent), Cormorant SC (Mrs. Eaves SC equivalent) */
 body {
-  font-family: 'Georgia', 'Times New Roman', serif;
+  font-family: 'Cormorant Garamond', 'Georgia', 'Times New Roman', serif;
   color: #333;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  font-family: 'Cormorant SC', 'Georgia', serif;
+  font-weight: 600;
 }
 
 /* Prose styling for content pages */
@@ -27,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.75rem;
   font-size: 1.5rem;
   font-weight: 600;
-  color: var(--color-sfzc-green);
+  color: var(--color-sfzc-red);
 }
 
 .prose h3 {
@@ -47,17 +56,25 @@ h1, h2, h3, h4, h5, h6 {
   padding-left: 1.5rem;
 }
 
+.prose ul {
+  list-style-type: disc;
+}
+
+.prose ol {
+  list-style-type: decimal;
+}
+
 .prose li {
   margin-bottom: 0.25rem;
 }
 
 .prose a {
-  color: var(--color-sfzc-green);
+  color: var(--color-sfzc-red);
   text-decoration: underline;
 }
 
 .prose a:hover {
-  color: var(--color-sfzc-green-light);
+  color: var(--color-sfzc-red-light);
 }
 
 .prose img {
