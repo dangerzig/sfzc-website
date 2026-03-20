@@ -1,10 +1,10 @@
 {{ define "main" }}
-<div class="max-w-4xl mx-auto px-4 py-8">
+<div class="max-w-5xl mx-auto px-4 py-8">
   <h1 class="text-3xl font-bold text-sfzc-red mb-2">Events</h1>
   <p class="text-gray-600 mb-6">Upcoming and past events at San Francisco Zen Center.</p>
 
   <!-- Filters -->
-  <div class="flex flex-wrap gap-3 mb-8" id="event-filters">
+  <div class="flex flex-wrap gap-3 mb-6 items-end" id="event-filters">
     <div>
       <label class="text-sm font-medium text-gray-700 block mb-1">Center</label>
       <select data-filter="center" class="border border-gray-300 rounded px-3 py-1.5 text-sm">
@@ -28,9 +28,29 @@
         <option value="Guest Season">Guest Season</option>
       </select>
     </div>
+    <div>
+      <label class="text-sm font-medium text-gray-700 block mb-1">Month</label>
+      <select id="month-filter" class="border border-gray-300 rounded px-3 py-1.5 text-sm">
+        <option value="">All Months</option>
+      </select>
+    </div>
+    <div>
+      <label class="text-sm font-medium text-gray-700 block mb-1">View</label>
+      <div class="flex border border-gray-300 rounded overflow-hidden">
+        <button id="view-list" class="px-3 py-1.5 text-sm bg-sfzc-dark text-white">List</button>
+        <button id="view-grid" class="px-3 py-1.5 text-sm bg-white text-gray-700 hover:bg-gray-100">Grid</button>
+      </div>
+    </div>
   </div>
 
-  <div class="space-y-3" id="event-list">
+  <!-- Month navigation -->
+  <div id="month-nav" class="flex items-center gap-4 mb-6" style="display:none;">
+    <button id="prev-month" class="btn btn-dark text-xs py-1 px-3" style="padding: 0.4rem 1rem; font-size: 0.85rem;">&larr; Previous</button>
+    <span id="current-month-label" class="font-bold text-lg text-sfzc-red"></span>
+    <button id="next-month" class="btn btn-dark text-xs py-1 px-3" style="padding: 0.4rem 1rem; font-size: 0.85rem;">Next &rarr;</button>
+  </div>
+
+  <div id="event-list" class="space-y-3">
     {{ range .Pages.ByParam "event_date" }}
       {{ partial "event-card.html" . }}
     {{ end }}
@@ -38,4 +58,112 @@
 
   <p id="no-results" class="hidden text-gray-500 text-center py-8">No events match the selected filters.</p>
 </div>
+
+<script>
+(function() {
+  var cards = document.querySelectorAll('#event-list > div[data-date]');
+  var monthSelect = document.getElementById('month-filter');
+  var monthNav = document.getElementById('month-nav');
+  var monthLabel = document.getElementById('current-month-label');
+  var prevBtn = document.getElementById('prev-month');
+  var nextBtn = document.getElementById('next-month');
+  var viewList = document.getElementById('view-list');
+  var viewGrid = document.getElementById('view-grid');
+  var eventList = document.getElementById('event-list');
+  var noResults = document.getElementById('no-results');
+
+  // Collect unique months from event dates
+  var months = {};
+  cards.forEach(function(card) {
+    var d = card.getAttribute('data-date');
+    if (d) {
+      // Parse dates like "March 15, 2026" or "2026-03-15"
+      var parsed = new Date(d);
+      if (!isNaN(parsed)) {
+        var key = parsed.getFullYear() + '-' + String(parsed.getMonth() + 1).padStart(2, '0');
+        var label = parsed.toLocaleString('en-US', { month: 'long', year: 'numeric' });
+        months[key] = label;
+      }
+    }
+  });
+
+  // Sort and populate month dropdown
+  var sortedKeys = Object.keys(months).sort();
+  sortedKeys.forEach(function(key) {
+    var opt = document.createElement('option');
+    opt.value = key;
+    opt.textContent = months[key];
+    monthSelect.appendChild(opt);
+  });
+
+  var currentMonthIdx = -1; // -1 = all months
+
+  function filterEvents() {
+    var centerFilter = document.querySelector('[data-filter="center"]').value;
+    var typeFilter = document.querySelector('[data-filter="type"]').value;
+    var monthFilter = monthSelect.value;
+    var visible = 0;
+
+    cards.forEach(function(card) {
+      var show = true;
+      if (centerFilter && card.getAttribute('data-center').indexOf(centerFilter) === -1) show = false;
+      if (typeFilter && card.getAttribute('data-type') !== typeFilter) show = false;
+      if (monthFilter) {
+        var d = new Date(card.getAttribute('data-date'));
+        if (!isNaN(d)) {
+          var cardMonth = d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0');
+          if (cardMonth !== monthFilter) show = false;
+        } else {
+          show = false;
+        }
+      }
+      card.style.display = show ? '' : 'none';
+      if (show) visible++;
+    });
+
+    noResults.classList.toggle('hidden', visible > 0);
+
+    // Update month nav label
+    if (monthFilter && months[monthFilter]) {
+      monthLabel.textContent = months[monthFilter];
+      monthNav.style.display = 'flex';
+      currentMonthIdx = sortedKeys.indexOf(monthFilter);
+    } else {
+      monthNav.style.display = 'none';
+      currentMonthIdx = -1;
+    }
+  }
+
+  // Filter listeners
+  document.querySelector('[data-filter="center"]').addEventListener('change', filterEvents);
+  document.querySelector('[data-filter="type"]').addEventListener('change', filterEvents);
+  monthSelect.addEventListener('change', filterEvents);
+
+  // Month navigation
+  prevBtn.addEventListener('click', function() {
+    if (currentMonthIdx > 0) {
+      monthSelect.value = sortedKeys[currentMonthIdx - 1];
+      filterEvents();
+    }
+  });
+  nextBtn.addEventListener('click', function() {
+    if (currentMonthIdx < sortedKeys.length - 1) {
+      monthSelect.value = sortedKeys[currentMonthIdx + 1];
+      filterEvents();
+    }
+  });
+
+  // View toggle (list vs grid)
+  viewList.addEventListener('click', function() {
+    eventList.className = 'space-y-3';
+    viewList.className = 'px-3 py-1.5 text-sm bg-sfzc-dark text-white';
+    viewGrid.className = 'px-3 py-1.5 text-sm bg-white text-gray-700 hover:bg-gray-100';
+  });
+  viewGrid.addEventListener('click', function() {
+    eventList.className = 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4';
+    viewGrid.className = 'px-3 py-1.5 text-sm bg-sfzc-dark text-white';
+    viewList.className = 'px-3 py-1.5 text-sm bg-white text-gray-700 hover:bg-gray-100';
+  });
+})();
+</script>
 {{ end }}
