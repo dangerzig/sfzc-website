@@ -11,7 +11,7 @@
     {{ end }}
     <div class="flex-1">
       <h3 class="font-semibold">
-        <a href="{{ .Permalink }}" class="text-sfzc-red hover:text-sfzc-red-light">{{ .Title }}</a>
+        <a href="{{ .Permalink }}" class="text-sfzc-dark hover:text-sfzc-gold">{{ .Title }}</a>
       </h3>
       <div class="flex flex-wrap items-center gap-2 mt-1 text-sm text-gray-500">
         {{ with .Params.event_type }}
@@ -27,7 +27,7 @@
       {{ with .Params.teacher }}
         {{ $t := site.GetPage (printf "/teachers/%s" .) }}
         {{ with $t }}
-        <p class="text-sm text-gray-500 mt-1">with <a href="{{ .Permalink }}" class="hover:text-sfzc-red">{{ .Title }}</a></p>
+        <p class="text-sm text-gray-500 mt-1">with <a href="{{ .Permalink }}" class="hover:text-sfzc-gold">{{ .Title }}</a></p>
         {{ end }}
       {{ end }}
     </div>

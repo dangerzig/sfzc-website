@@ -74,11 +74,11 @@
 <nav class="bg-sfzc-cream border-b border-gray-200" aria-label="Breadcrumb">
   <div class="max-w-7xl mx-auto px-4 py-2">
     <ol class="flex items-center text-sm text-gray-500 gap-1">
-      <li><a href="{{ .Site.BaseURL }}" class="hover:text-sfzc-red">Home</a></li>
+      <li><a href="{{ .Site.BaseURL }}" class="hover:text-sfzc-gold">Home</a></li>
       {{ range .Ancestors.Reverse }}
       <li class="flex items-center gap-1">
         <span class="text-gray-300">/</span>
-        <a href="{{ .Permalink }}" class="hover:text-sfzc-red">{{ .Title }}</a>
+        <a href="{{ .Permalink }}" class="hover:text-sfzc-gold">{{ .Title }}</a>
       </li>
       {{ end }}
       <li class="flex items-center gap-1">
